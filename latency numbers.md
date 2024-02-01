@@ -24,6 +24,7 @@ E.g.: If we have a long-distance Zoom call, the latency might be around 100 ms.
 E.g: In a monitoring system, the refresh interval is usually set to 5~10 seconds
 
 ![latence show](https://yt3.ggpht.com/wa1j2Yjev_mDLve5mvoB4LamHN86E6b83RwUQ58ek0mu431_2KgBYaRqUvlvs5mj1LMEjCGTiGFrI7c=s800-c-fcrop64=1,026d0000fd92ffff-nd-v1)
+![latence2](./latency.png)
 
 Notes
 -----

@@ -29,9 +29,9 @@ DISC 這四個單字普遍來說肯定不陌生，DISC理論是1920年由美國�
 - **缺點：**吹毛求疵、見樹不見林、不自覺複雜化問題、過度理性
 - **動機：**回歸目的、高品質、精確性
     
-    ![https://todaynews.jwint.net/TodayNews/disc1.jpg](https://todaynews.jwint.net/TodayNews/disc1.jpg)
+    ![pic](./disc1.jpg)
     
-    ![https://todaynews.jwint.net/TodayNews/disc2.jpg](https://todaynews.jwint.net/TodayNews/disc2.jpg)
+    ![pic](./disc2.jpg)
     
 
 **二、適應各類型教戰守則**

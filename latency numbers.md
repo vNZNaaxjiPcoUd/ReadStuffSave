@@ -33,4 +33,4 @@ Notes
 1 ms = 10^-3 seconds = 1,000 us = 1,000,000 ns
 
 --
-Subscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://bit.ly/3KCnWXq
+[original from bytebytego](https://www.youtube.com/@ByteByteGo/community)

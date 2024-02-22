@@ -17,7 +17,7 @@
 - [凤囚凰](https://www.youtube.com/watch?v=z_uq7fNAsi4&list=PLAfof34K3azXa4ttVF_XF5ZplNhTeW5PI)
 - [獨孤天下](https://www.youtube.com/watch?v=95NlBT9wKZk&list=PLn7ueQx7cc2zLmWNzsyb2CDP4K92gwdMI)
 - [灼灼风流](https://www.youtube.com/watch?v=7fd0y2bsi9A&list=PLMX26aiIvX5oHqbBa0SHGY3YyG-Ck8lwT)
-- []()
+- [人間煙火花小廚](https://www.youtube.com/watch?v=otWVdzF3XvU&list=PLMGUWmBBghZwSnNAj-H1zXlMd17ZFqc_J&index=1)
 - []()
 - []()
 - []()

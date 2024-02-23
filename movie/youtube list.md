@@ -1,7 +1,7 @@
 
 
 
-- [🗼直播新聞](https://www.youtube.com/playlist?list=PL9P9juNnx4d4dwmCHJqFfjBiTXtnCtENj)**
+- [🗼直播新聞](https://www.youtube.com/playlist?list=PL9P9juNnx4d4dwmCHJqFfjBiTXtnCtENj)
 - [📜音樂](https://todaynews.jwint.net/news/%E9%9F%B3%E6%A8%82%20a37ec3912f204f56aa1f7917cbfe43b8.html)
 - [🗾有聲書](https://todaynews.jwint.net/news/%E6%9C%89%E8%81%B2%E6%9B%B8%20e19e41b3bef24649bcff007f2905d6af.html)
 - [🛥️唱歌](https://todaynews.jwint.net/news/%E5%94%B1%E6%AD%8C%208f2d86301b654a5b9c7be7daba812a59.html)

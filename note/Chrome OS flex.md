@@ -1,7 +1,11 @@
 
 
-## [install guide](https://support.google.com/chromeosflex/answer/11541904?hl=en&ref_topic=11551271&sjid=8090773319957588820-NA)
+## [install guide](https://support.google.com/chromeosflex/answer/11552529)
+
 
 ## download 
 [https://dl.google.com/chromeos-flex/images/latest.bin.zip](https://dl.google.com/chromeos-flex/images/latest.bin.zip)
 
+```
+sudo dd if=image_name.bin of=/dev/sdN bs=4M status=progress
+```

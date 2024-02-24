@@ -4,7 +4,7 @@
 
 
 ## download 
-[https://dl.google.com/chromeos-flex/images/latest.bin.zip](https://dl.google.com/chromeos-flex/images/latest.bin.zip)
+[bin file](https://dl.google.com/chromeos-flex/images/latest.bin.zip)
 
 ```
 sudo dd if=image_name.bin of=/dev/sdN bs=4M status=progress

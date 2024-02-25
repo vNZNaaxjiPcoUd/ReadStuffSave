@@ -23,7 +23,6 @@
 - [花间喜事](https://www.youtube.com/watch?v=4SkhdYAtQ_c&list=PLsUZkNuEg38Srn0xi8FdRLGHurpDuTfuY&index=1)
 - [相思賦](https://www.youtube.com/watch?v=PskVbn4-ZwI&list=PLsUZkNuEg38Sf8WXSV_OgShH7BEi7p1ov&index=1&t=1357s)
 - [狐仙不如意](https://www.youtube.com/watch?v=ifRuPILT4dM&list=PLsUZkNuEg38T9barwp5B2RFXQpUN_stay&index=1&t=1664s)
-- [逍遥录](https://www.youtube.com/watch?v=l90Yvs9o_fM&list=PLsUZkNuEg38QrYj3rMuFb9NmLwSWH4QBl&index=1&t=715s)
 - [冷面少主独宠妻](https://www.youtube.com/watch?v=QwBeofETRPY&list=PLsUZkNuEg38Rjz8_dGSLKvZCNDvGrvFOX&index=1)
 - [清欢引](https://www.youtube.com/watch?v=LczDLjmy0FM&list=PLO2Wpfuvd4dGAr5QO_CrPE_UtMFOyJT_G&index=1&t=1383s)
 - [传闻中的陈芊芊](https://www.youtube.com/watch?v=71TF3r7yFwg&list=PLMX26aiIvX5qmFwvmqUqmuazLFKjXVztJ&index=1&t=1305s)

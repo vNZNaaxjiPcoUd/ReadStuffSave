@@ -55,6 +55,19 @@
 - [康熙微服私访记3](https://www.youtube.com/watch?v=iNjLwReomWs&list=PLQYV6Nl4UMgj8H0TGR1h7I8DS2Fh5tKGa)
 - [康熙微服私访记 （一）](https://www.youtube.com/watch?v=wQHrHjdEJsk&list=PLtWegeAzGX1P8_RFy_S0CO9HBOJZVfOws)
 - [极道鲜师3](https://www.youtube.com/watch?v=ZX8-ZZpQwRo&list=PLjjPrcjGn31AmA1Ii_rOu9A6xc7rpbwDg&index=2)
+- [小英的故事](https://www.youtube.com/watch?v=ROj7EZ1RmYc&list=PLPUdJbxDORtonwt1XmG_6ujkj68Rt54tE)
+- [倚天屠龍記](https://www.youtube.com/playlist?list=PL8tBpa_is0yxxltL7StW3HQYl5i1pXtXS)
+- [動畫全集馬拉松](https://www.youtube.com/playlist?list=PL12UaAf_xzfoXZRMbLGSEUNQSn_KrJW3h)
+- [笑傲江湖 ](https://www.youtube.com/watch?v=PXR1X9s3Za8&list=PLKgQAFMpjtUaDTHMss-P1LVW33FTEamxx)
+- [大時代](https://www.youtube.com/watch?v=sV0fXEWYiWc&list=PL9K8ksI6u3023OMdy4LYEguIFH1WPEU1U)
+- [忍者亂太郎](https://www.youtube.com/playlist?list=PLDfDiflGwSuXT6CoJ2VfT76AuqwWuTMLZ)
+- [花家の故事](https://www.youtube.com/playlist?list=PLDfDiflGwSuX-Cw_7sG0-Ydg0QgZU9Pad)
+- [鹿鼎记 ](https://www.youtube.com/watch?v=nBTNCWiPTi4&list=PLSIJismKOisGveBxmA1OzJ_AyXKev79JN)
+- [天龙八部](https://www.youtube.com/watch?v=2sF8VJQzpZw&list=PLSIJismKOisFt3AB6ipkKWBOaRi8atLQY)
+- [卫子夫](https://www.youtube.com/watch?v=8b3MDKEVbEg&list=PLSIJismKOisE9PugvK1CytA779VnBkjpS)
+- [糊涂县令郑板桥](https://www.youtube.com/watch?v=Ne-CymbbGyw&list=PLSIJismKOisGZclPziO56RdJAaK0UIMgK)
+- [新西游记](https://www.youtube.com/watch?v=hllpFKrhFEc&list=PLSIJismKOisETsHhPq4Lg5tLB5L9pdRmP)
+- [绍兴师爷](https://www.youtube.com/watch?v=e9WkHl1FfEQ&list=PLSIJismKOisGazPfluQa7fp3eOep5LhQ3)
 - []()
 - []()
 - []()
@@ -65,4 +78,30 @@
 - []()
 - []()
 - []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

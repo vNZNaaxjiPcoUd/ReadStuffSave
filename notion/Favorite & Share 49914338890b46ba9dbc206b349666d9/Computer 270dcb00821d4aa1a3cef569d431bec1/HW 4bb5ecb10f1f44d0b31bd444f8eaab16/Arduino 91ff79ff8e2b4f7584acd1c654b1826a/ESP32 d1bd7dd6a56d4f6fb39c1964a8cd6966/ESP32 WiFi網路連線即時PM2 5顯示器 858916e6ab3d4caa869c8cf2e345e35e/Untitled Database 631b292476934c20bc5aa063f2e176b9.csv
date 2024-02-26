@@ -1,0 +1,5 @@
+﻿名稱,說明,語法
+WIFI_STA,以工作站（Station）模式啟動，ESP32用來上網讀取資料，此為預設模式,WiFi.mode(WIFI_STA);
+WIFI_AP,以熱點（Access Point）模式啟動，讓其他裝置連入ESP32,WiFi.mode(AP);
+WIFI_AP_STA,混合模式，同時當熱點也當作工作站,WiFi.mode(WIFI_AP_STA);
+WIFI_OFF,關閉網路，可用於網路不正常時，重啟網路,WiFi.mode(WIFI_OFF);

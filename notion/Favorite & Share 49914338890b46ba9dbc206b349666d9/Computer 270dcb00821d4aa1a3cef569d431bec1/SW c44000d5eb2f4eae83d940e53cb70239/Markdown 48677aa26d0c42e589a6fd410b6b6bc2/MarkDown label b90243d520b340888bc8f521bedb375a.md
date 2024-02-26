@@ -73,7 +73,7 @@ code block as var i = 0;
  var i = 0; 
  ```
 smile icon	 :smile:
-Externals	 {%youtube q56LIQaTyME %}
+Externals	 『%youtube q56LIQaTyME %}
 LaTeX	         $L^aT_eX$
 alert area.
  :::info

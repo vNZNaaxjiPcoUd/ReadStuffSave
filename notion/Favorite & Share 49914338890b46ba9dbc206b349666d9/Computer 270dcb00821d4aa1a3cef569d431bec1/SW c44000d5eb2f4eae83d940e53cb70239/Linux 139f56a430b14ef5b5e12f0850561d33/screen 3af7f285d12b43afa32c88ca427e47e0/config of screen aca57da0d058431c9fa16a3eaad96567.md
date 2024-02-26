@@ -288,5 +288,5 @@ register t "^aA^aa^k^h"                                 #     | Goes with the F8
 bindkey -k k8 process t                                 # F8  | Re-title a window
 
 caption always "%-w%<%{=B GK}%n %t%{= KW}%+w"
-hardstatus alwayslastline "%{=b BW} {%l}%018=%{=b WK} %n %t %-029=%{YK} %Y %M %d(%D) %{RW} %C %A"
+hardstatus alwayslastline "%{=b BW} 『%l}%018=%{=b WK} %n %t %-029=%{YK} %Y %M %d(%D) %{RW} %C %A"
 ```

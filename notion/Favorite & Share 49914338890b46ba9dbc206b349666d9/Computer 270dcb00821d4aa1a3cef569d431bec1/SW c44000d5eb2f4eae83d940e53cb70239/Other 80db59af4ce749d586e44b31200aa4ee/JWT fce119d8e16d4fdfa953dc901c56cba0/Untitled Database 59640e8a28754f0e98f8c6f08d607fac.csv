@@ -1,0 +1,3 @@
+﻿Property,JWS,JWE
+Producer,Private-key,Public-key
+Consumer,Public-key,Private-key

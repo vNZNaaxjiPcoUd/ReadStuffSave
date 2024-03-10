@@ -38,6 +38,6 @@ CPU Benchmark
 
 
 
-- [anitas](https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_inspiron_laptop/inspiron-15-7559-laptop_reference%20guide_en-us.pdf)
+- [inspiron-15-7559 game NB](https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_inspiron_laptop/inspiron-15-7559-laptop_reference%20guide_en-us.pdf)
 - [Inspiron 15 3520](https://www.dell.com/support/manuals/en-us/inspiron-15-3520-laptop/inspiron_3520_ss/processor?guid=guid-3fa8a438-c8cd-4d01-b101-3924958b26fe&lang=en-us)
 

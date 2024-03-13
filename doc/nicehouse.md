@@ -4,4 +4,5 @@ collect nice house in web
 - [sky reserve](https://www.zillow.com/apartments/brandon-fl/skye-reserve/5XhzCH/)
 - [Dockside Condominiums ](https://www.zillow.com/homedetails/2780-N-Riverside-Dr-APT-503-Tampa-FL-33602/45105019_zpid/)https://www.zillow.com/homedetails/2780-N-Riverside-Dr-APT-503-Tampa-FL-33602/45105019_zpid/
 - [Nexus Brandon Apartments ](https://www.zillow.com/apartments/brandon-fl/nexus-brandon-apartments-llc/BjSfrk/)https://www.zillow.com/apartments/brandon-fl/nexus-brandon-apartments-llc/BjSfrk/
+- [Ranch Rd, Brandon, FL 33511, 9.45 Acres land ](https://www.zillow.com/homedetails/Ranch-Rd-Brandon-FL-33511/2056205288_zpid/)https://www.zillow.com/homedetails/Ranch-Rd-Brandon-FL-33511/2056205288_zpid/
 - 

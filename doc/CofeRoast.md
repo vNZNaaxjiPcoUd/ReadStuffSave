@@ -14,8 +14,10 @@
 烘焙程度：淺焙有較多水果風味及酸質；中焙有較多甜味；深焙醇厚度高、苦味較明顯，且風味的複雜度較低（也因此有許多精品豆烘豆師，會傾向選擇淺至中焙來烘焙）。但這不僅影響風味，越深焙的咖啡，在沖煮時物質釋放的越快。
 
 ## Size of espresso
-
-![s](./SizeOfEspresso.png)
+- Solo = 0.75 fl oz
+- Doppio = 1.5 fl oz
+- Triple = 2.25 fl oz
+- Quad = 3 fl oz
 
 1 fl oz = 29.6 cc
 

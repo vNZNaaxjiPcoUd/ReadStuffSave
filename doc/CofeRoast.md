@@ -11,3 +11,9 @@
 | 法式烘焙 | French roast | 19-21 | 26-35 |  二爆尾聲 |
 | 義式烘焙 | Italian roast | 21-23 | 18-25 |  二爆結束 |
 
+
+Size of espresso
+![s](./SizeOfEspresso.png)
+
+1 fl oz = 29.6 cc
+

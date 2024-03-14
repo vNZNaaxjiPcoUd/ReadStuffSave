@@ -1,4 +1,4 @@
-## 咖啡烘焙程度
+## 烘焙
 
 | 焙度  | 英文對照 | 出豆時機 |
 | :---: | :---: |  :---: |
@@ -13,15 +13,6 @@
 
 烘焙程度：淺焙有較多水果風味及酸質；中焙有較多甜味；深焙醇厚度高、苦味較明顯，且風味的複雜度較低（也因此有許多精品豆烘豆師，會傾向選擇淺至中焙來烘焙）。但這不僅影響風味，越深焙的咖啡，在沖煮時物質釋放的越快。
 
-## Size of espresso
-- Solo = 0.75 fl oz
-- Doppio = 1.5 fl oz
-- Triple = 2.25 fl oz
-- Quad = 3 fl oz
-
-1 fl oz = 29.6 cc
-
-## Roast
 
 | 程度    | 特色    |
 | --- | --- |
@@ -29,6 +20,14 @@
 | ![](https://decentpicks.com/wp-content/uploads/2023/05/3.jpg)<br>City  <br>![](https://decentpicks.com/wp-content/uploads/2023/05/4.jpg)<br>Medium | **中度烘焙**  <br>* 适合冷萃、手冲、滴滤<br>* 颜色中棕<br>* 比浅烘焙略甜<br>* 口味、香气和酸度平衡<br>* **酸度**：★ ★ ★ ☆<br>* **苦味**：★ ★ ☆ ☆<br>* **油腻**：★ ★ ☆ ☆ |
 | ![](https://decentpicks.com/wp-content/uploads/2023/05/5.jpg)<br>Full City  <br>![](https://decentpicks.com/wp-content/uploads/2023/05/6.jpg)<br>Dark | **中深烘焙**  <br>* 适合意式浓缩、法压<br>* 颜色浓郁，表面少许油脂<br>* 苦中带甜的余韵<br>* 口味香气浮现，酸度逐渐消失<br>* **酸度**：★ ★ ☆ ☆<br>* **苦味**：★ ★ ★ ☆<br>* **油腻**：★ ★ ★ ☆ |
 | ![](https://decentpicks.com/wp-content/uploads/2023/05/7.jpg)<br>French  <br>![](https://decentpicks.com/wp-content/uploads/2023/05/8.jpg)<br>Italian | **深度烘焙**  <br>* 最适合意式浓缩<br>* 漆黑发亮，表面油腻<br>* 明显的苦味<br>* 原始风味消失、烘焙味道突出<br>* **酸度**：★ ☆ ☆ ☆<br>* **苦味**：★ ★ ★ ★<br>* **油腻**：★ ★ ★ ★ |
+
+## Size of espresso
+- Solo = 0.75 fl oz
+- Doppio = 1.5 fl oz
+- Triple = 2.25 fl oz
+- Quad = 3 fl oz
+
+1 fl oz = 29.6 cc
 
 ## 豆種
 

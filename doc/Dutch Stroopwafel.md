@@ -1,4 +1,4 @@
-Dutch Stroopwafel Recipe (with video)
+Dutch Stroopwafel Recipe
 =====================================
 
 Dutch Stroopwafels don’t need any introduction. These caramel-filled waffle cookies are wildly popular and available in many US markets. Just wait until you’ve tasted a freshly-baked, homemade stroopwafel. Wow!

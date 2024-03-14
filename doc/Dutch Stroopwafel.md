@@ -54,4 +54,4 @@ Make an assembly line with the dough, waffle maker, filling, utensils and a clea
 
 ![](https://www.baking-sense.com/wp-content/uploads/2022/02/stroop-wafels-10a.jpg)
 
-### Watch the recipe video to watch me bake and fill stroopwafels.
+

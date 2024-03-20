@@ -122,6 +122,9 @@ header h2 {
   text-align: center;
 }
 
+td {
+  vertical-align: bottom;
+}
 
 aside#sidebar {
   width: 200px;

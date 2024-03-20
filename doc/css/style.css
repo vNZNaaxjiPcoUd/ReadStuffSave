@@ -95,13 +95,13 @@ header h2 {
 
 .editor { 
     width: 380px;
-    height: 900px;
+    height: 600px;
     font-size: 14px;
 }
 
 .editor-wrapper {
     width: 380px;
-    height: 900px;
+    height: 600px;
 }
 
 .gh-forkme {

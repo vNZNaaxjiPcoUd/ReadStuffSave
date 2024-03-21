@@ -26,7 +26,7 @@ Over the years, Microrepo has had more supported tools, including Maven and Grad
  
 Over to you: Which option do you think is better? Which code repository strategy does your company use? 
 
-![allcodeinone.png](./allcodeinone.png)
+![allcodeinone.png](./pic/allcodeinone.png)
 
 -- 
 Subscribe to our weekly newsletter to get a Free System Design PDF (158 pages): https://bit.ly/3KCnWXq

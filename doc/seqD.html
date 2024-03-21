@@ -101,6 +101,8 @@ B->A:Check your bill.
 
             // Draw
             diagram.drawSVG(diagram_div.get(0), options);
+            const scrollingElement = (document.scrollingElement || document.body);
+            $(scrollingElement).animate({scrollTop: document.body.scrollHeight,}, 500);
 
           } catch(err) {
             var annotation = {

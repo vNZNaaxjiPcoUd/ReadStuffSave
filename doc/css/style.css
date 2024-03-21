@@ -126,6 +126,9 @@ header h2 {
   vertical-align: bottom;
 }
 
+.e_top {
+  vertical-align: top;
+}
 aside#sidebar {
   width: 200px;
   padding-left: 20px;

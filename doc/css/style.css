@@ -96,12 +96,12 @@ header h2 {
 .editor { 
     width: 380px;
     font-size: 14px;
-    height: 3000px;
+    height: 600px;
 }
 
 .editor-wrapper {
     width: 380px;
-    height: 3000px;
+    height: 600px;
 }
 
 .gh-forkme {

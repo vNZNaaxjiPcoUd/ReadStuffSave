@@ -1,6 +1,6 @@
 ---
 short_name: lt
-name: lt vk
+name: lt La
 position: Chief Editor
 ---
 

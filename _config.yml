@@ -5,3 +5,13 @@ collections:
     output: true
     
     
+defaults:
+  - scope:
+      path: ""
+      type: "news"
+    values:
+      layout: "new"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

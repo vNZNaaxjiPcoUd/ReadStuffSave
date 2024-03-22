@@ -1,0 +1,12 @@
+---
+layout: default
+title: News
+---
+
+<ul>
+  {% for p in site.authors %}
+    <li>
+      <h2>{{ p.name }}</h2>
+    </li>
+  {% endfor %}
+</ul>

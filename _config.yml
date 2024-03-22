@@ -1,4 +1,7 @@
 collections:
   authors:
     output: true
+  news:
+    output: true
+    
     

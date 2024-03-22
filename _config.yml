@@ -1,2 +1,4 @@
 collections:
   authors:
+    output: true
+    

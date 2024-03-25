@@ -9,9 +9,9 @@ defaults:
   - scope:
       path: ""
       type: "news"
-    values:
+      values:
       layout: "new"
   - scope:
       path: ""
-    values:
+      values:
       layout: "default"

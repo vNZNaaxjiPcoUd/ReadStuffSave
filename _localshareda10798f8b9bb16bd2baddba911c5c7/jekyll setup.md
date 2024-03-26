@@ -12,7 +12,35 @@
 # layout
 _layouts is the file that create some template for layout. default.html is the general for all if the template is not assigned. 
 
+# _config.yml
+must follow the yml format
+```
+collections:
+  authors:
+    output: true
+  news:
+    output: true
+  localshareda10798f8b9bb16bd2baddba911c5c7:
+    output: true
+    
+    
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+```
+
 
 # ref
 [https://jekyllrb.com/docs/step-by-step/09-collections/](https://jekyllrb.com/docs/step-by-step/09-collections/)
+[Liquid](https://shopify.github.io/liquid/basics/introduction/)
+
+
 

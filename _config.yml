@@ -12,12 +12,12 @@ defaults:
       path: ""
       type: "news"
       values:
-      layout: "new"
+      layout: "news"
   - scope:
       path: ""
       type: "localshareda10798f8b9bb16bd2baddba911c5c7"
       values:
-      layout: "new"
+      layout: "default"
   - scope:
       path: ""
       values:

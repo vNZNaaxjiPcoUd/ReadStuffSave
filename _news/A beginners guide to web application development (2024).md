@@ -2,9 +2,9 @@
 ---
 # A beginners guide to web application development (2024)
 
-![](https://budibase.com/img/team/joe.webp) By Joe Johnston
 
-![Guide to web application development](https://budibase.com/web-application-development/guide-to-web-application-development.jpg)
+
+
 
 It was the year 2010, I had an idea for a web application which would allow my family and I to share images, organise shopping, populate a shared calendar, and store bills. My family was terribly disorganised. We needed this!
 

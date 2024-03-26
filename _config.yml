@@ -15,3 +15,8 @@ defaults:
       path: ""
       values:
       layout: "default"
+  - scope:
+      path: ""
+      type: "localshare"
+      values:
+      layout: "default"

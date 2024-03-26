@@ -1,0 +1,12 @@
+---
+layout: default
+title: Local
+---
+
+<ul>
+  {% for p in site.localshare %}
+    <li>
+      <p><a href="{{ p.url }}">{{ p.title }}</a></p>
+    </li>
+  {% endfor %}
+</ul>

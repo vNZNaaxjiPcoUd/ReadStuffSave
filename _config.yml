@@ -10,15 +10,25 @@ collections:
 defaults:
   - scope:
       path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
       type: "news"
-      values:
+    values:
       layout: "news"
   - scope:
       path: ""
       type: "localshareda10798f8b9bb16bd2baddba911c5c7"
-      values:
+    values:
       layout: "default"
   - scope:
       path: ""
-      values:
+    values:
       layout: "default"

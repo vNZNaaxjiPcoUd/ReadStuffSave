@@ -39,8 +39,9 @@ defaults:
 
 
 # ref
-[https://jekyllrb.com/docs/step-by-step/09-collections/](https://jekyllrb.com/docs/step-by-step/09-collections/)
-[Liquid](https://shopify.github.io/liquid/basics/introduction/)
+- [https://jekyllrb.com/docs/step-by-step/09-collections/](https://jekyllrb.com/docs/step-by-step/09-collections/)
+- [Liquid](https://shopify.github.io/liquid/basics/introduction/)
+- [variable](https://jekyllrb.com/docs/variables/)
 
 
 

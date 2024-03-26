@@ -3,6 +3,8 @@ collections:
     output: true
   news:
     output: true
+  localshare:
+    output: true
     
     
 defaults:

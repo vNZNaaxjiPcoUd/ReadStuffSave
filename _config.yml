@@ -13,10 +13,10 @@ defaults:
       layout: "new"
   - scope:
       path: ""
+      type: "localshare"
       values:
       layout: "default"
   - scope:
       path: ""
-      type: "localshare"
       values:
       layout: "default"

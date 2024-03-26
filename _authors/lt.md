@@ -1,6 +1,6 @@
 ---
-short_name: lt
-name: lt La
+short_name: t
+name: t
 position: Chief Editor
 ---
 

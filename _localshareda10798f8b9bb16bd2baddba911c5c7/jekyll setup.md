@@ -12,3 +12,7 @@
 # layout
 _layouts is the file that create some template for layout. default.html is the general for all if the template is not assigned. 
 
+
+# ref
+https://jekyllrb.com/docs/step-by-step/09-collections/
+

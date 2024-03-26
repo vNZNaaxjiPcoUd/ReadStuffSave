@@ -17,7 +17,7 @@ defaults:
       path: ""
       type: "localshareda10798f8b9bb16bd2baddba911c5c7"
       values:
-      layout: "default"
+      layout: "new"
   - scope:
       path: ""
       values:

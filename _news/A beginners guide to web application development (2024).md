@@ -3,19 +3,6 @@
 # A beginners guide to web application development (2024)
 
 
-
-
-
-It was the year 2010, I had an idea for a web application which would allow my family and I to share images, organise shopping, populate a shared calendar, and store bills. My family was terribly disorganised. We needed this!
-
-This idea was going to make me 💰💰💰.
-
-There was a small complication with my vision - I didn’t know how to build a web application. But thankfully, I could build a static site with HTML and CSS so it couldn’t be that hard, right?
-
-I was wrong, I spent 3 days attempting to learn how a database worked and how to connect the frontend to the backend. Those 3 days were tough and the end of my dream. I was defeated.
-
-Thankfully, this did not deter me. Over the following 9 years I developed over 20 web applications. This guide is my gift to my 2010 self, and to other beginners.
-
 ## What is this guide and how will it help me?
 
 The web application development landscape is capricious in nature and often seen as a dark art to many ’non-coders’. The lexicon surrounding the ‘dark art’ makes it less approachable, and in many ways deterring to hopefuls. I promise you, this guide is not like that.

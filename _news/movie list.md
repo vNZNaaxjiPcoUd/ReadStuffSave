@@ -1,7 +1,10 @@
 ---
 ---
 
-Youtube List
+Youtube serial list
+- [贵女荣华](https://www.youtube.com/playlist?list=PLtoW4yqvbT_ifLZ2sAkofix3OdZL3r6A3)
+- [帝台娇](https://www.youtube.com/playlist?list=PLtoW4yqvbT_h9815VUsfv1h0UiIcRLXdi)
+- [锦绣皇妃](https://www.youtube.com/playlist?list=PLtoW4yqvbT_gGdaZXbjnvO5W0jeDlM9e1)
 - [长陵纪](https://www.youtube.com/playlist?list=PLtoW4yqvbT_iXBmL1p_lXg7b2PqBRko6D)
 - [迪斯奈直播](https://www.youtube.com/watch?v=3-Y-KbBypJ8)
 - [千古玦尘](https://www.youtube.com/watch?v=vhDjZoe8pts&list=PLb8w8KsDSK1xjiPSBpAevyfSxgiotHBaE&index=5)
@@ -75,37 +78,4 @@ Youtube List
 - [绍兴师爷](https://www.youtube.com/watch?v=e9WkHl1FfEQ&list=PLSIJismKOisGazPfluQa7fp3eOep5LhQ3)
 - [將夜](https://www.youtube.com/playlist?list=PLMX26aiIvX5qn5lsoE43o9F1kT50N6guF)
 - [星漢](https://www.youtube.com/watch?v=qovWvkObhTE&list=PLj47rlCN0EwCVJUso3X3O1oX1Crsh4_Jd)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

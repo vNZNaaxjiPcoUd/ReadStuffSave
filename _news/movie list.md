@@ -2,6 +2,7 @@
 ---
 
 Youtube List
+- [长陵纪](https://www.youtube.com/playlist?list=PLtoW4yqvbT_iXBmL1p_lXg7b2PqBRko6D)
 - [迪斯奈直播](https://www.youtube.com/watch?v=3-Y-KbBypJ8)
 - [千古玦尘](https://www.youtube.com/watch?v=vhDjZoe8pts&list=PLb8w8KsDSK1xjiPSBpAevyfSxgiotHBaE&index=5)
 - [風起霓裳](https://www.youtube.com/watch?v=Rp7c8xRwqrI&list=PLb8w8KsDSK1zXo3IHbgl6lzQFSAMYpTkB&index=1&t=200s)

@@ -3,7 +3,7 @@ collections:
     output: true
   news:
     output: true
-  localshare:
+  localshareda10798f8b9bb16bd2baddba911c5c7:
     output: true
     
     
@@ -15,7 +15,7 @@ defaults:
       layout: "new"
   - scope:
       path: ""
-      type: "localshare"
+      type: "localshareda10798f8b9bb16bd2baddba911c5c7"
       values:
       layout: "default"
   - scope:

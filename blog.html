@@ -7,7 +7,7 @@ title: Blog
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2>{{ post.date | date_to_string}} {{ post.title }} {{post.url}}</h2>
+      <h2>{{ post.date | date_to_string}} {{ post.title }}</h2>
       {{ post.excerpt }}
     </li>
   {% endfor %}

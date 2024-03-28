@@ -1,4 +1,5 @@
       {{ post.content }}
+      {{ post.excerpt }}
 
 
 source              : .

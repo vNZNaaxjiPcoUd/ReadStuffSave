@@ -282,3 +282,6 @@ Copy
    （短路求值是一种逻辑运算符的求值策略，又称最小化求值（Minimal evaluation））
 5. [APT Update Error: Public Key is N/A | This](https://muwaii.com/posts/apt-update-error-public-key-not-available#better-answer)[⤴](https://muwaii.com/posts/if-conditional-statements-in-shell#to_footnote_5)  
    （剖析了 Debian 系统 apt-key 脚本的系统实现）
+
+
+..

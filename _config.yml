@@ -7,7 +7,8 @@ collections:
   localshareda10798f8b9bb16bd2baddba911c5c7:
     output: true
   case2:
-    output: true    
+    output: true
+    
     
 defaults:
   - scope:

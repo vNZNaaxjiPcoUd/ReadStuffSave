@@ -8,11 +8,9 @@
 - [正在提交](https://web.dev/articles/pwas-in-app-stores#submitting)
 - [例子](https://web.dev/articles/pwas-in-app-stores#example)
 
-![Thomas Steiner](https://web.dev/images/authors/thomassteiner.jpg)
 
-Thomas Steiner
 
-[](https://twitter.com/tomayac) [](https://github.com/tomayac) [](https://glitch.com/@tomayac) [](https://www.linkedin.com/in/thomassteinerlinkedin) [](https://toot.cafe/@tomayac) [](https://blog.tomayac.com/)
+
 
 PWA 可以透過 Web 瀏覽器訪問，但也可以安裝在使用者的主畫面上，如[提供可安裝體驗](https://web.dev/explore/progressive-web-apps#provide-an-installable-experience)部分的文章所述。然而，PWA 面臨的挑戰之一是將它們分發到應用程式商店。這就是[PWABuilder 的](https://pwabuilder.com/)用武之地。PWABuilder  
 是一個功能強大的工具，讓開發人員可以建立可以提交到各種應用程式商店的套件：

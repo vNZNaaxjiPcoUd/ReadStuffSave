@@ -3,12 +3,12 @@ layout: default
 title: Blog
 ---
 <h1>故事</h1>
-
+<br>
 <ul>
   {% for post in site.posts %}
     <li>
       <h3>{{ post.date | date_to_string}} {{ post.title }}</h3>
-      {{ post.content }}
+
     </li>
   {% endfor %}
 </ul>

@@ -6,7 +6,8 @@ collections:
     output: true
   localshareda10798f8b9bb16bd2baddba911c5c7:
     output: true
-    
+  case:
+    output: true    
     
 defaults:
   - scope:
@@ -19,6 +20,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "case"
+    values:
+      layout: "case"
   - scope:
       path: ""
       type: "news"

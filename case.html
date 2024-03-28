@@ -5,9 +5,20 @@ title: case
 <h2>故事</h2>
 <br>
 <ul>
-  {% for p in site.case %}
+  {% for p in site.case2 %}
     <li>
       <h3>{{ p.title }}</h3>
+    </li>
+  {% endfor %}
+</ul>
+
+
+
+<br>
+<ul>
+  {% for p in site.localshareda10798f8b9bb16bd2baddba911c5c7 %}
+    <li>
+      <p><a href="{{ p.url }}">{{ p.title }}</a></p>
     </li>
   {% endfor %}
 </ul>

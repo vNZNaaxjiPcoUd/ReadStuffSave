@@ -10,3 +10,8 @@ data_dir            : _data
 includes_dir        : _includes
 
 encoding            : "utf-8"
+
+
+
+      <h3>{{ p.date | date_to_string}} {{ p.title }}</h3>
+      {{ p.content }}

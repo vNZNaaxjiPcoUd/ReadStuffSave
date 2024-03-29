@@ -6,28 +6,33 @@
 
 特别是在linux调整分区后，开机重启时会出现  
 error : unknow filesystem  
-grub rescue>  
+```grub rescue>```  
 的字样，系统就是进不去。这表示你的grub2的配置文件坏了……由于分区调整或分区UUID改变造成grub2不能正常启动，从而进入修复模式了（grub rescue)，也称救援模式。
 
 在救援模式下只有很少的命令可以用：set , ls , insmod , root , prefix
 
 复制代码
 
-`(1)set  查看环境变量，这里可以查看启动路径和分区。 (2)ls   查看设备 (3)insmod  加载模块 (4)root  指定用于启动系统的分区,在救援模式下设置grub启动分区 (5)prefix 设定grub启动路径`
+(1)set  查看环境变量，这里可以查看启动路径和分区。 
+(2)ls   查看设备 
+(3)insmod  加载模块 
+(4)root  指定用于启动系统的分区,在救援模式下设置grub启动分区 
+(5)prefix 设定grub启动路径
 
 具体修复步骤如下：
 
-- 1、查看分区：grub rescue> ls 回车  
+- 1、查看分区：```grub rescue> ls ```回车  
   会出现如下字样：
 
 (hd0) (hd0,msdos9) (hd0,msdos8) (hd0,msdos7) (hd0,msdos6) (hd0,msdos5) (hd0,msdos2) (hd0,msdos1)
 
-注：上面是我的分区设备，每个人可能不一样，但原理都是一样的。grub> find /boot/grub/grub.conf 也行
+注：上面是我的分区设备，每个人可能不一样，但原理都是一样的。
+```grub> find /boot/grub/grub.conf``` 也行
 
 - 2、寻找ubuntu所在分区：  
   （就是寻找你的Linux系统是装在以上哪个分区里）
 
-grub rescue> ls (hd0,msdos1)/
+```grub rescue> ls (hd0,msdos1)/```
 
 若出现unknown filesystem字样，则尝试下一个……若出现的是你的ubuntu主文件夹下的文件夹和文件的名字，那就是的要找的分区了。
 
@@ -90,7 +95,7 @@ sudo dd if=ubuntu-13.10-desktop-amd64.iso of=/dev/sdb1
 - 1.使用启动 USB 进入 Ubuntu 试用环境
 
 - 2.查看硬盘分区状况，获取 Linux 系统安装分区编号  
-  `sudo fdisk -l`
+  ```sudo fdisk -l```
 
 查看输出结果，然后根据文件类型和分区大小来判定 Linux 系统安装在哪块硬盘和安装的分区。我的电脑是在/dev/sda3安装了 Ubuntu。  
 或者，打开 Gparted 图形化工具来查看分区信息也可以。  
@@ -115,7 +120,7 @@ sudo mount --bind /sys /mnt/sys
 - 5.Chroot 到硬盘上的 Linux 系统  
   代码如下：
 
-`sudo chroot /mnt` chroot命令把根目录切换到指定目录下
+```sudo chroot /mnt``` chroot命令把根目录切换到指定目录下
 
 - 6.安装&更新 Grub
 
@@ -149,9 +154,9 @@ sudo umount /mnt
 ```
 
 先找到menu.lst菜单文件：  
-`find --set-root /boot/grub/menu.lst  `
+```find --set-root /boot/grub/menu.lst  ```
 然后加载：  
-Grub 命令索引`configfile /boot/grub/menu.lst`  
+Grub 命令索引```configfile /boot/grub/menu.lst``` 
 菜单文件可以换成grub.conf试试。
 
 －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－

@@ -6,7 +6,7 @@ title: case
 <br>
 
 <ul>
-  {% for p in site.case2 %}
+  {% for p in site.case2 reversed %}
     <li>
       <p><h3>{{ p.title }}</h3><h4>   {{ p.date | date_to_string}}</h4></p>
       {{ p.content }}

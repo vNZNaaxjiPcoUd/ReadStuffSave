@@ -2,8 +2,6 @@
 
 ---
 
-
-
 - `Host`：ssh 要連的代號名稱。
 - `Hostname`：IP 或 Domain Name。
 - `Port`：要連進去的 Port 號，ssh 沒改的話，預設 Port 號是 `22`。

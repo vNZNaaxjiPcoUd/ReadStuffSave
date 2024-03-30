@@ -1,0 +1,4 @@
+---
+layout: shorturl
+go: 
+---

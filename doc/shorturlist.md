@@ -8,8 +8,7 @@ title: shorturl
 <ul>
   {% for p in site.shorturl reversed %}
     <li>
-      <p>{{ p.name }} <a href="https://aa.jwint.net/{{ p.title | slugify: "ascii" }}">{{ p.title }}</a></p>
-      {{ p.name }}
+      <p><a href="https://aa.jwint.net/{{ p.title | slugify: "ascii" }}">{{ p.title }} {{ p.name }} </a></p>
     </li>
   {% endfor %}
 </ul>

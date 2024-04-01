@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: linkNewTab
 title: shorturl
 ---
 

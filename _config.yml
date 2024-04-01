@@ -8,6 +8,9 @@ collections:
     output: true
   case2:
     output: true
+  shorturl:
+    output: true
+
     
     
 defaults:
@@ -36,6 +39,11 @@ defaults:
       type: "localshareda10798f8b9bb16bd2baddba911c5c7"
     values:
       layout: "localshare"
+  - scope:
+      path: ""
+      type: "shorturl"
+    values:
+      layout: "shorturl"
   - scope:
       path: ""
     values:

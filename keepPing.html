@@ -9,9 +9,10 @@
 <script>
     function showTime() {
       const currentDate = new Date();
-      const timestamp = currentDate.getTime();
+      const timestamp = currentDate.toLocaleString();
       let labelElement = document.getElementById("labelWithHTML");
       labelElement.innerHTML = timestamp;
+    }
 
 </script>
 

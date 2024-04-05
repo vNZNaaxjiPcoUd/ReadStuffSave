@@ -66,6 +66,16 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
   {% for p in site.shorturl %}
       <a href="{{ p.url }}" }}">{{ p.name }}</a> , 
   {% endfor %}
+<h2>news</h2>
+  <p>🍀
+  {% for p in site.news %}
+      <a href="{{ p.url }}" }}">{{ p.title }}</a> , 
+  {% endfor %}
+<h2>Blog</h2>
+  <p>🍀
+  {% for p in site.posts %}
+      <a href="{{ p.url }}" }}">{{ post.date | date_to_string}}</a> , 
+  {% endfor %}
 🍀</p>	  
   </div>
 </body>

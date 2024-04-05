@@ -61,6 +61,12 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
       <a href="{{ p.url }}" }}">{{ p.title }}</a> , 
   {% endfor %}
 🍀</p>	  
+<h2>Local Share</h2>
+  <p>🍀
+  {% for p in site.s %}
+      <a href="{{ p.url }}" }}">{{ p.name }}</a> , 
+  {% endfor %}
+🍀</p>	  
   </div>
 </body>
 </html>

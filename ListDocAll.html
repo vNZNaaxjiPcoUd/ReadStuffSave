@@ -6,7 +6,7 @@
 <head>
     <!-- 123 -->
     <base target="_blank">
-    <meta http-equiv="refresh" content="1800">
+    <meta http-equiv="refresh" content="600">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -49,12 +49,13 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
 <label id="labelWithHTML">Initial Text</label><br>
   <div class="container-lg px-3 my-5 markdown-body">
 　<p>{{ site.time }}</p>
-  <p>🍀
+<h2>Doc list</h2>
+<p>🍀
   {% for p in site.pages %}
       <a href="{{ p.url }}" }}">{{ p.name }}</a> , 
   {% endfor %}
 🍀</p>
-
+<h2>Local Share</h2>
   <p>🍀
   {% for p in site.localshareda10798f8b9bb16bd2baddba911c5c7 %}
       <a href="{{ p.url }}" }}">{{ p.title }}</a> , 
@@ -62,5 +63,4 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
 🍀</p>	  
   </div>
 </body>
-
 </html>

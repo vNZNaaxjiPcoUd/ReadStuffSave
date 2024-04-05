@@ -51,7 +51,7 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
 　<p>{{ site.time }}</p>
 <h2>Doc list</h2>
 <p>🍀
-  {% for p in site.pages | sort %}
+  {% for p in site.pages | sort : "name" %}
       <a href="{{ p.url }}" }}">{{ p.name }}</a> , 
   {% endfor %}
 🍀</p>

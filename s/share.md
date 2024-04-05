@@ -1,4 +1,4 @@
 ---
 layout: shorturl
-go: https://s.jwint.net/localshare
+go: https://s.jwint.net/ListDocAll
 ---

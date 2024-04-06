@@ -1,4 +1,4 @@
 ---
 layout: shorturl
-go: https://vnzn.jwint.net/Notes/new/www/doc
+go: https://v.jwint.net/A_doc_create
 ---

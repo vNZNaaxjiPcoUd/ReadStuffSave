@@ -1,4 +1,4 @@
 ---
 layout: shorturl
-go: https://v.jwint.net/A_doc_create
+go: https://go.jwint.net/A_doc_create
 ---

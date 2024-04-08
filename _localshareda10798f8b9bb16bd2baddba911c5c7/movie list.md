@@ -2,6 +2,7 @@
 ---
 
 Youtube serial list
+- [微雨燕双飞](https://www.youtube.com/playlist?list=PLhnjbkseqMESR7FtYQidkYDieGvQEWJqf)
 - [热血长安](https://www.youtube.com/playlist?list=PLf8btgm3ygJ8z5VkAXSpfnbXilKcO9U1a)
 - [贵女荣华](https://www.youtube.com/playlist?list=PLtoW4yqvbT_ifLZ2sAkofix3OdZL3r6A3)
 - [帝台娇](https://www.youtube.com/playlist?list=PLtoW4yqvbT_h9815VUsfv1h0UiIcRLXdi)

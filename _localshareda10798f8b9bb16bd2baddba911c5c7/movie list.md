@@ -2,6 +2,7 @@
 ---
 
 Youtube serial list
+- [英語　Ariannita la Gringa](https://www.youtube.com/playlist?list=PL50GkV3cQyq7MzhHP2R-9H84p-cUrYskQ)
 - [星落凝成糖](https://www.youtube.com/playlist?list=PLGuVsZ6p8HUbZ-3xf2K_TCzBqYrV3dD-Q)
 - [安乐传](https://www.youtube.com/playlist?list=PLbBcESCAiV7GSZqkMvJfaGpBxO3EZMULY)
 - [微雨燕双飞](https://www.youtube.com/playlist?list=PLhnjbkseqMESR7FtYQidkYDieGvQEWJqf)

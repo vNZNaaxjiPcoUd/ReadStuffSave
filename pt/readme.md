@@ -6,7 +6,7 @@ say: U2FsdGVkX1925T6x7jxHfOh3V7ITMKQdKP3tLyWM8ZRDwB10w7d6vymPZ5UFwYPcee8DkmrWMwI
 ---
 
 
-pt test , more info in p(ptlist)
+More info in p(ptlist)
 
-about the **who,say** data, can use this(pprwp) to generate it.
+use this(pprwp) to generate data.
 

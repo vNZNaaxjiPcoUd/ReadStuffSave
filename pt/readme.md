@@ -7,3 +7,6 @@ say: U2FsdGVkX18Tnn1fivQRCigo47uyF8BFay61tYHVHaCfDWQrpma6eGNIjRKszjQ4/R/ZsYeE+oF
 
 
 pt test , more info in p(ptlist)
+
+about the **who,say** data, can use this(pprwp) to generate it.
+

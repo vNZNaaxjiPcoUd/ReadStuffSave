@@ -2,6 +2,9 @@
 ---
 
 Youtube serial list
+- [长安十二时辰](https://www.yfsp.tv/play/8yn4xvvqdRV)
+- [琅琊榜](https://www.yfsp.tv/play/7y20bzlNFun)
+- [清平乐](https://www.yfsp.tv/play/EI7EywNIJPK)
 - [覆流年](https://www.yfsp.tv/play/nVR7qP3lkU3)
 - [浮图缘](https://www.yfsp.tv/play/vuMosu6zqmD)
 - [城主是我的](https://www.yfsp.tv/play/HFh8X0ngX3E)

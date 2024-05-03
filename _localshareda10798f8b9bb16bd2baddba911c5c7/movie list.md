@@ -2,6 +2,10 @@
 ---
 
 Youtube serial list
+- [宁安如梦](https://www.yfsp.tv/play/VBkXc4MfgW9)
+- [萌妃驾到](https://www.yfsp.tv/play/zjcSZze7kGb)
+- [知否知否应是绿肥红瘦](https://www.yfsp.tv/play/QOOEhnkuho9)
+- [大明王朝1566](https://www.yfsp.tv/play/yJrqjYbw72N)
 - [长安十二时辰](https://www.yfsp.tv/play/8yn4xvvqdRV)
 - [琅琊榜](https://www.yfsp.tv/play/7y20bzlNFun)
 - [清平乐](https://www.yfsp.tv/play/EI7EywNIJPK)

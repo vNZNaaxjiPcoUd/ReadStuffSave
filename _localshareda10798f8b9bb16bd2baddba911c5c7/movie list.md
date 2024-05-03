@@ -2,6 +2,8 @@
 ---
 
 Youtube serial list
+- [云襄传](https://www.yfsp.tv/play/UOpoUcl1fx1)
+- [莲花楼](https://www.yfsp.tv/play/1OoydkBB3Z8)
 - [英語　Ariannita la Gringa](https://www.youtube.com/playlist?list=PL50GkV3cQyq7MzhHP2R-9H84p-cUrYskQ)
 - [星落凝成糖](https://www.youtube.com/playlist?list=PLGuVsZ6p8HUbZ-3xf2K_TCzBqYrV3dD-Q)
 - [安乐传](https://www.youtube.com/playlist?list=PLbBcESCAiV7GSZqkMvJfaGpBxO3EZMULY)

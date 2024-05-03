@@ -9,6 +9,6 @@ More info in p(ptlist)
 
 use this(pprwp) to generate data.
 
-check this [readme](https://share.jwint.net/pt/readme)
+check this [readme](https://s.jwint.net/pt/readme)
 
 

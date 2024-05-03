@@ -2,6 +2,7 @@
 ---
 
 Youtube serial list
+- [少年歌行](https://www.yfsp.tv/play/lwIg375SwnC)
 - [爱在热气沸腾](https://www.yfsp.tv/play/23jpRyT68DS)
 - [云襄传](https://www.yfsp.tv/play/UOpoUcl1fx1)
 - [莲花楼](https://www.yfsp.tv/play/1OoydkBB3Z8)

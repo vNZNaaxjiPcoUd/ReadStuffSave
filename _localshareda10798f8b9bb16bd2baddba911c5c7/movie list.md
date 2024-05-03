@@ -2,6 +2,7 @@
 ---
 
 Youtube serial list
+- [爱在热气沸腾](https://www.yfsp.tv/play/23jpRyT68DS)
 - [云襄传](https://www.yfsp.tv/play/UOpoUcl1fx1)
 - [莲花楼](https://www.yfsp.tv/play/1OoydkBB3Z8)
 - [英語　Ariannita la Gringa](https://www.youtube.com/playlist?list=PL50GkV3cQyq7MzhHP2R-9H84p-cUrYskQ)

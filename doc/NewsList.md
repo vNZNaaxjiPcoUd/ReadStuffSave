@@ -13,7 +13,6 @@
 [民報](https://www.peoplenews.tw/)
 [早報 新加坡](https://www.zaobao.com.sg/welcomecn)
 [自由亞洲電台](https://www.rfa.org/mandarin/)
-[技術網頁收集](https://sites.google.com/site/aniuheretoyou/shi-mu-huo-shi-mu-huo-shi-mu-huo-shi-mu-huo-shi-huo-shi-huo-shi-huo-mu-shi-mu-huo-shi-mu-huo-huo-shi-mu-shi-huo-shi-huo-shi-huo-shi-mu-shi-huo-mu-huo-shi-mu-huo-mu-shi)
 [周末画报](https://www.modernweekly.com/)
 [杭州網](https://appm.hangzhou.com.cn/index.php)
 [阿波羅新聞](https://tw.aboluowang.com/news/)

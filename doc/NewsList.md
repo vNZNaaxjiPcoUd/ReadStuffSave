@@ -80,3 +80,4 @@
 [東方財經](http://finance.eastmoney.com/yaowen.html)
 [HZ NEWS](https://news.hangzhou.com.cn/)
 [New Talk](https://newtalk.tw/)
+[世界日報](https://www.worldjournal.com/)

@@ -52,9 +52,9 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
 <h2>d.jwint</h2>
 <p>🍀
   {% for p in site.pages | sort : "title" %}
-	{% if p.title != "" %}
+
 	  <a href="{{ p.url }}" }}">{{ p.title }} ,</a>
-	{% endif %}
+
   {% endfor %}
 🍀</p>
 

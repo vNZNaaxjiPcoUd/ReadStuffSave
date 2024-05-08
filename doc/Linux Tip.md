@@ -59,8 +59,8 @@ Tech
 
 #### solution
 
-  sudo apt remove vim-common
-  sudo apt install vim
+    sudo apt remove vim-common
+    sudo apt install vim
 
 ***or***
 

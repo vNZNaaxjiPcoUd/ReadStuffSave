@@ -4,7 +4,7 @@ Linux Tip
 ## DDclient
 https://ddclient.net/
 
-setup file is /etc/ddclient/ddclient.cfg
+setup file is /etc/ddclient/ddclient.cfg, 
 change interface to get different IP
 s
 

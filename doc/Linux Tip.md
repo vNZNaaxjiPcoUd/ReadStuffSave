@@ -1,6 +1,13 @@
 Linux Tip
 =========
 
+## DDclient
+https://ddclient.net/
+
+setup file is /etc/ddclient/ddclient.cfg
+change interface to get different IP
+s
+
 ## Cloud service setup
 
 Function

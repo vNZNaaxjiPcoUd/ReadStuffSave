@@ -51,32 +51,46 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
 　<p>{{ site.time }}</p>
 <h2>d.jwint</h2>
 <p>🍀
-  {% for p in site.pages | sort : "name" %}
-      <a href="{{ p.url }}" }}">{{ p.title }}</a> , 
+  {% for p in site.pages | sort : "title" %}
+	{% if p.title != "" %}
+	  <a href="{{ p.url }}" }}">{{ p.title }}</a> ,
+	{% endif %}
   {% endfor %}
 🍀</p>
+	  
+<h2>d.jwint</h2>
+<p>🍀
+  {% for p in site.pages | sort : "name" %}
+      <a href="{{ p.url }}" }}">{{ p.name }}</a> , 
+  {% endfor %}
+🍀</p>
+
 <h2>doc.jwint</h2>
   <p>🍀
   {% for p in site.localshareda10798f8b9bb16bd2baddba911c5c7 %}
       <a href="{{ p.url }}" }}">{{ p.title }}</a> , 
   {% endfor %}
 🍀</p>	  
+	  
 <h2>shorturl</h2>
   <p>🍀
   {% for p in site.shorturl %}
       <a href="{{ p.url }}" }}">{{ p.name }}</a> , 
   {% endfor %}
+	  
 <h2>news</h2>
   <p>🍀
   {% for p in site.news %}
       <a href="{{ p.url }}" }}">{{ p.title }}</a> , 
   {% endfor %}
+	  
 <h2>Blog</h2>
   <p>🍀
   {% for p in site.posts %}
       <a href="{{ p.url }}" }}">{{ p.date | date_to_string}}</a> , 
   {% endfor %}
 🍀</p>	  
+	  
   </div>
 </body>
 </html>

@@ -2,6 +2,7 @@ Linux Tip
 =========
 
 ## DDclient
+
 https://ddclient.net/
 
 setup file is /etc/ddclient/ddclient.cfg, 
@@ -58,12 +59,12 @@ Tech
 
 #### solution
 
-sudo apt remove vim-common
-sudo apt install vim
+  sudo apt remove vim-common
+  sudo apt install vim
 
 ***or***
 
-edit /etc/vim/vimrc.tiny
+    edit /etc/vim/vimrc.tiny
 
 set compatible => set nocompatible (solve direct cursor issue) 
  +> set backspace=2 (solve backspace issue)
@@ -91,7 +92,9 @@ ffmpeg -i ttr2.mp4 -c:v libx264 -pix_fmt yuv420p -crf 24 ttrr2.mov
 退兩步 git reset --hard HEAD~2
 
 －－－－－－
+
 git checkout -f some_branch
+
 強制切換到新分支，並放棄本地目前的修改。
 
 ## sleep youtube

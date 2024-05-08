@@ -1,4 +1,5 @@
-[# how to create a new share folder](https://jekyllrb.com/docs/step-by-step/09-collections/)
+
+# [how to create a new share folder](https://jekyllrb.com/docs/step-by-step/09-collections/)
 
 1. create a folder like _fname
 2. add to _config.yml

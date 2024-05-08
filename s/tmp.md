@@ -1,5 +1,5 @@
 ---
 layout: shorturl
-go: 
-name: 
+go: https://www.jwint.net
+title: template
 ---

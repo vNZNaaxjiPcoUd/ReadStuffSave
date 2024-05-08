@@ -34,7 +34,7 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
 	
 .mono { font-family: monospace, monospace, monospace; }
 </style>
-<title>{{ page.title }}</title>
+<title>List all page</title>
 </head>
 
 <body onload="showTime()" class="mono">
@@ -53,7 +53,7 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
 <p>🍀
   {% for p in site.pages | sort : "title" %}
 	{% if p.title != "" %}
-	  <a href="{{ p.url }}" }}">{{ p.title }}___</a> ,
+	  <a href="{{ p.url }}" }}">{{ p.title }} ,</a>
 	{% endif %}
   {% endfor %}
 🍀</p>

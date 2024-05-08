@@ -1,7 +1,7 @@
 ---
 ---
 
-# Youtube serial list
+# Youtube serial
 
 - [宁安如梦](https://www.yfsp.tv/play/VBkXc4MfgW9)
 - [萌妃驾到](https://www.yfsp.tv/play/zjcSZze7kGb)

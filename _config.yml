@@ -52,7 +52,7 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "/s"
+      path: "s/*"
       type: "s"
     values:
       layout: "shorturl"

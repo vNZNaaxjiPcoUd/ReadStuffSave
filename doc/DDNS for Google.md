@@ -1,7 +1,5 @@
----
-
----
-
+DDNS for google
+===============
 Can use this ddclient
 
 0. Download from [Releases · ddclient/ddclient · GitHub](https://github.com/ddclient/ddclient/releases)

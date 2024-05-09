@@ -8,7 +8,6 @@ https://ddclient.net/
 setup file is /etc/ddclient/ddclient.cfg, 
 change interface to get different IP
 
-
 ## Cloud service setup
 
 Function
@@ -49,7 +48,6 @@ Tech
    - JS
    - Python
 - API
-
 
 ## diff -qr dir1 dir2
 

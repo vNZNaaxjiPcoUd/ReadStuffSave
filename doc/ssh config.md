@@ -1,6 +1,5 @@
----
-
----
+ssh config
+==========
 
 - `Host`：ssh 要連的代號名稱。
 - `Hostname`：IP 或 Domain Name。

@@ -1,7 +1,3 @@
----
-
----
-
 # A beginners guide to web application development (2024)
 
 ## What is this guide and how will it help me?

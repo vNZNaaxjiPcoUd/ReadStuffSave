@@ -1,6 +1,5 @@
----
-
----
+修復grub
+=======
 
 #[ ubuntu系统grub引导修复](https://juejin.cn/post/6844904201647046670)
 

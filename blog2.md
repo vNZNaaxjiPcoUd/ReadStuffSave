@@ -2,10 +2,9 @@
 layout: default
 title: Blog2
 ---
-{% for p in site.posts reversed %}
-### {{ p.title }}  
+{% for p in site.posts %}
 #### {{ p.date | date_to_string}}
-{{ p.content }}
+{{ p.content }}🍀
 {% endfor %}
 
 

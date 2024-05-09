@@ -17,7 +17,7 @@
 
 ### page
 {% for p in site.pages %}
-[{{ p.url  }},]({{ p.url }})
+[{{ p.url }}]({{ p.url }})
 {% endfor %}
 🍀
 

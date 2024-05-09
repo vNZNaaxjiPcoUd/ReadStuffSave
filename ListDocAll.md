@@ -4,7 +4,7 @@ title: List Doc
 ### {{ site.time }}
 
 ### d.jwint
-{% for p in site.pages | sort : "title" %}[{{ p.title }},]({{ p.url }}){% endfor %}
+{% for p in site.pages | sort : "title" %}[{{ p.title }}, ]({{ p.url }}){% endfor %}
 🍀
 
 ### doc.jwint
@@ -13,7 +13,7 @@ title: List Doc
 🍀
 
 ### news
-{% for p in site.news %}[{{ p.title }},]({{ p.url }}){% endfor %}
+{% for p in site.news %}[{{ p.title }}, ]({{ p.url }}){% endfor %}
 🍀
 
 ### page
@@ -23,6 +23,6 @@ title: List Doc
 🍀
 
 ### Blog
-{% for p in site.posts %}[{{ p.date | date_to_string }},]({{ p.url }}){% endfor %}
+{% for p in site.posts %}[{{ p.date | date_to_string }}, ]({{ p.url }}){% endfor %}
 🍀
 	  

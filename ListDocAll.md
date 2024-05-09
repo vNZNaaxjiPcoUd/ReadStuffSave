@@ -26,7 +26,7 @@
 
 ### Blog
 {% for p in site.posts %}
-[ {{ p.date | date_to_string },]({{ p.url }})
+[ {{ p.date | date_to_string }},]({{ p.url }})
 {% endfor %}
 🍀
 	  

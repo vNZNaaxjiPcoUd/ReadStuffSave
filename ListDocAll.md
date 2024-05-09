@@ -7,7 +7,7 @@
 🍀
 
 ### doc.jwint
-{% for p in site.localshareda10798f8b9bb16bd2baddba911c5c7 | sort : "name" %}[{{ p.title }},({{ p.url }})
+{% for p in site.localshareda10798f8b9bb16bd2baddba911c5c7 | sort : "name" %}[{{ p.title }}, ]({{ p.url }})
 {% endfor %}
 🍀
 

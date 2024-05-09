@@ -1,9 +1,7 @@
 ---
 ---
 ### d.jwint
-{% for p in site.pages | sort : "title" %}
-[{{ p.title }},]({{ p.url }})
-{% endfor %}
+{% for p in site.pages | sort : "title" %}[{{ p.title }},]({{ p.url }}){% endfor %}
 🍀
 
 ### doc.jwint

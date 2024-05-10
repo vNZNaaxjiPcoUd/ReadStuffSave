@@ -24,4 +24,4 @@ title: List Doc
 
 ### Post
 
-{% for p in site.posts %}[{{ p.date | date_to_string }}, ](/){% endfor %}🍀
+{% for p in site.posts %}{{ p.date | date_to_string }}, {% endfor %}🍀

@@ -22,6 +22,6 @@ title: List Doc
 [{{ p.url }}]({{ p.url }})
 {% endfor %}🍀
 
-### Blog
+### Post
 
 {% for p in site.posts %}[{{ p.date | date_to_string }}, ](/){% endfor %}🍀

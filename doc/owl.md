@@ -1,7 +1,6 @@
----
-layout: linkNewTab
-title: OWL
----
+OWL
+====
+
 
 🍀 
 [AES](https://aes.jwint.net/)

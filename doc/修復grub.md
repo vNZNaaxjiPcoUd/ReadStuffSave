@@ -1,4 +1,4 @@
-修復grub
+修復 grub 開機區
 =======
 
 #[ ubuntu系统grub引导修复](https://juejin.cn/post/6844904201647046670)

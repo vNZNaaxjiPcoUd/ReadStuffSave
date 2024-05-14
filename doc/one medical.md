@@ -1,5 +1,7 @@
-亞馬遜的醫生會見你：關於one medical需要了解什麼
+亞馬遜的one medical
 =========================================
+亞馬遜的醫生會見你：關於one medical需要了解什麼
+
 Prime 會員的折扣讓人們對醫療保健服務產生了新的關注，儘管這遠非唯一的服務。
 
 
@@ -83,7 +85,7 @@ One Medical 是一家提供遠距醫療服務的公司，但也在美國各地�
 
 [2023 年最佳線上治療](https://www.cnet.com/health/mental/best-online-therapy/)[<img height="108" width="196" src="https://www.cnet.com/a/img/resize/0fcbd10c947a78954bbb00e9892d32397ab03f83/hub/2023/11/10/546cc75d-7836-4b79-b373-3a8d8a8e772c/gettyimages-1451685895-1.jpg?auto=webp&fit=crop&height=108&width=196" />](https://www.cnet.com/health/mental/best-online-therapy/)
 
-## 什麼是 One Medical？它治療什麼？ 
+## 什麼是 One Medical？它治療什麼？
 
 One Medical 是眾多以「混合」模式提供醫療保健服務的公司之一。也就是說，它提供虛擬護理服務，您可以與提供者進行視訊聊天或向他們發送訊息，如果您需要去診所就診，您也可以選擇一些實體服務。 
 
@@ -97,7 +99,7 @@ One Medical 將您的健康記錄儲存在您的應用程式上。這是為了�
 
 <img height="799" width="1200" alt="一個人手裡拿著帶有「醫生預約」圖示的手機。" src="https://www.cnet.com/a/img/resize/911b7c18f0e4a27ba3160580cbbe3bf22204271d/hub/2023/11/10/d7c61935-8fd3-4ce7-baa0-9470ce17bc3b/gettyimages-1368272594-2.jpg?auto=webp&width=1200" />伊莎貝爾帕維亞/蓋蒂圖片社
 
-## One Medical 不免費承保哪些內容？ 
+## One Medical 不免費承保哪些內容？
 
 如果您需要任何類型的診所服務，您需要支付的費用取決於您的保險。One Medical 接受大多數[主要保險](https://www.onemedical.com/insurance/)計劃；它還接受 Medicare 和某些 Medicare Advantage 計劃。如果您需要藥物，其價格也取決於您的保險。 
 
@@ -105,7 +107,7 @@ One Medical 將您的健康記錄儲存在您的應用程式上。這是為了�
 
 該公司表示，如果您需要轉診至專家或 One Medical 網路以外的其他地點，它將協助您轉移記錄並做出安排。具體如何運作尚不清楚。 
 
-## 如何報名 
+## 如何報名
 
 要獲得 One Medical 折扣，您需要擁有 Prime 會員資格，會員費為 15 美元，但可以為您帶來醫療保健或免費送貨之外的福利（[在此處查看各種福利](https://www.cnet.com/tech/mobile/what-an-amazon-prime-membership-gets-you-beyond-free-delivery/)）。 
 
@@ -115,8 +117,7 @@ One Medical 將您的健康記錄儲存在您的應用程式上。這是為了�
 * 選擇您要按月付費還是按年付費。 
 * 下載 One Medical 應用程式。  
 
-
-## 亞馬遜還提供哪些其他醫療保健服務？ 
+## 亞馬遜還提供哪些其他醫療保健服務？
 
 [亞馬遜有一個名為Amazon Clinic 的](https://www.cnet.com/health/medical/amazon-clinic-expands-to-all-50-states-how-to-make-an-appointment/)醫療保健市場 ，今年已擴展到所有 50 個州。[亞馬遜診所與一些遠距醫療醫療保健提供者](https://clinic.amazon.com/?tag=cnet-buy-button-20\&ascsubtag=__COM_CLICK_ID__%7Cb42cc873-8cd5-4c97-8001-2c5b311ae4f9%7Cdtp%7Ccn)合作，允許任何人（您不需要 Prime 帳戶）存取非常基本的初級或緊急護理問題。 
 
@@ -126,7 +127,7 @@ One Medical 將您的健康記錄儲存在您的應用程式上。這是為了�
 
 [最佳遠距醫療服務](https://www.cnet.com/health/medical/best-telemedicine-services/)[<img height="108" width="196" src="https://www.cnet.com/a/img/resize/5862e880b2fa87c4cd8d4e91bac7aa54c44b958a/hub/2022/04/25/1eb87f4c-8d9b-41f1-b826-15971bc63820/118958358-3284394805119652-96660240226093865-n.png?auto=webp&fit=crop&height=108&width=196" />](https://www.cnet.com/health/medical/best-telemedicine-services/)
 
-## 亞馬遜醫療保健值得嗎？ 
+## 亞馬遜醫療保健值得嗎？
 
 在註冊任何訂閱醫療保健服務（例如 One Medical）之前，最好仔細[考慮其他選項](https://www.cnet.com/health/medical/best-telemedicine-services/)。[例如， Sesame Care](https://sesamecare.com/partners/healthline?irclickid=y-8z55yfJxyPTJ714M3kaW7iUkFVmP3Qv06wQ40\&utm_source=Impact\&utm_medium=affiliate\&utm_campaign=Healthline%20Media%20Inc.\&irgwc=1)是另一家提供虛擬諮詢和一些診所福利的醫療保健公司， [每月會員費為 11 美元](https://sesamecare.com/join/membership)。其他公司，如[Health Tap](https://www.healthtap.com/)或[PlushCare](https://plushcare.com/membership/)，提供每月會員資格，使初級保健更容易獲得，或者對於沒有健康保險的人來說負擔得起。 
 
@@ -163,8 +164,6 @@ One Medical 接受大多數保險公司的健康計劃，包括 Blue Cross、Blu
 
 One 醫療專業人員可以為您開立處方並以電子方式將其發送到您選擇的藥房，或者您可以使用線上工具管理您的補充和續訂或透過RxPass安排 [交付](https://pharmacy.amazon.com/rxpass?ots=1\&slotNum=2\&imprToken=10c35c17-881b-fe1a-50e\&tag=usat-exclusive-20)。Amazon Prime 會員可以支付 5 美元的固定費用註冊 [Amazon RxPass](https://www.usatoday.com/story/money/reviewed/2023/01/24/amazon-prime-rxpass/11112640002/)  ，以獲得各種非專利藥物，包括非專利抗焦慮藥物、高膽固醇藥物和癲癇藥物。
 
-
-
 ## 亞馬遜收購 One Medical 了嗎？
 
 是的。2023年2月22日，[亞馬遜收購了One Medical的母公司1Life Healthcare, Inc.](https://www.usatoday.com/story/tech/2022/07/31/one-medical-amazon-health-care/10183726002/?gnt-cfr=1)，該公司已成為亞馬遜的子公司。該公司仍獨立經營，1Life 是 One Medical 背後的行政和管理服務公司，以 One Medical 品牌運營。One Medical 的所有權保持不變，服務和護理水平不會改變，對健康保險流通和責任法案 (HIPAA) 的遵守也不會改變，該法案規定瞭如何處理受保護的健康資訊。這包括用藥史、醫療狀況以及患者和會員的治療詳細資訊。
@@ -175,12 +174,4 @@ One 醫療專業人員可以為您開立處方並以電子方式將其發送到�
 
 現有成員讚揚透過 One Medical“花時間傾聽”的“富有同情心的醫生和提供者”，這是醫療保健中一個重要但經常被遺忘的因素。紐約市的一名會員稱這項服務“獲得護理方便、舒適”，而德克薩斯州奧斯汀的另一名會員則表示，它讓獲得護理“變得如此容易，而在過去，這總是很困難，讓我無法積極主動」。One Medical 旨在節省患者的時間和金錢，同時減輕醫療保健系統的壓力，並避免不必要的就診。更重要的是，它還鼓勵患者尋求幫助，否則他們可能會因為去看醫生的時間和費用而忽視可能比他們意識到的更嚴重的問題。
 
-
-
-
-
-
-
-
 [uscardforum](https://www.uscardforum.com/t/topic/171534)https://www.uscardforum.com/t/topic/171534
-

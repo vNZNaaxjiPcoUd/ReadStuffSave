@@ -36,7 +36,7 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
 	
 .mono { font-family: monospace, monospace, monospace; }
 </style>
-<title>{{ page.name }}</title>
+<title>{% if page.title == "" %}{{ page.name }}{% else %}{{ page.title }}{{% endif %}</title>
 </head>
 
 <body  class="mono">

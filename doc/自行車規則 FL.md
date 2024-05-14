@@ -1,13 +1,7 @@
-
-
 FL Driver Handbook
 ==================
 
 https://www.flhsmv.gov/pdf/handbooks/englishdriverhandbook.pdf
-
-
-
-
 
 **Sharing the Road**
 with Bicycles
@@ -29,8 +23,6 @@ Unlike motorists, bicyclists may also
 operate on sidewalks, but they must
 yield to pedestrians on sidewalks and
 in crosswalks.
-
-
 
 **Rules for Motorists**
 
@@ -82,7 +74,7 @@ in crosswalks.
 5. Bicyclists must use directional
    hand signals to show other
    drivers that they are about to
-   turn. (See page 41.)
+   turn. ([See page 41.](./handIndex.png))
 6. Bicyclists must never attach
    themselves or their bike to any
    vehicle on the roadway.
@@ -127,29 +119,19 @@ in crosswalks.
     when under the influence of
     alcohol or drugs.
 
-
-
 **Bicyclist Safety Tips**
 
 ► No matter your age, wear a helmet.
+
 ► Keep both hands on the handlebars.
-► On the roadway, check behind you
-before changing lanes or moving
-notably within the lane.
-► Be seen. Wear neon or fluorescent
-colors when riding and wear
-something reflective.
+
+► On the roadway, check behind you before changing lanes or moving notably within the lane.
+
+► Be seen. Wear neon or fluorescent colors when riding and wear something reflective.
+
 ► Don’t text while biking.
-
-
-
-
 
 Right-of-way rules tell you who goes first and who must wait in diferent
 conditions. The law says who must yield (give up) the right-of-way. Every
 driver, motorcyclist, moped rider, pedestrian, and bicyclist must do
 everything possible to avoid a crash.
-
-
-
-

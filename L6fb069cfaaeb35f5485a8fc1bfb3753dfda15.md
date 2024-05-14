@@ -1,5 +1,5 @@
 ---
-title: List Doc
+title: List
 ---
 
 ### {{ site.time }}

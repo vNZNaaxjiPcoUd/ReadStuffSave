@@ -1,2 +1,2 @@
-校車STOP
+# 校車停止規則
 ![Stop Bus](./SchoolBusStopRule.png)

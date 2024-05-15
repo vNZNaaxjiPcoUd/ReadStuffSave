@@ -5,7 +5,7 @@ title: 分享冊呈
 ### {{ site.time }}
 
 ### d.jwint
-{% assign pp = site.pages | sort: "title" %}
+{% assign pp = site.pages | sort_natural: "title" %}
 {% for p in pp %} [{{ p.title }} .]({{ p.url }}){% endfor %}🍀
 
 

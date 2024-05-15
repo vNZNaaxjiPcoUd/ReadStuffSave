@@ -8,9 +8,7 @@ Built on a Ford® E-Series chassis, with an optional Chevrolet® chassis availab
 
 ## Quantum Floor Plans
 
-- [
-  
-  KW29
+- [KW29  ](https://www.thormotorcoach.com/quantum/floor-plans/kw29)
   
   MSRP from
   
@@ -24,13 +22,11 @@ Built on a Ford® E-Series chassis, with an optional Chevrolet® chassis availab
   | ------ | ---------- | ------ |
   | 31'    | 14,500 lbs | 6      |
   
-  ](https://www.thormotorcoach.com/quantum/floor-plans/kw29)
+
   
   Compare
 
-- [
-  
-  LC22
+- [ LC22  ](https://www.thormotorcoach.com/quantum/floor-plans/lc22)
   
   MSRP from
   
@@ -44,13 +40,12 @@ Built on a Ford® E-Series chassis, with an optional Chevrolet® chassis availab
   | ------ | ---------- | ------ |
   | 24'-1" | 12,500 lbs | 4      |
   
-  ](https://www.thormotorcoach.com/quantum/floor-plans/lc22)
+
   
   Compare
 
-- [
-  
-  LC24
+- [LC24  ](https://www.thormotorcoach.com/quantum/floor-plans/lc24)
+
   
   MSRP from
   
@@ -64,13 +59,11 @@ Built on a Ford® E-Series chassis, with an optional Chevrolet® chassis availab
   | ------ | ---------- | ------ |
   | 25'-1" | 12,500 lbs | 4      |
   
-  ](https://www.thormotorcoach.com/quantum/floor-plans/lc24)
   
   Compare
 
-- [
-  
-  LC28
+- [LC28  ](https://www.thormotorcoach.com/quantum/floor-plans/lc28)
+
   
   MSRP from
   
@@ -84,13 +77,11 @@ Built on a Ford® E-Series chassis, with an optional Chevrolet® chassis availab
   | ------ | ---------- | ------ |
   | 30'    | 14,500 lbs | 7      |
   
-  ](https://www.thormotorcoach.com/quantum/floor-plans/lc28)
   
   Compare
 
-- [
-  
-  LF31
+- [ LF31  ](https://www.thormotorcoach.com/quantum/floor-plans/lf31)
+
   
   MSRP from
   
@@ -104,13 +95,11 @@ Built on a Ford® E-Series chassis, with an optional Chevrolet® chassis availab
   | ------ | ---------- | ------ |
   | 32'-8" | 14,500 lbs | 7      |
   
-  ](https://www.thormotorcoach.com/quantum/floor-plans/lf31)
   
   Compare
 
-- [
-  
-  LP27
+- [LP27  ](https://www.thormotorcoach.com/quantum/floor-plans/lp27)
+
   
   MSRP from
   
@@ -124,13 +113,11 @@ Built on a Ford® E-Series chassis, with an optional Chevrolet® chassis availab
   | ------ | ---------- | ------ |
   | 28'-8" | 14,500 lbs | 4      |
   
-  ](https://www.thormotorcoach.com/quantum/floor-plans/lp27)
   
   Compare
 
-- [
-  
-  WS31
+- [  WS31  ](https://www.thormotorcoach.com/quantum/floor-plans/ws31)
+
   
   MSRP from
   
@@ -144,4 +131,3 @@ Built on a Ford® E-Series chassis, with an optional Chevrolet® chassis availab
   | ------ | ---------- | ------ |
   | 32'-4" | 14,500 lbs | 7      |
   
-  ](https://www.thormotorcoach.com/quantum/floor-plans/ws31)

@@ -11,7 +11,7 @@ title: 分享冊呈
 
 <table>
 {% tablerow p in site.pages cols:4 %}
-  <a ref="{{ p.url }}">{{ p.title }}</a>
+  <a href="{{ p.url }}">{{ p.title }}</a>
 {% endtablerow %}
 </table>🍀
 

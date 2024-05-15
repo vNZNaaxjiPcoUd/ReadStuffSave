@@ -1,3 +1,5 @@
+# AA 經濟艙規定
+
 # [Basic Economy rule](https://www.aa.com/i18n/travel-info/experience/seats/basic-economy.jsp)
 
 [Basic Economy − Travel information − American Airlines](https://www.aa.com/i18n/travel-info/experience/seats/basic-economy.jsp)

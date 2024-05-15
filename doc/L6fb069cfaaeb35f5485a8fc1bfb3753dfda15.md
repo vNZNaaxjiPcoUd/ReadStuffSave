@@ -1,5 +1,5 @@
 ---
-title: 分享冊呈
+title: 分享呈冊
 ---
 
 ### {{ site.time }}

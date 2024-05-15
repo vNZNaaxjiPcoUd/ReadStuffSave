@@ -2,11 +2,6 @@
 
 # How-to and a cool tip
 
-![Nicola Paolucci Headshot](https://wac-cdn.atlassian.com/dam/jcr:f80ffb44-7a37-4fca-a9e1-c083efaffd50/nicola-paolucci-circle.png?cdnVersion=1571)
-
-##### NICOLA PAOLUCCI
-
-Developer Advocate
 
 ---
 

@@ -9,7 +9,7 @@ title: 分享冊呈
 {% for p in site.pages | sort: "title" %} [{{ p.title }} .]({{ p.url }}){% endfor %}🍀
 
 
-<table>
+<table rules=none>
 {% tablerow p in site.pages cols:4 %}
   <a href="{{ p.url }}">{{ p.title }}</a>
 {% endtablerow %}

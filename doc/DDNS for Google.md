@@ -1,4 +1,4 @@
-DDNS for google
+DDNS ddclient for google
 ===============
 Can use this ddclient
 

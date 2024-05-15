@@ -1,4 +1,4 @@
-# DDD 概念参考
+# DDD Domain-Driven Design
 
 - [1 通用类概念](https://domain-driven-design.org/zh/ddd-concept-reference.html#%E9%80%9A%E7%94%A8%E7%B1%BB%E6%A6%82%E5%BF%B5)
    - [1.1 领域驱动设计（DDD）](https://domain-driven-design.org/zh/ddd-concept-reference.html#%E9%A2%86%E5%9F%9F%E9%A9%B1%E5%8A%A8%E8%AE%BE%E8%AE%A1ddd)

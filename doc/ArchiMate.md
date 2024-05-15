@@ -1,48 +1,6 @@
 # ArchiMate
 
-10 languages
 
-- [Article](https://en.wikipedia.org/wiki/ArchiMate "View the content page [alt-shift-c]")
-
-- [Talk](https://en.wikipedia.org/wiki/Talk:ArchiMate "Discuss improvements to the content page [alt-shift-t]")
-
-- [Read](https://en.wikipedia.org/wiki/ArchiMate)
-
-- [Edit](https://en.wikipedia.org/w/index.php?title=ArchiMate&action=edit "Edit this page [alt-shift-e]")
-
-- [View history](https://en.wikipedia.org/w/index.php?title=ArchiMate&action=history "Past revisions of this page [alt-shift-h]")
-
-Tools
-
-- [](https://en.wikipedia.org/wiki/Special:WhatLinksHere/ArchiMate "List of all English Wikipedia pages containing links to this page [alt-shift-j]")
-
-- [](https://en.wikipedia.org/wiki/Special:RecentChangesLinked/ArchiMate "Recent changes in pages linked from this page [alt-shift-k]")
-
-- [](https://en.wikipedia.org/wiki/Special:SpecialPages "A list of all special pages [alt-shift-q]")
-
-- [](https://en.wikipedia.org/w/index.php?title=ArchiMate&oldid=1198369102 "Permanent link to this revision of this page")
-
-- [](https://en.wikipedia.org/w/index.php?title=ArchiMate&action=info "More information about this page")
-
-- [](https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=ArchiMate&id=1198369102&wpFormIdentifier=titleform "Information on how to cite this page")
-
-- [](https://en.wikipedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FArchiMate)
-
-- [](https://en.wikipedia.org/w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FArchiMate)
-
-- [](https://www.wikidata.org/wiki/Special:EntityPage/Q1077796 "Structured data on this page hosted by Wikidata [alt-shift-g]")
-
-- [](https://en.wikipedia.org/wiki/ArchiMate# "Expand all collapsible elements on the current page")
-
-- [](https://www.wikidata.org/wiki/Special:EntityPage/Q1077796#sitelinks-wikipedia "Edit interlanguage links")
-
-- [](https://en.wikipedia.org/w/index.php?title=Special:DownloadAsPdf&page=ArchiMate&action=show-download-screen "Download this page as a PDF file")
-
-- [](https://en.wikipedia.org/w/index.php?title=ArchiMate&printable=yes "Printable version of this page [alt-shift-p]")
-
-- [](https://commons.wikimedia.org/wiki/Category:ArchiMate)
-
-From Wikipedia, the free encyclopedia
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/ArchiMate_example.jpg/220px-ArchiMate_example.jpg)](https://en.wikipedia.org/wiki/File:ArchiMate_example.jpg)
 

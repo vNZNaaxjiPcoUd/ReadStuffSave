@@ -5,12 +5,12 @@ title: 分享冊呈
 ### {{ site.time }}
 
 ### d.jwint
-
-{% for p in site.pages | sort: "title" %} [{{ p.title }} .]({{ p.url }}){% endfor %}🍀
+{% assign pp = site.pages | sort: "title" %}
+{% for p in pp %} [{{ p.title }} .]({{ p.url }}){% endfor %}🍀
 
 
 <table rules="none" frame="none">
-{% tablerow p in site.pages cols:4 %}
+{% tablerow p in pp cols:4 %}
   <a href="{{ p.url }}">{{ p.title }}</a>
 {% endtablerow %}
 </table>🍀

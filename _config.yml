@@ -46,17 +46,3 @@ defaults:
       type: "localshareda10798f8b9bb16bd2baddba911c5c7"
     values:
       layout: "localshare"
-  - scope:
-      path: ""
-      type: "shorturl"
-    values:
-      layout: "shorturl"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
-  - scope:
-      path: "s"
-      type: "shorturl"
-    values:
-      layout: "shorturl"

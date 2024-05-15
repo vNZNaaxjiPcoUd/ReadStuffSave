@@ -10,7 +10,7 @@ title: 分享冊呈
 
 
 <table>
-{% tablerow p in site.pages %}
+{% tablerow p in site.pages cols:4 %}
   [{{ p.title }}]({{ p.url }})
 {% endtablerow %}
 </table>🍀

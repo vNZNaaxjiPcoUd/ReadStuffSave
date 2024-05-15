@@ -2,10 +2,6 @@
 
 PWA 很棒，但 PWA 好像不好做？這篇帶你用很夯的前端框架 React 打造 Progressive Web App！
 
- [Seagate | 我用的 NAS 專用 4TB 硬碟](https://bit.ly/3yUSDiM)
-
-- [![Noob Tsai](https://www.gravatar.com/avatar/73140f84a82b985e366caecad6451ae3?s=250&d=mm&r=x)](https://noob.tw/author/noobtw/)
-
 #### [Noob Tsai](https://noob.tw/author/noobtw/)
 
 Aug 24, 2019 • 5 min read
@@ -118,7 +114,7 @@ module.exports = {
 npm install --save react-detect-offline
 ```
 
-安裝好後你可以這樣在 React 中使用它：
+安裝好後你可以這樣在 React 中使用它：  [example](https://github.com/NoobTW/thef2e_2019/blob/master/week6/src/App.js)
 
 ```jsx
 import { Online, Offline } from 'react-detect-offline';

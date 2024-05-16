@@ -1,16 +1,60 @@
 # Ubuntu upgrade to 24.04
 
+[NobleUpgrades - Community Help Wiki](https://help.ubuntu.com/community/NobleUpgrades)
 
 
 
+## Upgrading Ubuntu Desktops to 24.04 LTS
+
+You can easily upgrade over the network with the following procedure.
+
+1. Run the **update-manager** application.
+
+2. In Update Manager, click the **Settings...** button, and enter your password to start the Software Sources application.
+
+3. Select the sub menu **Updates** from the Software Sources application.
+
+4. Confirm the "Notify me of a new Ubuntu version:" option is set to "For any new version", and change it if otherwise.
+
+5. Close the Software Sources application and return to Update Manager.
+
+6. In Update Manager, click the **Check** button to check for new updates.
+
+7. If there are any updates to install, use the **Install Updates** button to install them.
+
+8. Run **update-manager**.
+
+9. If you want to upgrade early, before upgrades are officially supported, you can pass the **-d** option when running **update-manager**. Do this at your own risk. It is advised to check the [release notes for Ubuntu 24.04 LTS](http://wiki.ubuntu.com/NobleNumbat/ReleaseNotes) before doing so.
+
+10. A message will appear informing you of the availability of the new release.
+
+11. Click **Upgrade**.
+
+12. Follow the on-screen instructions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------
 
 
 
 [How to Upgrade Ubuntu 22.04 to 24.04 LTS: A Complete Guide - nixCraft](https://www.cyberciti.biz/faq/how-to-upgrade-from-ubuntu-22-04-lts-to-ubuntu-24-04-lts/)
-
-
-
-
 
 # [How to Upgrade Ubuntu 22.04 to 24.04 LTS: A Complete Guide](https://www.cyberciti.biz/faq/how-to-upgrade-from-ubuntu-22-04-lts-to-ubuntu-24-04-lts/)
 

@@ -1,1 +1,5 @@
-# [Shorturl](https://www.shorturl.at/)
+---
+layout: shorturl
+go: https://api.ipify.org/
+title: shorturl
+---

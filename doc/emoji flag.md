@@ -1,3 +1,12 @@
+
+
+List of current emoji flag sequences
+====================================
+
+https://en.wikipedia.org/wiki/Regional_indicator_symbol
+
+
+
 | flag                                                                  | code | region[\[9\]](https://en.wikipedia.org/wiki/Regional_indicator_symbol#cite_note-EmojiSeq-9)                                                                         | [possible rendering](https://commons.wikimedia.org/wiki/Category:Emoji_One_v1 "commons:Category:Emoji One v1")                                                                              |
 | --------------------------------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [🇦🇨](https://en.wikipedia.org/wiki/%F0%9F%87%A6%F0%9F%87%A8 "🇦🇨") | AC   | [Ascension Island](https://en.wikipedia.org/wiki/Ascension_Island "Ascension Island")                                                                               | [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Emojione_1F1E6-1F1E8.svg/32px-Emojione_1F1E6-1F1E8.svg.png)](https://en.wikipedia.org/wiki/File:Emojione_1F1E6-1F1E8.svg)    |

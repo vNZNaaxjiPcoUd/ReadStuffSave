@@ -1,4 +1,4 @@
-# UML就這麼悄悄死掉了嗎？ 
+# UML就這麼悄悄消失了嗎？ 
 
 由Rational Software開發並於1997年被Object Management Group（OMG）用作標準的統一建模語言（UML）旨在標準化軟體工程領域中的幾種不同的圖形符號。
 

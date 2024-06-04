@@ -82,3 +82,7 @@
 [HZ NEWS](https://news.hangzhou.com.cn/)
 [New Talk](https://newtalk.tw/)
 [世界日報](https://www.worldjournal.com/)
+[簡體新聞](https://www.wenxuecity.com/news/morenews/)
+
+
+

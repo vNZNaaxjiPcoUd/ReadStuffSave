@@ -4,7 +4,7 @@ collections:
     output: true
   news:
     output: true
-  localshareda10798f8b9bb16bd2baddba911c5c7:
+  addba911c5c7:
     output: true
   case2:
     output: true
@@ -43,6 +43,6 @@ defaults:
       layout: "news"
   - scope:
       path: ""
-      type: "localshareda10798f8b9bb16bd2baddba911c5c7"
+      type: "addba911c5c7"
     values:
       layout: "localshare"

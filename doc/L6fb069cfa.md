@@ -2,7 +2,7 @@
 title: 分享呈冊
 ---
 
-### {{ site.time | date: "%m-%d %H:%M:%S" }}
+{{ site.time | date: "%m-%d %H:%M:%S" }}
 
 ### d.jwint
 {% assign pp = site.pages | sort_natural: "title" %}

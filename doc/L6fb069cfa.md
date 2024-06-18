@@ -4,7 +4,7 @@ title: 分享呈冊
 
 {{ site.time | date: "%m-%d %H:%M:%S" }}
 
-### d.jwint
+### d.
 {% assign pp = site.pages | sort_natural: "title" %}
 {% for p in pp %} [{{ p.title }} .]({{ p.url }}){% endfor %}🍀
 

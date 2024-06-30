@@ -88,5 +88,6 @@
 | #                        | list paste buffers |
 | q                        | quit               |
 
-
 ![command](./tmux.png)
+
+https://www.pluralsight.com/resources/blog/cloud/tmux-cheat-sheet

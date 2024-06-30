@@ -88,5 +88,4 @@
 | #                        | list paste buffers |
 | q                        | quit               |
 
-
 ![command](./tmux.png)

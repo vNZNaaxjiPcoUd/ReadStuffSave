@@ -1,8 +1,5 @@
-4G Plan
-
+4G Plan 台灣之星
 =========
-
-
 
 ## [Broadband FactsMobile Broadband Consumer Disclosure](https://prepaid.t-mobile.com/fcc-broadband-consumer-facts/connect)
 

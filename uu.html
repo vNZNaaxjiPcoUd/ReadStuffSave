@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang=""en-US"">
+<head>
+    <meta http-equiv="refresh" content="9999">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+html,
+body {
+
+		color: rgb(120, 120, 120);
+		background-color: rgb(1, 1, 1);
+}
+</style>
+</head>
+<body onload="upPage0()">
+Start:<label id="startT">Initial Text</label><br>
+Nows  :<label id="labelWithHTML">Initial Text</label><br>
+Site :<label id="siteTime">site time</label><br>
+Code :<label id="codeTime">code time</label><br>
+Count:<label id="cnT">0</label> sec<br>
+
+<!---
+<iframe id="ifds" src="/ds.html" width="40%" height="100" >3
+</iframe>
+<iframe id="ifdc"  src="/dc.html" width="40%" height="100" >4
+</iframe>
+--->
+
+
+<script>
+    function showTime() {
+      const currentDate = new Date();
+      const options = { timeZone: '+00:00', hour: '2-digit', minute: '2-digit', second: '2-digit'};
+      const timestamp = currentDate.toLocaleString('en-US', options);
+      let labelElement = document.getElementById("labelWithHTML");
+      labelElement.innerHTML = timestamp;
+    }
+
+    function startTime() {
+      const currentDate = new Date();
+      const options = { timeZone: '+00:00', hour: '2-digit', minute: '2-digit', second: '2-digit'};
+      const timestamp = currentDate.toLocaleString('en-US', options);
+      let labelElement = document.getElementById("startT");
+      labelElement.innerHTML = timestamp;
+    }
+	
+    const dsurl = "/ds.html";
+    const dcurl = "/dc.html";
+    async function getSiteTime() {
+      try {
+        const response = await fetch(dsurl,{cache:"no-cache"});
+        if (!response.ok) {
+          throw new Error(`Response status: ${response.status}`);
+        }
+
+        const json = await response.json();
+        console.log(json);
+        let labelElement = document.getElementById("siteTime");
+        labelElement.innerHTML = json['data'];
+      } catch (error) {
+        console.error(error.message);
+      }
+    }
+    
+    
+    async function getCodeTime() {     
+      try {
+        const response = await fetch(dcurl,{cache:"no-cache"});
+        if (!response.ok) {
+          throw new Error(`Response status: ${response.status}`);
+        }
+
+        const json = await response.json();
+        console.log(json);
+        let labelElement = document.getElementById("codeTime");
+        labelElement.innerHTML = json['data'];
+      } catch (error) {
+        console.error(error.message);
+      }
+    }
+    
+    let cntt = 0;
+    function updateCnt(){
+      cntt = cntt + 5;
+      let labelElement = document.getElementById("cnT");
+      labelElement.innerHTML = cntt.toString();
+    }
+    function refreshiFrame(){
+      document.getElementById('ifdc').contentWindow.location.reload();
+      document.getElementById('ifds').src = document.getElementById('ifds').src
+      console.log(document.getElementById('ifds').src);
+    }
+    
+    function upPage0(){
+      startTime();
+      showTime();
+      getSiteTime();
+      getCodeTime();
+    }
+
+    function upPage(){
+      showTime();
+      getSiteTime();
+      getCodeTime();
+      updateCnt();
+      console.log("ok2");
+    }
+
+    setInterval(upPage, 5000);
+</script>
+
+
+</body>
+</html>

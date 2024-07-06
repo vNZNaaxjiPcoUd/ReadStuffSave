@@ -83,7 +83,7 @@ Count:<label id="cnT">0</label> sec<br>
     
     let cntt = 0;
     function updateCnt(){
-      cntt = cntt + 5;
+      cntt = cntt + 1;
       let labelElement = document.getElementById("cnT");
       labelElement.innerHTML = cntt.toString();
     }
@@ -102,13 +102,15 @@ Count:<label id="cnT">0</label> sec<br>
 
     function upPage(){
       showTime();
-      getSiteTime();
-      getCodeTime();
+      if( !(cntt % 5)){
+        getSiteTime();
+        getCodeTime();
+      }
       updateCnt();
-      console.log("ok2");
+      //console.log("ok2");
     }
 
-    setInterval(upPage, 5000);
+    setInterval(upPage, 1000);
 </script>
 
 

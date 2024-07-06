@@ -21,12 +21,6 @@ Site :<label id="siteTime">site time</label><br>
 Code :<label id="codeTime">code time</label><br>
 Count:<label id="cnT">0</label> sec<br>
 
-<!---
-<iframe id="ifds" src="/ds.html" width="40%" height="100" >3
-</iframe>
-<iframe id="ifdc"  src="/dc.html" width="40%" height="100" >4
-</iframe>
---->
 
 
 <script>
@@ -46,8 +40,8 @@ Count:<label id="cnT">0</label> sec<br>
       labelElement.innerHTML = timestamp;
     }
 	
-    const dsurl = "/ds.html";
-    const dcurl = "/dc.html";
+    const dsurl = "/ds";
+    const dcurl = "/dc";
     async function getSiteTime() {
       try {
         const response = await fetch(dsurl,{cache:"no-cache"});
@@ -107,7 +101,7 @@ Count:<label id="cnT">0</label> sec<br>
         getCodeTime();
       }
       updateCnt();
-      //console.log("ok2");
+      //console.log("cntt");
     }
 
     setInterval(upPage, 1000);

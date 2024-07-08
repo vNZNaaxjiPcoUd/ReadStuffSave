@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang=""en-US"">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+html,
+body {
+
+		color: rgb(120, 120, 120);
+		background-color: rgb(1, 1, 1);
+}
+</style>
+</head>
+<body onload="upPage0()">
+<a href="https://domains.google.com/checkip"> from google view  :<label id="ipG">Text</label></a><br>
+<a href="https://api.ipify.org/">from ipify view :<label id="ipI">time</label></a><br>
+
+<script>
+
+    const gurl = "https://domains.google.com/checkip";
+    const iurl = "https://api.ipify.org/";
+
+    async function Gip() {
+      try {
+        const response = await fetch(gurl,{cache:"no-cache",  headers: {'Access-Control-Allow-Origin':'*'}});
+        if (!response.ok) {
+          throw new Error(`Response status: ${response.status}`);
+        }
+
+        const txtIP = await response.text();
+        console.log(txtIP);
+        let labelElement = document.getElementById("ipG");
+        labelElement.innerHTML = txtIP;
+      } catch (error) {
+        console.log(error.message);
+      }
+    }
+    
+    
+    async function Iip() {     
+      try {
+        const response = await fetch(iurl,{cache:"no-cache"});
+        if (!response.ok) {
+          throw new Error(`Response status: ${response.status}`);
+        }
+
+        const txtIP = await response.text();
+        console.log(txtIP);
+        let labelElement = document.getElementById("ipI");
+        labelElement.innerHTML = txtIP;
+      } catch (error) {
+        console.log(error.message);
+      }
+    }
+   
+    function upPage0(){
+        Gip();
+        Iip();
+    }
+
+</script>
+
+
+</body>
+</html>

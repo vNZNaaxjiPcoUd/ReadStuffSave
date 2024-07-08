@@ -78,13 +78,19 @@ body {
       //console.log("HIHI HIHI Hi i ");
 
       //url = detailUrl;
+      try {
+        const response = await fetch(url,{cache:"no-store"});
+        if (!response.ok) {
+          throw new Error(`Response status: ${response.status}`);
+        }
 
-      const response = await fetch(url,{cache:"no-store"});
-      if (!response.ok) {
-        throw new Error(`Response status: ${response.status}`);
+        const detailInfo = await response.json();
+      } catch (error) {
+        let labelElement = document.getElementById("moreD");
+        labelElement.innerHTML = error.message;
+        detailInfo = error.message ;
+        return;
       }
-
-      const detailInfo = await response.json();
 
       console.log(detailInfo["lat"]);
 

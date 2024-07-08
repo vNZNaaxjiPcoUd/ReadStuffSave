@@ -14,8 +14,8 @@ body {
 </head>
 <body onload="upPage0()">
 <!--- <h1><a href="https://domains.google.com/checkip"> from google view  : <label id="ipG">10.10.10.10</label></h1></a><br> --->
-<h1><a href="https://api.ipify.org/"><label id="ipI">10.10.10.10</label></a></h1><br>
-<a href="http://ip-api.com/json/">More</a> : <label id="moreD">123</label><br>
+<h2><a href="https://api.ipify.org/"><label id="ipI">10.10.10.10</label></a></h2>
+<p><a href="http://ip-api.com/json/">More</a> : <label id="moreD">123</label></p>
 
 <script>
 
@@ -88,7 +88,7 @@ body {
       for (const key in detailInfo){
         
           console.log(`${key} : ${detailInfo[key]}`)
-          html = html + `<p>${key} : ${detailInfo[key]}</p>`
+          html = html + `${key} : ${detailInfo[key]}<br>`
       }
 
       //console.log(JSON.stringify(detailInfo));

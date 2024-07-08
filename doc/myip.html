@@ -22,7 +22,9 @@ body {
 
     async function Gip() {
       try {
-        const response = await fetch(gurl,{cache:"no-cache",  headers:{"Access-Control-Allow-Origin" : "*",},});
+
+        var headers = {"Access-Control-Allow-Origin" : "*" };
+        const response = await fetch(gurl,{cache:"no-cache",  headers:headers });
 
         if (!response.ok) {
           throw new Error(`Response status: ${response.status}`);

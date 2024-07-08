@@ -24,7 +24,7 @@ body {
     async function Gip() {
       try {
 
-        var headers = {"'Access-Control-Allow-Origin'" : "'https://share.jwint.net/'" };
+        var headers = {"Access-Control-Allow-Origin" : "https://share.jwint.net" };
         const response = await fetch(gurl,{cache:"no-cache",  headers:headers });
 
         if (!response.ok) {

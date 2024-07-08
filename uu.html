@@ -26,7 +26,7 @@ Count:<label id="cnT">0</label> sec<br>
 <script>
     function showTime() {
       const currentDate = new Date();
-      const options = { timeZone: '+00:00', hour: '2-digit', minute: '2-digit', second: '2-digit'};
+      const options = { timeZone: '+05:00', hour: '2-digit', minute: '2-digit', second: '2-digit'};
       const timestamp = currentDate.toLocaleString('en-US', options);
       let labelElement = document.getElementById("labelWithHTML");
       labelElement.innerHTML = timestamp;

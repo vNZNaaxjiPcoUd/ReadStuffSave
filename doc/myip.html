@@ -10,6 +10,7 @@ body {
 		background-color: rgb(1, 1, 1);
 }
 </style>
+<title>myip</title>
 </head>
 <body onload="upPage0()">
 <a href="https://domains.google.com/checkip"> from google view  :<label id="ipG">Text</label></a><br>
@@ -23,7 +24,7 @@ body {
     async function Gip() {
       try {
 
-        var headers = {"Access-Control-Allow-Origin" : "https://share.jwint.net/" };
+        var headers = {"'Access-Control-Allow-Origin'" : "'https://share.jwint.net/'" };
         const response = await fetch(gurl,{cache:"no-cache",  headers:headers });
 
         if (!response.ok) {

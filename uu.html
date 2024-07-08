@@ -19,7 +19,7 @@ Nows  :<label id="labelWithHTML">Initial Text</label><br>
 Start:<label id="startT">Initial Text</label><br>
 Site :<label id="siteTime">site time</label><br>
 Code :<label id="codeTime">code time</label><br>
-Count:<label id="cnT">0</label> sec<br>
+Count:<label id="cnT">0</label><br>
 
 
 
@@ -79,10 +79,13 @@ Count:<label id="cnT">0</label> sec<br>
     function updateCnt(){
       cntt = cntt + 1;
       let labelElement = document.getElementById("cnT");
-      let T1 = new Date(cntt * 1000);
+      //let T1 = new Date(cntt * 1000);
       //labelElement.innerHTML = cntt.toString();
-      const options = { timeZone: '+00:00', hour: '2-digit', minute: '2-digit', second: '2-digit'};
-      labelElement.innerHTML = T1.toTimeString('en-US', options);
+      //const options = { timeZone: '+00:00', hour: '2-digit', minute: '2-digit', second: '2-digit'};
+      //labelElement.innerHTML = T1.toTimeString('en-US', options);
+      const date = new Date(null);
+      date.setSeconds(cntt); // specify value for SECONDS here
+      labelElement.innerHTML = result = date.toISOString().slice(11, 19);
     }
     function refreshiFrame(){
       document.getElementById('ifdc').contentWindow.location.reload();

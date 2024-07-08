@@ -79,7 +79,7 @@ Count:<label id="cnT">0</label> sec<br>
     function updateCnt(){
       cntt = cntt + 1;
       let labelElement = document.getElementById("cnT");
-      let T1 = new Date(secs * 1000);
+      let T1 = new Date(cntt * 1000);
       //labelElement.innerHTML = cntt.toString();
       labelElement.innerHTML = T1.toTimeString();
     }

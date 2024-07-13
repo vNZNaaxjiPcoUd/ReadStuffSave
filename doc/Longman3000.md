@@ -613,7 +613,7 @@ cold adj S1, W1
 collapse v S3
 collar n S3
 colleague n S2, W2
-LONGMAN COMMUNICATION 3000
+
 collect v S1, W2
 collection n S2, W1
 college n S1, W2
@@ -739,7 +739,7 @@ cottage n S3, W3
 cotton n W3
 could modal S1, W1
 council n S2, W2
-count v S2, W3LONGMAN COMMUNICATION 3000
+count v S2, W3
 counter n S3
 country n S1, W1
 countryside n S3, W3
@@ -1117,7 +1117,7 @@ even adv S1, W1
 evening n S1, W1
 event n S1, W1
 eventually adv S1, W2
-LONGMAN COMMUNICATION 3000
+
 ever adv S1, W1
 every determiner S1, W1
 everybody pron S1, W3
@@ -1242,7 +1242,7 @@ fight v S1, W1
 figure n S1, W1
 figure v S1, W3
 file n S1, W2
-file v S3, W3LONGMAN COMMUNICATION 3000
+file v S3, W3
 fill v S1, W1
 film n S1, W1
 filthy adj S3
@@ -1619,7 +1619,7 @@ incredibly adv S3
 indeed adv S1, W1
 independence n W2
 independent adj S2, W2
-LONGMAN COMMUNICATION 3000
+
 index n W2
 indicate v S3, W1
 indication n S3, W3
@@ -1743,7 +1743,7 @@ kit n S3
 kitchen n S1, W2
 knee n S2, W2
 knife n S3, W3
-knock v S1, W3LONGMAN COMMUNICATION 3000
+knock v S1, W3
 know v S1, W1
 knowledge n S2, W1
 known adj W3
@@ -2120,7 +2120,7 @@ no one pron S1, W2
 no way adv S2
 nobody pron S1, W2
 nod v W2
-LONGMAN COMMUNICATION 3000
+
 noise n S2, W2
 noisy adj S3
 none pron S1, W2
@@ -2245,7 +2245,7 @@ over adv, adj S1, W1
 over prep S1, W1
 overall adj S3, W2
 overcome v W3
-overseas adv W3LONGMAN COMMUNICATION 3000
+overseas adv W3
 overtime n S3
 owe v S2, W3
 own adj, pron S1, W1
@@ -2622,7 +2622,7 @@ reckon v S1, W3
 recognition n S3, W2
 recognize v S1, W1
 recommend v S2, W2
-LONGMAN COMMUNICATION 3000
+
 recommendation n S3,
 W3
 record n S1, W1
@@ -2748,7 +2748,7 @@ ridiculous adj S2
 right adj S1, W1
 right adv S1, W1
 right n S1, W1
-right interjection S2LONGMAN COMMUNICATION 3000
+right interjection S2
 ring n S1, W2
 ring v S1, W2
 rip v S3
@@ -3127,7 +3127,7 @@ stress n S3, W3
 stress v S3, W3
 stretch v S3, W3
 strict adj S3
-LONGMAN COMMUNICATION 3000
+
 strike n S3, W2
 strike v S3, W3
 string n S3, W2
@@ -3252,7 +3252,7 @@ tennis n S3, W3
 tension n W2
 tent n S3
 term n S1, W1
-terrible adj S1, W3LONGMAN COMMUNICATION 3000
+terrible adj S1, W3
 terribly adv S2
 territory n W2
 terror n W3
@@ -3502,7 +3502,7 @@ wait v S1, W1
 wake v S2, W3
 walk v S1, W1
 walk n S2, W2
-wall n S1, W1LONGMAN COMMUNICATION 3000
+wall n S1, W1
 16
 wander v S3
 want v S1, W1
@@ -3661,13 +3661,13 @@ zone n W3
 
 ### Longman Communication 3000
 
-The Longman Communication 3000 is a list of
+The  is a list of
 the 3000 most frequent words in both spoken
 and written English, based on statistical
 analysis of the 390 million words contained
 in the Longman Corpus Network – a group of
 corpuses or databases of authentic English
-language. The Longman Communication 3000
+language. The 
 represents the core of the English language and
 shows students of English which words are the
 most important for them to learn and study
@@ -3749,7 +3749,7 @@ also sometimes difficult and frustrating
 because there are so many things to learn
 and it is difficult to know what to focus on.
 The frequency markers that identify the
-Longman Communication 3000 help students
+ help students
 see clearly which words are frequent in written
 and spoken English, and enable them to focus
 more attention on mastering the meanings,

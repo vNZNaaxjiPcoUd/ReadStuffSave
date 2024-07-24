@@ -2,13 +2,13 @@ yt-dlp
 ======
 
 
-sudo wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -O yt-dlp
+    sudo wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -O yt-dlp
 
-sudo chmod a+rx yt-dlp
+    sudo chmod a+rx yt-dlp
 
-wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -O yt-dlp
+    wget https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -O yt-dlp
 
-chmod a+rx yt-dlp
+    chmod a+rx yt-dlp
 
 -F 	列出所有可供下載的格式及格式程式碼
 
@@ -50,33 +50,33 @@ chmod a+rx yt-dlp
 
 
 
-wget https://yt-dl.org/downloads/latest/youtube-dl
+    wget https://yt-dl.org/downloads/latest/youtube-dl
 
-chmod +x youtube-dl
+    chmod +x youtube-dl
 
-youtube-dl
+    youtube-dl
 
-./youtube-dl -f 22 --max-sleep-interval 10 --min-sleep-interval 3 https://www.youtube.com/watch?list=PLATwx1z00HscKbq4ImEJrOh_7EsAtv-iZ;echo $'\07'; sleep 1; echo $'\07'; sleep 1;  echo $'\07'; 
+    ./youtube-dl -f 22 --max-sleep-interval 10 --min-sleep-interval 3 https://www.youtube.com/watch?list=PLATwx1z00HscKbq4ImEJrOh_7EsAtv-iZ;echo $'\07'; sleep 1; echo $'\07'; sleep 1;  echo $'\07'; 
 
 https://youtube.com/playlist?list=PLATwx1z00HscKbq4ImEJrOh_7EsAtv-iZ
 
 https://www.youtube.com/watch?v=D8K8nbposnI
 
-./youtube-dl -F https://www.youtube.com/watch?v=D8K8nbposnI
+    ./youtube-dl -F https://www.youtube.com/watch?v=D8K8nbposnI
 
 
 https://www.youtube.com/playlist?list=PLzNcE0R_T2fpJgrWKNyrsryxJQ4NkRgTq
 
-../../youtube-dl -f 251 --max-sleep-interval 10 --min-sleep-interval 3 https://www.youtube.com/watch?list=PL0jbufV9LjGrPNm4wCO85XCtAKLyQcEjc;echo $'\07'; sleep 1; echo $'\07'; sleep 1;  echo $'\07'; 
+    ./youtube-dl -f 251 --max-sleep-interval 10 --min-sleep-interval 3 https://www.youtube.com/watch?list=PL0jbufV9LjGrPNm4wCO85XCtAKLyQcEjc;echo $'\07'; sleep 1; echo $'\07'; sleep 1;  echo $'\07'; 
 
 
 
 https://www.youtube.com/watch?v=nWb_X3ZJQjw&list=PLDgLLnSBXR_MdsJ_b_lXNKU9y8dTJZU08
 
-./youtube-dl -f 140 --max-sleep-interval 10 --min-sleep-interval 3 https://www.youtube.com/watch?list=PLDgLLnSBXR_MEiSCD8RDFPgNoCqkZPQz0;echo $'\07'; sleep 1; echo $'\07'; sleep 1;  echo $'\07'; sleep 1; echo $'\07'; sleep 1; echo $'\07';
+    ./youtube-dl -f 140 --max-sleep-interval 10 --min-sleep-interval 3 https://www.youtube.com/watch?list=PLDgLLnSBXR_MEiSCD8RDFPgNoCqkZPQz0;echo $'\07'; sleep 1; echo $'\07'; sleep 1;  echo $'\07'; sleep 1; echo $'\07'; sleep 1; echo $'\07';
 
 
-./youtube-dl -f 140 --max-sleep-interval 10 --min-sleep-interval 3 https://www.youtube.com/watch?list=RD2nry60MCU8U;echo $'\07'; sleep 1; echo $'\07'; sleep 1;  echo $'\07'; 
+    ./youtube-dl -f 140 --max-sleep-interval 10 --min-sleep-interval 3 https://www.youtube.com/watch?list=RD2nry60MCU8U;echo $'\07'; sleep 1; echo $'\07'; sleep 1;  echo $'\07'; 
 
 https://www.youtube.com/watch?v=2nry60MCU8U&list=RD2nry60MCU8U
 

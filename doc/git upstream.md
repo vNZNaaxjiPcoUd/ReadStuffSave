@@ -1,4 +1,5 @@
-# Git Forks and Upstreams
+Git Forks and Upstreams
+=======================
 
 # How-to and a cool tip
 

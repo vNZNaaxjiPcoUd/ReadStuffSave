@@ -1,5 +1,5 @@
 ---
 layout: shorturl
 go: https://zh-tw.manuals.plus/breville/breville-the-barista-express-bes870-espresso-machine-instruction-booklet
-title: Manual of Breville BES870
+title: Breville BES870 Manual
 ---

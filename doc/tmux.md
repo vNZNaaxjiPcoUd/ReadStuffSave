@@ -1,4 +1,4 @@
-## Tmux cheat sheet
+# Tmux Tip
 
 ### tmux sessions
 

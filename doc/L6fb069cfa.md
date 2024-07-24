@@ -6,7 +6,9 @@ title: 分享呈冊
 
 ### d.
 {% assign pp = site.pages | sort_natural: "title" %}
-{% for p in pp %} [{{ p.title }} .]({{ p.url }}){% endfor %}🍀
+{% for p in pp %} 
+[{{ p.title }} .]({{ p.url }})
+{% endfor %}🍀
 
 <!--<table rules="none" frame="none">
 {% tablerow p in pp cols:4 %}

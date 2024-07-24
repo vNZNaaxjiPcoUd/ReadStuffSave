@@ -1,6 +1,6 @@
 
 
-List of current emoji flag sequences
+emoji flag sequences
 ====================================
 
 https://en.wikipedia.org/wiki/Regional_indicator_symbol

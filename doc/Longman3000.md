@@ -5,7 +5,7 @@
 - W1 = one of the 1000 most frequent words in Written English
 - S2 = one of the 2000 most frequent words in Spoken English; 
 - W2 = one of the 2000 most frequent words in Written English
-- S3 = one of the 3000 most frequent words in Spoken English; 
+- S3 = one of the 3000 most frequent words in Spoken English;
 - W3 = one of the 3000 most frequent words in Written English
 
 - a indefinite article, determiner S1, W1
@@ -108,8 +108,7 @@
 - alcohol n W3
 - alive adj S2, W3
 - all determiner,
-- predeterminer, pron
-- S1, W1
+- predeterminer, pron S1, W1
 - all adv S1, W1
 - allow v S1, W1
 - allowance n S2, W3
@@ -148,15 +147,13 @@
 - announcement n S3, W3
 - annoy v S3
 - annual adj S2, W2
-- another determiner, pron
-- S1, W1
+- another determiner, pron S1, W1
 - answer n S1, W1
 - answer v S1, W2
 - anticipate v S3
 - anxiety n S3, W3
 - anxious adj S3, W3
-- any determiner, pron S1,
-- W1
+- any determiner, pron S1,W1
 - any adv S2
 - anybody pron S1, W3
 - anyhow adv S3
@@ -388,8 +385,7 @@
 - borrow v S2, W3
 - boss n S2, W3
 - both determiner,
-- predeterminer, pron
-- S1, W1
+- predeterminer, pron S1, W1
 - bother v S1, W3
 - bottle n S1, W2
 - bottom adj S1, W3
@@ -999,8 +995,7 @@
 - dust n S3, W3
 - duty n S2, W1
 - DVD n S3, W3
-- each determiner, pron, adv
-- S1, W1
+- each determiner, pron, adv S1, W1
 - each other pron S1, W1
 - ear n S2, W2
 - early adj S1, W1
@@ -1030,8 +1025,7 @@
 - effort n S1, W1
 - egg n S1, W2
 - either conj S1, W1
-- either determiner, pron
-- S1, W1
+- either determiner, pron S1, W1
 - elderly adj S3, W2
 - elect v S3, W3
 - election n S2, W1
@@ -1075,8 +1069,7 @@
 - enjoyable adj S3
 - enormous adj S2, W3
 - enough adv S1, W1
-- enough determiner, pron
-- S1, W2
+- enough determiner, pron S1, W2
 - enquiry n S2, W2
 - ensure v S2, W1
 - enter v S2, W1
@@ -1231,8 +1224,7 @@
 - fence n S3
 - festival n S3, W3
 - fetch v S3
-- few determiner, pron, adj
-- S1, W1
+- few determiner, pron, adj S1, W1
 - field n S1, W1
 - fight n S2, W3
 - fight v S1, W1
@@ -1399,8 +1391,7 @@
 - golden adj W3
 - golf n S2, W3
 - good adj S1, W1
-- good morning interjection
-- S2
+- good morning interjection S2
 - good night interjection S3
 - goodbye interjection S3
 - goodness n S2
@@ -1788,8 +1779,7 @@
 - league n W2
 - lean v S3
 - learn v S1, W1
-- least determiner, pron
-- S1, W1
+- least determiner, pron S1, W1
 - leather n W3
 - leave v S1, W1
 - leave n S3, W2
@@ -1804,8 +1794,7 @@
 - lend v S3, W3
 - length n S2, W2
 - less adv S1, W1
-- less determiner, pron S1,
-- W1
+- less determiner, pron S1,W1
 - lesson n S2, W3
 - let v S1, W1
 - letter n S1, W1
@@ -1849,8 +1838,7 @@
 - literature n S3, W2
 - little adj S1, W1
 - little adv S1, W1
-- little determiner, pron
-- S1, W1
+- little determiner, pron S1, W1
 - live v S1, W1
 - live adj S3, W3
 - lively adj S3
@@ -1920,8 +1908,7 @@
 - manner n S3, W2
 - manufacturer n W2
 - manufacturing n W3
-- many determiner, pron, adj
-- S1, W1
+- many determiner, pron, adj S1, W1
 - map n S2, W2
 - march v W2
 - march n W3
@@ -2026,14 +2013,12 @@
 - moon n W3
 - moral adj S3, W2
 - more adv S1, W1
-- more determiner, pron
-- S1, W1
+- more determiner, pron S1, W1
 - moreover adv W2
 - morning n S1, W1
 - mortgage n W3
 - most adv S1, W1
-- most determiner, pron
-- S1, W1
+- most determiner, pron S1, W1
 - mostly adv S2, W3
 - mother n S1, W1
 - motion n W3
@@ -2047,8 +2032,7 @@
 - movement n S1, W1
 - movie n S1, W2
 - much adv S1, W1
-- much determiner, pron
-- S1, W1
+- much determiner, pron S1, W1
 - mud n S3
 - mum n S1, W2
 - mummy n S1
@@ -2092,7 +2076,6 @@
 - neighbourhood n S3, W3
 - neither adv S2, W3
 - neither determiner, pron
-- W3
 - nerve n S3, W3
 - nervous adj S3, W3
 - net n W3
@@ -2219,8 +2202,7 @@
 - origin n W2
 - original adj S1, W1
 - originally adv S2, W2
-- other determiner, adj, pron
-- S1, W1
+- other determiner, adj, pron S1, W1
 - otherwise adv S1, W2
 - ought to modal S1, W1
 - ounce n S3
@@ -2565,8 +2547,7 @@
 - quiet adj S2, W2
 - quietly adv S3, W3
 - quit v S3
-- quite predeterminer, adv
-- S1, W1
+- quite predeterminer, adv S1, W1
 - quote v S2, W3
 - quote n S2
 - race n S2, W2
@@ -2586,8 +2567,7 @@
 - rare adj S3, W2
 - rarely adv W2
 - rate n S1, W1
-- rather predeterminer, adv
-- S1, W1
+- rather predeterminer, adv S1, W1
 - ratio n W3
 - raw adj W3
 - reach v S1, W1
@@ -2618,7 +2598,6 @@
 - recognize v S1, W1
 - recommend v S2, W2 
 - recommendation n S3,
-- W3
 - record n S1, W1
 - record v S3, W2
 - recording n W3
@@ -2868,11 +2847,9 @@
 - set n S1, W1
 - set v S1, W1
 - setting n W2
-- 13
 - settle v S2, W2
 - settlement n W2
-- several determiner, pron
-- S1, W1
+- several determiner, pron S1, W1
 - severe adj S3, W3
 - sew v S3
 - sex n S1, W2
@@ -2936,8 +2913,7 @@
 - simple adj S1, W1
 - simply adv S1, W1
 - sin n S2
-- since prep, conj, adv S1,
-- W1
+- since prep, conj, adv S1,W1
 - sing v S1, W2
 - singer n S3
 - single adj S1, W1
@@ -3148,9 +3124,7 @@
 - success n S1, W1
 - successful adj S2, W1
 - successfully adv W3
-- such determiner,
-- predeterminer, pron
-- S1, W1
+- such determiner, predeterminer, pron S1, W1
 - suck v S3
 - sudden adj S2, W3
 - suddenly adv S1, W1
@@ -3259,8 +3233,7 @@
 - thanks interjection S1
 - thanks n W3
 - that adv S1, W2
-- that determiner, pron S1,
-- W1
+- that determiner, pron S1,W1
 - that conj S1, W1
 - the definite article,
 - determiner S1, W1
@@ -3281,8 +3254,7 @@
 - thin adj S2, W2
 - thing n S1, W1
 - think v S1, W1
-- this determiner, pron S1,
-- W1
+- this determiner, pron S1,W1
 - though adv S1
 - though conj S1, W1
 - thought n S1, W1
@@ -3291,8 +3263,7 @@
 - three number S1
 - throat n S3, W3
 - through prep, adv S1, W1
-- throughout prep, adv
-- S2, W1
+- throughout prep, adv S2, W1
 - throw v S1, W1
 - thus adv W1
 - ticket n S1, W2
@@ -3393,8 +3364,7 @@
 - turn n S1, W1
 - turn v S1, W1
 - TV n S2, W2
-- twice adv, predeterminer
-- S2, W2
+- twice adv, predeterminer S2, W2
 - twist v S3
 - type n S1, W1
 - typical adj S2, W2
@@ -3542,23 +3512,17 @@
 - west n S1, W2
 - western adj S2, W2
 - wet adj S2, W3
-- what pron, determiner,
-- predeterminer S1, W1
-- whatever determiner, pron
-- S1, W1
+- what pron, determiner,predeterminer S1, W1
+- whatever determiner, pron S1, W1
 - whatsoever adv S2
 - wheel n S2, W3
-- when adv, conj, pron S1,
-- W1
-- whenever adv, conj S2,
-- W3
-- where adv, conj, pron
-- S1, W1
+- when adv, conj, pron S1,W1
+- whenever adv, conj S2,W3
+- where adv, conj, pron S1, W1
 - whereas conj S2, W2
 - wherever adv S2
 - whether conj S1, W1
-- which determiner, pron
-- S1, W1
+- which determiner, pron S1, W1
 - while conj S1, W1
 - while n S1, W2
 - whisky n S3
@@ -3570,8 +3534,7 @@
 - whole adj S1, W1
 - whole n S2, W2
 - whom pron S3, W1
-- whose determiner, pron
-- S2, W1
+- whose determiner, pron S2, W1
 - why adv, conj S1, W1
 - wicked adj S3
 - wide adj S1, W1

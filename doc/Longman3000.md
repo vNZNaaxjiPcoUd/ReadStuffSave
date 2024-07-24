@@ -234,8 +234,7 @@
 - attention n S2, W1
 - attitude n S2, W1
 - attorney n S2, W3
-- attract v S2, W2
-- 
+- attract v S2, W2 
 - attraction n W3
 - attractive adj S2, W2
 - audience n S2, W2
@@ -612,8 +611,7 @@
 - cold adj S1, W1
 - collapse v S3
 - collar n S3
-- colleague n S2, W2
-- 
+- colleague n S2, W2 
 - collect v S1, W2
 - collection n S2, W1
 - college n S1, W2
@@ -1117,7 +1115,6 @@
 - evening n S1, W1
 - event n S1, W1
 - eventually adv S1, W2
-- 
 - ever adv S1, W1
 - every determiner S1, W1
 - everybody pron S1, W3
@@ -1618,8 +1615,7 @@
 - incredibly adv S3
 - indeed adv S1, W1
 - independence n W2
-- independent adj S2, W2
-- 
+- independent adj S2, W2 
 - index n W2
 - indicate v S3, W1
 - indication n S3, W3
@@ -2119,8 +2115,7 @@
 - no one pron S1, W2
 - no way adv S2
 - nobody pron S1, W2
-- nod v W2
-- 
+- nod v W2 
 - noise n S2, W2
 - noisy adj S3
 - none pron S1, W2
@@ -2621,8 +2616,7 @@
 - reckon v S1, W3
 - recognition n S3, W2
 - recognize v S1, W1
-- recommend v S2, W2
-- 
+- recommend v S2, W2 
 - recommendation n S3,
 - W3
 - record n S1, W1
@@ -3126,8 +3120,7 @@
 - stress n S3, W3
 - stress v S3, W3
 - stretch v S3, W3
-- strict adj S3
-- 
+- strict adj S3 
 - strike n S3, W2
 - strike v S3, W3
 - string n S3, W2
@@ -3656,102 +3649,8 @@
 - yourself pron S1, W2
 - youth n S2, W2
 - zone n W3
-- 
-- -----------------------------------------------------------------------
-- 
-- ### Longman Communication 3000
-- 
-- The  is a list of
-- the 3000 most frequent words in both spoken
-- and written English, based on statistical
-- analysis of the 390 million words contained
-- in the Longman Corpus Network – a group of
-- corpuses or databases of authentic English
-- language. The 
-- represents the core of the English language and
-- shows students of English which words are the
-- most important for them to learn and study
-- in order to communicate effectively in both
-- speech and writing.
-- Analysis of the Longman Corpus Network
-- shows that these 3000 most frequent words
-- in spoken and written English account for
-- 86% of the language. This means that by
-- knowing this list of words, a learner of English
-- is in a position to understand 86% or more of
-- what he or she reads. Of course, “knowing”
-- a word involves more than simply being able
-- to recognise it and know a main meaning of
-- it. Many of the most frequent words have
-- a range of different meanings, a variety of
-- different grammatical patterns, and numerous
-- significant collocations. Nonetheless, a basic
-- understanding of the Longman Communication
-- 3000 is a very powerful tool and will help
-- students develop good comprehension and
-- communication skills in English.
-- ‘This [frequency] information is gold dust for
-- the language learner. LDOCE shows in graphic
-- and immediate form which words are really
-- worth learning and knowing how to use.’
-- Jeremy Harmer, ELT author
-- To ensure that users have access to the
-- appropriate information, the Longman
-- Dictionary of Contemporary English marks all
-- the words that are in the Longman
-- Communication 3000 in red accompanied by
-- special symbols: W1 , W2 , and W3 for words that
-- are in the top 1000, 2000 and 3000 most
-- frequent words in written English, and S1 , S2
-- and S3 for the top 1000, 2000 and 3000 most
-- frequent words in spoken English. Nowadays,
-- many learner’s dictionaries include information
-- about the most frequent words in English, but
-- Longman dictionaries are the only ones to
-- highlight the differences between spoken and
-- written frequency.
-- These frequency markers added to the
-- headwords in the dictionary give users access
-- to a wealth of information that can help the
-- selection of the appropriate word or phrase in
-- a variety of situations. Not only are the words
-- and meanings given descriptive labels, for
-- example formal or informal, AmE (American
-- English) or BrE (British English), humorous,
-- old-fashioned, but now they have the added
-- information about relative frequency in spoken
-- and written language.
-- Take for example the verb book (in the meaning
-- of book a table at a restaurant). It is marked
-- as S2 – one of the top 2000 words of spoken
-- English. Note that is has no marker for written
-- English because according to corpus analysis,
-- it is not part of the top 3000 most frequent
-- words in written English. However, the entry
-- also indicates that a synonym for book is reserve
-- which is in the top 3000 most frequent words
-- in written English. The conclusion to be drawn
-- from this is that in speaking (for instance when
-- phoning a hotel or restaurant), book is the most
-- appropriate verb to use when asking for a room
-- or table to be kept for you. In writing, however,
-- it would be more appropriate to use reserve.
-- ‘There are two distinct modes of English:
-- thoughtful, accurate and more formal, reflected
-- mostly by written English; and spontaneous,
-- real-time, less formal language, typified by
-- spontaneous speech and some informal writing.’
-- Professor Geoffrey Leech,
-- Emeritus Professor of English Language
-- and Linguistics – University of Lancaster
-- Learning a language can be exciting, but
-- also sometimes difficult and frustrating
-- because there are so many things to learn
-- and it is difficult to know what to focus on.
-- The frequency markers that identify the
--  help students
-- see clearly which words are frequent in written
-- and spoken English, and enable them to focus
-- more attention on mastering the meanings,
-- grammatical patterns and collocations of
-- these words.
+
+-----------------------------------------------------------------------
+
+### Longman Communication 3000
+The is a list of the 3000 most frequent words in both spoken and written English, based on statistical analysis of the 390 million words contained in the Longman Corpus Network – a group of corpuses or databases of authentic English language. The represents the core of the English language and shows students of English which words are the most important for them to learn and study in order to communicate effectively in both speech and writing. Analysis of the Longman Corpus Network shows that these 3000 most frequent words in spoken and written English account for 86% of the language. This means that by knowing this list of words, a learner of English is in a position to understand 86% or more of what he or she reads. Of course, “knowing” a word involves more than simply being able to recognise it and know a main meaning of it. Many of the most frequent words have a range of different meanings, a variety of different grammatical patterns, and numerous significant collocations. Nonetheless, a basic understanding of the Longman Communication 3000 is a very powerful tool and will help students develop good comprehension and communication skills in English. ‘This [frequency] information is gold dust for the language learner. LDOCE shows in graphic and immediate form which words are really worth learning and knowing how to use.’ Jeremy Harmer, ELT author To ensure that users have access to the appropriate information, the Longman Dictionary of Contemporary English marks all the words that are in the Longman Communication 3000 in red accompanied by special symbols: W1 , W2 , and W3 for words that are in the top 1000, 2000 and 3000 most frequent words in written English, and S1 , S2 and S3 for the top 1000, 2000 and 3000 most frequent words in spoken English. Nowadays, many learner’s dictionaries include information about the most frequent words in English, but Longman dictionaries are the only ones to highlight the differences between spoken and written frequency. These frequency markers added to the headwords in the dictionary give users access to a wealth of information that can help the selection of the appropriate word or phrase in a variety of situations. Not only are the words and meanings given descriptive labels, for example formal or informal, AmE (American English) or BrE (British English), humorous, old-fashioned, but now they have the added information about relative frequency in spoken and written language. Take for example the verb book (in the meaning of book a table at a restaurant). It is marked as S2 – one of the top 2000 words of spoken English. Note that is has no marker for written English because according to corpus analysis, it is not part of the top 3000 most frequent words in written English. However, the entry also indicates that a synonym for book is reserve which is in the top 3000 most frequent words in written English. The conclusion to be drawn from this is that in speaking (for instance when phoning a hotel or restaurant), book is the most appropriate verb to use when asking for a room or table to be kept for you. In writing, however, it would be more appropriate to use reserve. ‘There are two distinct modes of English: thoughtful, accurate and more formal, reflected mostly by written English; and spontaneous, real-time, less formal language, typified by spontaneous speech and some informal writing.’ Professor Geoffrey Leech, Emeritus Professor of English Language and Linguistics – University of Lancaster Learning a language can be exciting, but also sometimes difficult and frustrating because there are so many things to learn and it is difficult to know what to focus on. The frequency markers that identify the help students see clearly which words are frequent in written and spoken English, and enable them to focus more attention on mastering the meanings, grammatical patterns and collocations of these words.

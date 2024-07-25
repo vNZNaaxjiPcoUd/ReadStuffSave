@@ -9,6 +9,8 @@ audio 140 (-f 140)
 
     ffmpeg -i video.mp4 -i audio.m4a -c:v copy -c:a aac -map 0:v -map 1:a output.mp4
 
+    ffmpeg -i video.mp4 -i audio.m4a -c:v copy -c:a copy -map 0:v -map 1:a output.mp4
+
 # to mp3
     ffmpeg -i audio.ogg -acodec mp3 newfile.mp3
 
@@ -25,6 +27,12 @@ audio 140 (-f 140)
 
 # to mp3
     ffmpeg -i sleepsoundsmall.m4a -codec:a libmp3lame sleepsoundsmall.mp3
+
+# mp3 to mp4
+
+    ffmpeg -loop 1 -i image.jpg -i audio.m4a -c:a copy -c:v libx264 -shortest out.mp4
+
+    ffmpeg -loop 1 -i pic.jpg -i inaudio.mp3 -c:a aac -c:v libx264 -shortest out.mp4
 
 # handle totoro
 

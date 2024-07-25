@@ -20,12 +20,12 @@ yt-dlp
 | sb2  mhtml 80x45  0 | mhtml | images  storyboard |
 | sb1  mhtml 160x90 0 | mhtml | images  storyboard |
 | sb0  mhtml 320x1800 | mhtml | images  storyboard |
-| 233  mp4audio only  | m3u8  | audio only  unknown Default |
-| 234  mp4audio only  | m3u8  | audio only  unknown Default |
-| 139-drc m4aaudio only2 | 8.84MiB 49k https | audio only  mp4a.40.549k 22k low, DRC, m4a_dash |
-| 139  m4aaudio only2 | 8.84MiB 49k https | audio only  mp4a.40.549k 22k low, m4a_dash |
-| 140-drc m4aaudio only2 |23.47MiB129k https | audio only  mp4a.40.2  129k 44k medium, DRC, m4a_dash |
-| 140  m4aaudio only2 |23.47MiB129k https | audio only  mp4a.40.2  129k 44k medium, m4a_dash |
+| 233  mp4 audio only  | m3u8  | audio only  unknown Default |
+| 234  mp4 audio only  | m3u8  | audio only  unknown Default |
+| 139-drc m4a audio only2 | 8.84MiB 49k https | audio only  mp4a.40.549k 22k low, DRC, m4a_dash |
+| 139  m4a audio only2 | 8.84MiB 49k https | audio only  mp4a.40.549k 22k low, m4a_dash |
+| 140-drc m4a audio only2 |23.47MiB129k https | audio only  mp4a.40.2  129k 44k medium, DRC, m4a_dash |
+| 140  m4a audio only2 |23.47MiB129k https | audio only  mp4a.40.2  129k 44k medium, m4a_dash |
 | 602  mp4256x144  15 | ~ 18.51MiB102k m3u8  | vp09.00.10.08102k video only |
 | 269  mp4256x144  30 | ~ 31.05MiB171k m3u8  | avc1.4D400C  171k video only |
 | 160  mp4256x144  30 |15.40MiB 85k https | avc1.4D400C85k video only 144p, mp4_dash |

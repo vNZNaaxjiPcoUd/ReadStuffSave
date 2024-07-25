@@ -14,11 +14,44 @@ yt-dlp
 
 -f [FORMAT] 	指定格式程式碼
 
+| ID  EXT  RESOLUTION FPS CH | FILESIZE TBR PROTO | VCODEC  VBR ACODECABR ASR MORE INFO |
+| ---- | ---- | --- |
+| sb3  mhtml 48x27  0 | mhtml | images storyboard |
+| sb2  mhtml 80x45  0 | mhtml | images  storyboard |
+| sb1  mhtml 160x90 0 | mhtml | images  storyboard |
+| sb0  mhtml 320x1800 | mhtml | images  storyboard |
+| 233  mp4audio only  | m3u8  | audio only  unknown Default |
+| 234  mp4audio only  | m3u8  | audio only  unknown Default |
+| 139-drc m4aaudio only2 | 8.84MiB 49k https | audio only  mp4a.40.549k 22k low, DRC, m4a_dash |
+| 139  m4aaudio only2 | 8.84MiB 49k https | audio only  mp4a.40.549k 22k low, m4a_dash |
+| 140-drc m4aaudio only2 |23.47MiB129k https | audio only  mp4a.40.2  129k 44k medium, DRC, m4a_dash |
+| 140  m4aaudio only2 |23.47MiB129k https | audio only  mp4a.40.2  129k 44k medium, m4a_dash |
+| 602  mp4256x144  15 | ~ 18.51MiB102k m3u8  | vp09.00.10.08102k video only |
+| 269  mp4256x144  30 | ~ 31.05MiB171k m3u8  | avc1.4D400C  171k video only |
+| 160  mp4256x144  30 |15.40MiB 85k https | avc1.4D400C85k video only 144p, mp4_dash |
+| 603  mp4256x144  30 | ~ 31.40MiB173k m3u8  | vp09.00.11.08173k video only |
+| 229  mp4426x240  30 | ~ 56.68MiB313k m3u8  | avc1.4D4015  313k video only |
+| 133  mp4426x240  30 |34.12MiB188k https | avc1.4D4015  188k video only 240p, mp4_dash |
+| 604  mp4426x240  30 | ~ 57.92MiB319k m3u8  | vp09.00.20.08319k video only |
+| 230  mp4640x360  30 | ~145.74MiB804k m3u8  | avc1.4D401E  804k video only |
+| 134  mp4640x360  30 |74.27MiB410k https | avc1.4D401E  410k video only 360p, mp4_dash |
+| 605  mp4640x360  30 | ~141.92MiB783k m3u8  | vp09.00.21.08783k video only |
+| 231  mp4854x480  30 | ~306.22MiB  1689k m3u8  | avc1.4D401F 1689k video only |
+| 135  mp4854x480  30 |  122.17MiB674k https | avc1.4D401F  674k video only 480p, mp4_dash |
+| 606  mp4854x480  30 | ~226.81MiB  1251k m3u8  | vp09.00.30.08  1251k video only |
+| 311  mp41280x720 60 | ~690.06MiB  3806k m3u8  | avc1.4D4020 3806k video only |
+| 298  mp41280x720 60 |  518.81MiB  2862k https | avc1.4D4020 2862k video only 720p60, mp4_dash |
+| 612  mp41280x720 60 | ~702.43MiB  3874k m3u8  | vp09.00.40.08  3874k video only |
+| 312  mp41920x108060 | ~  1.18GiB  6686k m3u8  | avc1.64002A 6686k video only |
+| 299  mp41920x108060 |  902.42MiB  4978k https | avc1.64002A 4978k video only 1080p60, mp4_dash |
+| 617  mp41920x108060 | ~  1.12GiB  6345k m3u8  | vp09.00.41.08  6345k video only |
+| 623  mp42560x144060 | ~  2.72GiB 15374k m3u8  | vp09.00.50.08 15374k video only |
+| 628  mp43840x216060 | ~  5.02GiB 28343k m3u8  | vp09.00.51.08 28343k video only |
 
 
--F 	列出所有可供下載的格式及格式程式碼
 
--f [FORMAT] 	指定格式程式碼
+
+
 
 通常1080p以上品質的影片並不會自帶聲音
     所以要額外多加下載音訊檔案
@@ -27,6 +60,10 @@ yt-dlp
     示範如下
 
     yt-dlp -f 303+251 https://youtu.be/mimLMJO5o9o
+
+    或用merge
+
+    ffmpeg -i video.mp4 -i audio.m4a -c:v copy -c:a copy -map 0:v -map 1:a output.mp4
 
 
 --extract-audio 	將影片檔案轉換為純音訊檔案

@@ -11,8 +11,8 @@ layout: listpage
 🍀
 
 <!---->
-<table  cellspacing="0" cellpadding="0" >
+<table  cellspacing="1" cellpadding="1" >
 {% tablerow p in pp cols:3 %}
-  <a href="{{ p.url }}">{{ p.title }}</a>
+  <a href="{{ p.url }}">{{ p.title }}<br></a>
 {% endtablerow %}
 </table> 🍀

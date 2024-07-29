@@ -1,8 +1,16 @@
+test
+====
+
+
 # Common Screen Resolutions in 2024 : Mobile, Desktop & Tablet
+
+
 
 When Instagram on Android was first released in 2012, little did they anticipate that there would be issues in the user experience compared to their iOS users. Users observed and reported issues with layout and performance issues on the Android app. 
 
 Testing your application on multiple screen resolutions across multiple devices is more critical and crucial for your products than 2012 as smartphone adoption is increasing rapidly.
+
+
 
 ### What is Screen Resolution?
 
@@ -32,7 +40,7 @@ Here are the top most common screen resolution sizes are:
 - 390 x 844
 - 393 x 873
 
-![most common screen resolutions in 2024](./Common Screen Resolutions in 2024 _ Mobile, Desktop & Tablet_files/Screenshot-2024-06-23-at-11.47.55-AM.png "most common screen resolutions in 2024")
+![most common screen resolutions in 2024](https://browserstack.wpenginepowered.com/wp-content/uploads/2024/06/Screenshot-2024-06-23-at-11.47.55-AM.png "most common screen resolutions in 2024")
 
 **Common Screen Resolutions for Desktop in 2024**
 
@@ -45,7 +53,7 @@ If you making a decision about the most common screen resolutions for Desktops i
 - 1440 x 900
 - 1600 x 900
 
-![common screen resolutions for Desktop in 2024](./Common Screen Resolutions in 2024 _ Mobile, Desktop & Tablet_files/Screenshot-2024-06-23-at-11.48.15-AM.png "common screen resolutions for Desktop in 2024")
+![common screen resolutions for Desktop in 2024](https://browserstack.wpenginepowered.com/wp-content/uploads/2024/06/Screenshot-2024-06-23-at-11.48.15-AM.png "common screen resolutions for Desktop in 2024")
 
 **Common Screen Resolutions for Mobile in 2024**
 
@@ -58,7 +66,7 @@ For common screen resolutions for mobile in 2024, see the following:
 - 414 x 896
 - 360 x 780
 
-![common screen resolutions for Mobile in 2024](./Common Screen Resolutions in 2024 _ Mobile, Desktop & Tablet_files/Screenshot-2024-06-23-at-11.43.54-AM.png "common screen resolutions for Mobile in 2024")
+![common screen resolutions for Mobile in 2024](https://browserstack.wpenginepowered.com/wp-content/uploads/2024/06/Screenshot-2024-06-23-at-11.43.54-AM.png "common screen resolutions for Mobile in 2024")
 
 **Common Screen Resolutions for Tablet in 2024**
 
@@ -71,7 +79,7 @@ With the popularity of tablets rising worldwide, if you want to identify the com
 - 800 x 1280
 - 601 x 962
 
-![most common screen resolutions for Tablet in 2024](./Common Screen Resolutions in 2024 _ Mobile, Desktop & Tablet_files/Screenshot-2024-06-23-at-11.56.02-AM.png "most common screen resolutions for Tablet in 2024")
+![most common screen resolutions for Tablet in 2024](https://browserstack.wpenginepowered.com/wp-content/uploads/2024/06/Screenshot-2024-06-23-at-11.56.02-AM.png "most common screen resolutions for Tablet in 2024")
 
 ### Responsive Web Design for seamless UX across Screen Resolutions
 
@@ -84,7 +92,7 @@ When you start designing your applications, consider the following so that your 
 - **Viewport meta tag:** Set the viewport meta tag for proper scaling on different devices, improving readability and layout consistency.
 - **Touch-friendly elements:** Ensure buttons and interactive elements are appropriately sized for touch screens, improving usability.
 
-[![BrowserStack Live Banner 2](./Common Screen Resolutions in 2024 _ Mobile, Desktop & Tablet_files/BrowserStack-Live-Banner-2.png "BrowserStack Live Banner 2")](https://www.browserstack.com/guide/common-screen-resolutions#)
+[![BrowserStack Live Banner 2](https://browserstack.wpenginepowered.com/wp-content/uploads/2024/06/BrowserStack-Live-Banner-2.png "BrowserStack Live Banner 2")](https://www.browserstack.com/guide/common-screen-resolutions#)
 
 ### Mobile vs Desktop vs Tablet Screen Resolutions
 
@@ -98,7 +106,7 @@ Here is a comparison between mobile, desktop, and tablet screen resolutions and 
 
 ### Test Website on different Screen Resolutions on Real Devices
 
-[BrowserStack Live](https://www.browserstack.com/live "Cross browser testing on desktop & mobile") is a cross-browser, cloud-based manual testing platform for websites and web apps. With Live, you can interactively test and debug websites and web apps on a wide range of real devices and browsers. It gives you access to more than 3500 real desktop and mobile browser combinations. 
+[BrowserStack Live](https://www.browserstack.com/live "Cross browser testing on desktop &amp; mobile") is a cross-browser, cloud-based manual testing platform for websites and web apps. With Live, you can interactively test and debug websites and web apps on a wide range of real devices and browsers. It gives you access to more than 3500 real desktop and mobile browser combinations. 
 
 In this example, navigating to the [www.bstackdemo.com](http://www.bstackdemo.com/ "www.bstackdemo.com") website and see how different screen resolutions affect user experience. We will see how a responsive web application changes layout as different screen sizes are used. We will use the Chrome browser on all devices.
 
@@ -110,23 +118,23 @@ To test your application across different screen resolutions using Live, do the 
 
 **Step 3.** Click **iOS > iPhone 12**, and then select **Chrome**
 
-![Test on different screen resolutions on real devices](./Common Screen Resolutions in 2024 _ Mobile, Desktop & Tablet_files/Screenshot-2024-06-23-at-12.19.55-PM.png "Test on different screen resolutions on real devices")
+![Test on different screen resolutions on real devices](https://browserstack.wpenginepowered.com/wp-content/uploads/2024/06/Screenshot-2024-06-23-at-12.19.55-PM.png "Test on different screen resolutions on real devices")
 
 **Step 4.** Click Switch Browser, and then click iOS > iPad 9th.
 
-![Test on different screen resolutions on real tablet devices](./Common Screen Resolutions in 2024 _ Mobile, Desktop & Tablet_files/Screenshot-2024-06-23-at-12.20.36-PM.png "Test on different screen resolutions on real tablet devices")
+![Test on different screen resolutions on real tablet devices](https://browserstack.wpenginepowered.com/wp-content/uploads/2024/06/Screenshot-2024-06-23-at-12.20.36-PM.png "Test on different screen resolutions on real tablet devices")
 
 **Step 5.** Click **Switch Browser**, and then click **Android > Samsung S24**.
 
-![Test on different screen resolutions on real Android Mobile device](./Common Screen Resolutions in 2024 _ Mobile, Desktop & Tablet_files/Screenshot-2024-06-23-at-12.21.13-PM.png "Test on different screen resolutions on real Android Mobile device")
+![Test on different screen resolutions on real Android Mobile device](https://browserstack.wpenginepowered.com/wp-content/uploads/2024/06/Screenshot-2024-06-23-at-12.21.13-PM.png "Test on different screen resolutions on real Android Mobile device")
 
 **Step 6.** Click **Switch Browser**, and then click **Android > Samsung Galaxy Tab S7.**
 
-![Test on different screen resolutions on real Android Tablet device](./Common Screen Resolutions in 2024 _ Mobile, Desktop & Tablet_files/Screenshot-2024-06-23-at-12.22.34-PM.png "Test on different screen resolutions on real Android Tablet device")
+![Test on different screen resolutions on real Android Tablet device](https://browserstack.wpenginepowered.com/wp-content/uploads/2024/06/Screenshot-2024-06-23-at-12.22.34-PM.png "Test on different screen resolutions on real Android Tablet device")
 
 **Step 7.** Click **Switch Browser**, and then click **Windows > 11> Chrome 126**.
 
-![Test on different screen resolutions on real Desktop device](./Common Screen Resolutions in 2024 _ Mobile, Desktop & Tablet_files/Screenshot-2024-06-23-at-12.23.52-PM.png "Test on different screen resolutions on real Desktop device")
+![Test on different screen resolutions on real Desktop device](https://browserstack.wpenginepowered.com/wp-content/uploads/2024/06/Screenshot-2024-06-23-at-12.23.52-PM.png "Test on different screen resolutions on real Desktop device")
 
 As you see, a web application that is responsively created optimizes the screen as you change the devices. BrowserStack Live makes it easy to switch between devices and browsers without adding the overhead of maintaining the repository of these devices.
 
@@ -149,4 +157,4 @@ Try testing the responsiveness of your website on real devices.
 
 When it comes to testing across multiple devices, default browsers through their developer tools give access to some popular devices that you can test your web application on. But, when you are creating your application with an intent for larger distribution, testing on limited devices hampers success of your web application. 
 
-[BrowserStack Live](https://www.browserstack.com/live "Cross browser testing on desktop & mobile") apart from giving access to 3500+ browser device combinations, also gives access to plethora of features that you can leverage. Some of the features that you can use are media injection, payment workflows, physical SIM, location settings, [local testing](https://www.browserstack.com/test-in-local-environments "Test apps and websites in your local environments"), etc.
+[BrowserStack Live](https://www.browserstack.com/live "Cross browser testing on desktop &amp; mobile") apart from giving access to 3500+ browser device combinations, also gives access to plethora of features that you can leverage. Some of the features that you can use are media injection, payment workflows, physical SIM, location settings, [local testing](https://www.browserstack.com/test-in-local-environments "Test apps and websites in your local environments"), etc.

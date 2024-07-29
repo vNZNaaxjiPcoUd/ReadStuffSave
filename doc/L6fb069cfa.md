@@ -1,5 +1,6 @@
 ---
 title: 分享呈冊
+layout: listpage
 ---
 
 {{ site.time | date: "%m-%d %H:%M:%S" }}
@@ -11,7 +12,7 @@ title: 分享呈冊
 
 <!---->
 <table  cellspacing="0" cellpadding="0" >
-{% tablerow p in pp cols:4 %}
+{% tablerow p in pp cols:3 %}
   <a href="{{ p.url }}">{{ p.title }}</a>
 {% endtablerow %}
 </table> 🍀

@@ -1,4 +1,4 @@
-NB Dell inspiron 15 Laptop 3520 Tech Specs
+Dell inspiron 15 3520
 ==========
 Dell Inspiron 15 Laptop 3520
 

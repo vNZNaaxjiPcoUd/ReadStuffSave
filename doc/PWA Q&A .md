@@ -1,4 +1,4 @@
-## 1. 哪些应用商店把 PWA 作为一等公民
+# 哪些应用商店把PWA作为一等公民
 
 - Microsoft Store（[官方应用开发文档](https://learn.microsoft.com/en-us/windows/apps/get-started/%3Ftabs%3Dwinappsdk-winui%252Cpwa)，官方应用商店文档[1](https://learn.microsoft.com/en-us/windows/apps/publish/publish-your-app/overview%3Fpivots%3Dstore-installer-pwa)、[2](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/how-to/microsoft-store)，[博客文章](https://blogs.windows.com/%3Fs%3Dpwa)、[PWABuilder 文档](https://docs.pwabuilder.com/%23/builder/windows)）
 - Google Play（[官方课程](https://developers.google.com/codelabs/pwa-in-play%230)、[ChromeOS 文档](https://chromeos.dev/en/publish/pwa-in-play)、[PWABuilder 文档](https://docs.pwabuilder.com/%23/builder/android)）

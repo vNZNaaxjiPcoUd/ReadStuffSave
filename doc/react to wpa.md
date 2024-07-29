@@ -1,4 +1,4 @@
-# 用 create-react-app 快速打造 Progressive Web App
+# react 2 wpa
 
 PWA 很棒，但 PWA 好像不好做？這篇帶你用很夯的前端框架 React 打造 Progressive Web App！
 

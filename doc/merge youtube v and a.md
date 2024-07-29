@@ -1,4 +1,4 @@
-Merge video and audio of youtube by ffmpeg
+ffmpeg merge video and audio
 ==========================================
 
 ```

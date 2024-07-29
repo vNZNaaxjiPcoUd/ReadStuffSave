@@ -1,4 +1,4 @@
-# 實作開源小工具，與 Github Actions 的第一次相遇！
+# Github Actions！
 
 [Follow](https://medium.com/m/signin?actionUrl=https%3A%2F%2Fmedium.com%2F_%2Fsubscribe%2Fuser%2Ffac5c5351760&operation=register&redirect=https%3A%2F%2Fmedium.com%2Fstarbugs%2F%E5%AF%A6%E4%BD%9C%E9%96%8B%E6%BA%90%E5%B0%8F%E5%B7%A5%E5%85%B7-%E8%88%87-github-actions-%E7%9A%84%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9B%B8%E9%81%87-3dd2d70eeb&user=%E8%8E%AB%E5%8A%9B%E5%85%A8+Kyle+Mo&userId=fac5c5351760&source=post_page-fac5c5351760----3dd2d70eeb---------------------post_header-----------)
 

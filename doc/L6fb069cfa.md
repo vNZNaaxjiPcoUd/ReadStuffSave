@@ -10,7 +10,7 @@ title: 分享呈冊
 🍀
 
 <!---->
-<table rules="none" frame="none">
+<table  cellspacing="0" cellpadding="0" >
 {% tablerow p in pp cols:4 %}
   <a href="{{ p.url }}">{{ p.title }}</a>
 {% endtablerow %}

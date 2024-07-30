@@ -10,3 +10,4 @@ YOUTUBE COLLECT
 - [老婆大人](https://www.youtube.com/@Wife-King/videos)
 - [The Wall Street Journal](https://www.youtube.com/@wsj/videos)
 - [喜剧大联盟](https://www.youtube.com/@SuperComedyLeague/videos)
+- [HereComesUU](https://www.youtube.com/@herecomesuu/videos)

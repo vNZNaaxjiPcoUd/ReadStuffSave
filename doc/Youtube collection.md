@@ -6,3 +6,4 @@ YOUTUBE COLLECT
 - [MỸ NHÂN](https://www.youtube.com/@mynhan7306/videos)
 - [ゆっっくりな](https://www.youtube.com/@rina_yukkuri/videos)
 - [魚乾](https://www.youtube.com/channel/UCpgt8SEyAy5tbr9BzVK8Lsg)
+- [丹牛食](https://www.youtube.com/@dsfoodtour/videos)

@@ -12,3 +12,5 @@ YOUTUBE COLLECT
 - [喜剧大联盟](https://www.youtube.com/@SuperComedyLeague/videos)
 - [HereComesUU](https://www.youtube.com/@herecomesuu/videos)
 - [七七叭叭](https://www.youtube.com/@7788talk/videos)
+- [查理不朗妮](https://www.youtube.com/@boniboni11011/videos)
+- [popo](https://www.youtube.com/@pupu395/videos)

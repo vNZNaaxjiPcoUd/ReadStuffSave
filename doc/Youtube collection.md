@@ -7,3 +7,4 @@ YOUTUBE COLLECT
 - [ゆっっくりな](https://www.youtube.com/@rina_yukkuri/videos)
 - [魚乾](https://www.youtube.com/channel/UCpgt8SEyAy5tbr9BzVK8Lsg)
 - [丹牛食](https://www.youtube.com/@dsfoodtour/videos)
+- [老婆大人](https://www.youtube.com/@Wife-King/videos)

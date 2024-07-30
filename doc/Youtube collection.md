@@ -11,3 +11,4 @@ YOUTUBE COLLECT
 - [The Wall Street Journal](https://www.youtube.com/@wsj/videos)
 - [喜剧大联盟](https://www.youtube.com/@SuperComedyLeague/videos)
 - [HereComesUU](https://www.youtube.com/@herecomesuu/videos)
+- [七七叭叭](https://www.youtube.com/@7788talk/videos)

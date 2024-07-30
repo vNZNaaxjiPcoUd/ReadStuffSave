@@ -14,3 +14,4 @@ YOUTUBE COLLECT
 - [七七叭叭](https://www.youtube.com/@7788talk/videos)
 - [查理不朗妮](https://www.youtube.com/@boniboni11011/videos)
 - [PoPo12138](https://www.youtube.com/@popo12138)
+- [藻蝦 坐火車](https://www.youtube.com/@Amanoshrimp0212/videos)

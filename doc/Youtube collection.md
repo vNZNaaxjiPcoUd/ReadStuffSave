@@ -15,3 +15,5 @@ YOUTUBE COLLECT
 - [查理不朗妮](https://www.youtube.com/@boniboni11011/videos)
 - [PoPo12138](https://www.youtube.com/@popo12138)
 - [藻蝦 坐火車](https://www.youtube.com/@Amanoshrimp0212/videos)
+- [就是正義](https://www.youtube.com/@Mr.F2/videos)
+- [沙拉生活 露營 玩水](https://www.youtube.com/@sara800114/videos)

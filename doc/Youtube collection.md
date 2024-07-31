@@ -18,3 +18,4 @@ YOUTUBE COLLECT
 - [就是正義](https://www.youtube.com/@Mr.F2/videos)
 - [沙拉生活 露營 玩水](https://www.youtube.com/@sara800114/videos)
 - [金魚腦](https://www.youtube.com/@goldfishbrain/videos)
+- [えりかチャンネル 溫泉](https://www.youtube.com/@ErikaFans-Channel/shorts)

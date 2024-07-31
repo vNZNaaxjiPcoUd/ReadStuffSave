@@ -19,3 +19,4 @@ YOUTUBE COLLECT
 - [沙拉生活 露營 玩水](https://www.youtube.com/@sara800114/videos)
 - [金魚腦](https://www.youtube.com/@goldfishbrain/videos)
 - [えりかチャンネル 溫泉](https://www.youtube.com/@ErikaFans-Channel/shorts)
+- [阿昏阿頑的後青春事件簿](https://www.youtube.com/@trytrywalker/videos)

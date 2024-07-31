@@ -20,3 +20,4 @@ YOUTUBE COLLECT
 - [金魚腦](https://www.youtube.com/@goldfishbrain/videos)
 - [えりかチャンネル 溫泉](https://www.youtube.com/@ErikaFans-Channel/shorts)
 - [阿昏阿頑的後青春事件簿](https://www.youtube.com/@trytrywalker/videos)
+- [Mike English](https://www.youtube.com/@mikewooenglish)

@@ -21,3 +21,4 @@ YOUTUBE COLLECT
 - [えりかチャンネル 溫泉](https://www.youtube.com/@ErikaFans-Channel/shorts)
 - [阿昏阿頑的後青春事件簿](https://www.youtube.com/@trytrywalker/videos)
 - [Mike English](https://www.youtube.com/@mikewooenglish)
+- [あんずチャンネル 露營](https://www.youtube.com/@ANZUchannel1120/videos)

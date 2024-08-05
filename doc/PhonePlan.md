@@ -1,4 +1,4 @@
-台灣之星 4G Plan
+phone Plan
 =========
 
 ## [Broadband FactsMobile Broadband Consumer Disclosure](https://prepaid.t-mobile.com/fcc-broadband-consumer-facts/connect)

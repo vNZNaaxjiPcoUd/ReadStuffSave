@@ -27,6 +27,8 @@ audio 140 (-f 140)
 
 # multi m4a to one m4a
     ffmpeg -f concat -safe 0 -i <(for f in 59Song/*.m4a; do echo "file '$PWD/$f'"; done) -c copy ./59.m4a
+    
+    ffmpeg -f concat -safe 0 -i mylist.txt -c copy output.wav
 
 # multi mp3 to one mp3
     cat file/*.mp3 > out.mp3

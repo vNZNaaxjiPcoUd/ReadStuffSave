@@ -25,6 +25,12 @@ audio 140 (-f 140)
 
     ffmpeg -i video.mp4 -ss 00:00:20 -t 00:22:23 outvideo.mp4
 
+# multi m4a to one m4a
+    ffmpeg -f concat -safe 0 -i <(for f in 59Song/*.m4a; do echo "file '$PWD/$f'"; done) -c copy ./59.m4a
+
+# multi mp3 to one mp3
+    cat file/*.mp3 > out.mp3
+
 # to mp3
     ffmpeg -i sleepsoundsmall.m4a -codec:a libmp3lame sleepsoundsmall.mp3
 

@@ -56,7 +56,7 @@ body {
         detailInfo = await response.json();
       } catch (error) {
         let labelElement = document.getElementById("moreD");
-        labelElement.innerHTML = error.message;
+        labelElement.innerHTML = "<- check your GeoIP";
         detailInfo = error.message ;
         return;
       }

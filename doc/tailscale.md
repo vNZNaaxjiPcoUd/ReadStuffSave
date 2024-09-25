@@ -5,6 +5,7 @@ tailscale
 
 https://login.tailscale.com/admin/machines
 
+KB https://tailscale.com/kb/1103/exit-nodes?tab=linux
 
 sudo tailscale up
 

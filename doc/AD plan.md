@@ -699,13 +699,7 @@ awoo Intelligence
 
 若你的企業正面臨尋求客源、提高轉換，或是廣告費高昂但成效卻不精準的挑戰，awoo AI 電商流量成長方案將會是你 2024 年為電商行銷布局時，最值得引入的解決方案。
 
-
-
-
-
 # [優化網站圖片五步驟，為你的網站帶來百萬流量 - awoo](https://www.awoo.ai/zh-hant/blog/images-optimization/)
-
-
 
 # 優化網站圖片五步驟，為你的網站帶來百萬流量
 
@@ -786,6 +780,12 @@ Alt 對於圖片的優化是非常重要，圖片的 Alt 不只是圖片替代�
 </figure>
 
 延伸閱讀：[做網站SEO，搜尋流量突然下滑了怎麼辦？SEO專家這樣建議](https://www.awoo.com.tw/blog/organic-traffic-drop/)
+
+
+
+
+
+# [廣告教學 | SHOPLINE 電商教室](https://blog.shopline.hk/category/ad-training/)
 
 
 

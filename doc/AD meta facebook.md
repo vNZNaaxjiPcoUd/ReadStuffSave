@@ -1,4 +1,4 @@
-# # 臉書廣告
+# 臉書廣告
 
 # 【Meta Ads 前線】臉書廣告投放必知！新功能「提醒式廣告」 5 大產業應用心法
 
@@ -59,11 +59,7 @@ Meta 廣告（Meta Ads）近期推出了新的廣告投放工具「[提醒式廣
 
 若您希望進一步了解如何操作 facebook廣告、Instagram廣告來提升營收，或是想了解更多 awoo 廣告投放服務，歡迎立即諮詢，將有專業顧問為您服務。
 
-
-
 # [【廣告小學堂】Facebook 廣告為何投不出去？按照步驟檢查，速解問題！ - MoBagel Blog](https://blog.mobagel.com/zh/meta-ads-cannot-post/)
-
-
 
 # 【廣告小學堂】Facebook 廣告為何投不出去？按照步驟檢查，速解問題！
 
@@ -163,13 +159,7 @@ Facebook 廣告以競標方式運行。如果出價過低，廣告在競爭中�
 
 ## 
 
-
-
-
-
 # [Facebook 廣告收費準則解析：完整指南與突破盲點的秘訣 - MoBagel Blog](https://blog.mobagel.com/zh/facebook-advertising-guide-cost-insights/)
-
-
 
 # 【廣告小學堂】一次搞懂 Facebook 廣告收費準則，看完這篇突破觀念盲點
 
@@ -247,7 +237,3 @@ Facebook 廣告的出價方式多樣能滿足不同的需求和目標。常見�
 廣告主為每次應用安裝支付費用。這種方式適合推廣應用程式的廣告活動。
 
 Facebook 提供多種出價方式，每種方式都有其適用的場景和目標。廣告主應根據自身的廣告目標、預算和策略選擇最合適的出價方式，以達到最佳的廣告效果。
-
-
-
-

@@ -103,10 +103,6 @@
 **—— YouTube 廣告百百種，到底需要哪一種？adHub 提供 YouTube 廣告服務 ——**  
 如果您對於 YouTube 廣告的多元版位以及出價方式還是不夠了解，adHub 有完整的 Google Ads 學習資源，以及專業的廣告代操服務。
 
-
-
-
-
 # Google 廣告
 
 以多元化廣告形式，觸及超過90%網路使用者
@@ -225,19 +221,11 @@ Google多媒體聯播網(GDN)包含全球數百萬個優質網站，為台灣涵
 
 針對就訪客投放他們瀏覽過的產品廣告，再一次刺激他們的購買慾望。
 
-
-
 [Google 廣告 - adHub 經緯廣告科技](https://www.ad-hub.net/products/digital-ad-management/google-ad/)
-
-
 
 [【2023 YouTube 廣告教學】一篇搞懂 YouTube 廣告格式和計價方法 - adHub 經緯廣告科技](https://www.ad-hub.net/blog/youtube_intro/)
 
-
-
 [一張圖搞懂YouTube廣告到底有哪幾種！第一次下廣告怎麼選最有效？](https://tw.news.yahoo.com/%E5%BC%B5%E5%9C%96%E6%90%9E%E6%87%82youtube%E5%BB%A3%E5%91%8A%E5%88%B0%E5%BA%95%E6%9C%89%E5%93%AA%E5%B9%BE%E7%A8%AE-%E7%AC%AC-%E6%AC%A1%E4%B8%8B%E5%BB%A3%E5%91%8A%E6%80%8E%E9%BA%BC%E9%81%B8%E6%9C%80%E6%9C%89%E6%95%88-074425162.html)
-
-
 
 ## **[YouTube](https://www.marketersgo.com/trend/202008/youtube-seo-7ways/)廣告新趨勢**
 
@@ -375,13 +363,7 @@ YouTube創作者可以選擇開啟這個功能，如此一來播放影片時，�
 
 這篇文章 [一張圖搞懂YouTube廣告到底有哪幾種！第一次下廣告怎麼選最有效？](https://www.marketersgo.com/trend/youtube/202009/youtube%e5%bb%a3%e5%91%8a/) 最早出現於 [行銷人](https://www.marketersgo.com/)。
 
-
-
-
-
 [為什麼要下 YouTube 廣告？一篇快速搞懂 YouTube 廣告投放細節 - 領客智能 iLinker](https://ilinker.ai/youtube_ad/)
-
-
 
 有什麼值得我們用 YouTube 投廣告的呢？
 
@@ -669,4 +651,313 @@ Google 中能投放 Youtube 影片的目標有 5 種，分別是「銷售」、�
 
 
 
+# [YouTube廣告完整攻略 - 2024年最新格式及實戰教學](https://www.kickads.co/zh/youtube-ads-complete-guide/)
 
+
+
+YouTube廣告完整攻略 - 2024年最新格式及實戰教學
+
+- 4 月 15, 2024
+- [Terrence Chung](https://www.kickads.co/zh/author/chungtaklun/)
+- [Youtube](https://www.kickads.co/zh/category/youtube/)
+
+![YoutubeAds](https://www.kickads.co/wp-content/uploads/2020/03/18.3_2-01.jpg "YoutubeAds")
+
+如果您正在閱讀這篇文章，可能是因為您在探索新的廣告模式或研究YouTube廣告是否能成為您的下一個商機。隨著社交媒體廣告的ROAS逐漸下降，且Google Ads關鍵字廣告的CPC上升，廣告商轉向新的廣告渠道便不足為奇。YouTube廣告，作為全球第二大搜索引擎和Google的產品，其效用已廣為人知。然而，YouTube廣告是否仍能實現正向的ROI？在2024年，YouTube的廣告策略和格式將呈現何種變化？我們將在以下內容中逐一解析。
+
+## **什麼類型的生意會選擇使用 YouTube 廣告？**
+
+這是我經常遇到的問題。在進行季度檢討時，客戶常問：「YouTube廣告適合我嗎？成本如何？影片需多長？應該上傳到YouTube嗎？該製作哪種影片？」，我確信YouTube廣告在Top Funnel能以最低成本吸引新客戶，進而建立更大的目標受眾群。此外，它在產生潛在客戶和電商方面同樣表現出色。
+
+我在YouTube上隨便搜尋，已經發現三種截然不同的YouTube廣告客戶類型：
+
+**Brand Awareness 品牌效應**
+
+大品牌通常利用YouTube推廣品牌或產品影片，以增加品牌的知名度。例如，Samsung的全新旗艦手機S24 Ultra，就是通過觀看次數或曝光量來衡量其廣告效果。
+
+![youtubeads1](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads1-1.png)
+
+**eCommerce 電子商務** 
+
+電子商務平台也使用YouTube來銷售產品，並以轉換率或ROAS（廣告支出回報率）作為衡量指標。
+
+![youtubeads2](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads2.png)
+
+**Lead Generation 潛在客戶開發**
+
+利用YouTube廣告進行潛在客戶開發已成為近年來流行的策略。 
+
+![youtubeads3](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads3-1.png)
+
+## **YouTube 廣告三大好處**
+
+### 1. 僅對“認真”觀看的影片廣告付費
+
+再次強調：YouTube廣告的收費模式是什麼？YouTube廣告主要採用按觀看次數收費（Cost Per View, CPV），其中的View是指觀看超過30秒後才開始計費，這也被稱為True View。通常情況下，如果觀眾願意觀看超過30秒的影片廣告，至少表示他們對你的影片有一定的好感。YouTube的收費模式為Cost Per View，意味著只有當觀眾觀看超過30秒時你才需要支付費用，因此你只需為那些“認真”觀看廣告的人付費。
+
+### 2. 觀看成本低
+
+許多人認為，YouTube上的廣告多半屬於大公司，故此假設YouTube廣告成本應該很高，但這其實不是事實。每次30秒的觀看費用大約只需HK$0.2至HK$0.3。這意味著，如果你有HK$20,000的廣告預算，你的廣告大概能獲得100,000次觀看。假設觀看率（View Rate）為25%，則總曝光量（Impression）將達到大約400,000次。因此，每次觀看的成本實際上是很低的，入門門檻也不高。
+
+### 3. 精準定位目標受眾
+
+如果你已經明確自己的客戶群，那麼在YouTube廣告中你可以精確地打中目標！如何找到你的目標客戶？在最新的定向(Targeting)設定中，你可以將YouTube廣告定位給以下受眾：
+
+- 曾經到過你網站的訪客 (Website Visitors)
+- 曾經看過你 YouTube 的人 (YouTube Viewer List)
+- Google Ads中的In-Market、Affinity、Life event定向選項
+- 自訂客群（Custom segments），這可以是搜索過特定關鍵詞的客戶、訪問過特定網站的客戶、或安裝過特定app的用戶
+
+![youtubeads4](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads4-1.png)
+
+現在我們有多種設定受眾(Targeting)方法來推送YouTube廣告，無論是吸引新受眾還是回訪舊客戶，你都可以將不同類型的影片精確地推送給目標觀眾，實現精準打擊。
+
+## **YouTube 廣告格式**
+
+### 1. 可略過的串流內廣告（Skippable In-stream Ad）
+
+如果你經常觀看YouTube，你應該對這種廣告非常熟悉。 
+
+![youtubeads5](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads5.png)
+
+紅色部分代表的就是Skippable In-Stream Ad，觀眾可以在廣告播放5秒後選擇跳過。廣告商只需在廣告播放到30秒時付款；如果廣告短於30秒，則在完整觀看後付款。
+
+藍色部分是Call-to-Action按鈕，點擊後會引導觀眾到Landing Page。
+
+綠色的是Companion Banner，即使影片廣告結束，它仍會留在右上方。
+
+用途：這種廣告主要用於品牌知名度提升（Brand Awareness），但如果目的是增加網站流量（Website Traffic）、銷售（Sales）或開發新客戶（Lead Generation），也同樣適用。
+
+影片長度：沒有固定限制，但理想長度是30秒至1分鐘，重要的訊息應該放在前15秒內，以吸引客戶注意。
+
+### 2. 不可略過的串流內廣告（Non-Skippable In-Stream Ad）
+
+![Youtubeads6](https://www.kickads.co/wp-content/uploads/2020/03/Youtubeads6-1.png)
+
+Non-Skippable影片廣告特點是沒有Skip按鈕，觀眾必須觀看完整個廣告。
+
+用途：這種廣告主要適用於CPM（Cost Per Thousand Impressions）競價，目的是為了品牌知名度推廣（Brand Awareness）。
+
+影片長度：15至30秒。
+
+實際上，較少客戶使用Non-Skippable影片廣告。原因之一是它較缺乏彈性，強制觀眾觀看整條影片，可能會減少客戶的好感。其次，將一條15至30秒的影片設定為可略過的串流內廣告，允許客戶有選擇地跳過，且只有在他們觀看完整個廣告時才需要付費，這相對於Non-Skippable廣告來說，經濟上更加化算。
+
+### 3. Bumper Ad
+
+如果你曾經看到過一些僅有6秒長、不能按「Skip Ad」跳過的影片廣告，那麼它們便是Bumper Ads。這類廣告的計費方式為CPM（Cost Per Thousand Impressions），即按千次曝光收費。
+
+![Youtubeads7](https://www.kickads.co/wp-content/uploads/2020/03/Youtubeads7-1.png)
+
+用途：主要用於增強品牌記憶（Brand Recall）。如果你的目標是提高曝光量（Impression），Bumper Ad是一個很好的選擇。YouTube還聲稱，Bumper Ads能夠對品牌提升（Brand Lifting）產生正面影響。
+
+影片長度：6秒，這種格式的廣告短而精煉，適合迅速抓住觀眾的注意力。
+
+### 4. In-feed Video Ad（動態內影片廣告）
+
+In-feed video ad（動態內影片廣告）取代了以往的video discovery ad，這類廣告出現在YouTube頁面或相關影片旁邊。
+
+![youtubeads8](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads8-1.png)
+
+用途：主要用於提升品牌知名度（Brand Awareness），採取按點擊計費的方式，類似於YouTube中的原生廣告（Native Ads）。
+
+### 5. YouTube Masthead
+
+最後一種YouTube的廣告類型是YouTube Masthead，出現在桌面版YouTube的首頁。這種廣告需要通過與Google銷售代表（Sales Rep）進行購買，且存在最低消費要求（Minimum Buy）。
+
+![youtubeads9](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads9-1.png)
+
+用途：型！威！疊馬！
+
+## **設定YouTube影片廣告的步驟：**
+
+### 第一步：建立 Video Campaign (影片廣告系列)
+
+![youtubeads10](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads10-1.png)
+
+在Google Ads的Campaign界面，點擊藍色的“+”選擇“New Campaign”。
+
+![youtubeads11](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads11-1.png)
+
+在Objective選擇“Awareness and consideration”然後選擇“Video”。如果目標是Sales/Leads/website traffic，也可選擇Video campaign，這將側重於優化點擊或轉換，CPV可能較高，但CPC或CPA可能有更好表現。
+
+### 第二步：選擇Video Campaign的Subtype
+
+選擇完Video Campaign後會顯示四種Subtype，這些是Google Ads系統已預設的廣告活動類型。選擇特定Subtype後，Google會根據所選自動設定廣告的Placement和類型。
+
+**Video views**
+
+若主要目標為獲取觀看次數，此Subtype是個不錯的選擇，CPV相對較低。
+
+![youtubeads12](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads12-1.png)
+
+**Video reach**
+
+提供三種推廣方法：Efficient reach、Non-skippable reach和Target frequency，各有不同的影片廣告形式和觸及策略。 
+
+在與Google工作人員（Googlers）的合作經驗中，他們建議使用Efficient reach的video reach廣告來作為銷售漏斗（sales funnel）的頂部策略。這種方法能有效觸及大量潛在客戶，並且成本效益高。我們將在下文中進一步詳細說明這種方法的應用和優勢。![youtubeads13](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads13-1.png)
+
+**Ad Sequence**
+
+允許按自定義的順序來展示故事性的廣告，如受眾跳過第一個廣告，可以設定後續廣告針對這部分受眾。
+
+![youtubeads14](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads14-1.png)
+
+以自訂次序為例，第一步（Step 1）展示第一則影片廣告。如果受眾選擇跳過（Skip）這則廣告，則可以在第二步（Step 2）中將廣告定向給跳過第一步廣告的受眾。相反，如果受眾觀看了第一則廣告超過30秒，則第二步的廣告會定向給這部分受眾。這樣可以根據受眾的互動行為調整廣告展示的順序。需要注意的是，要使用此功能，你的YouTube頻道必須與Google Ads帳戶連結。
+
+![youtubeads15](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads15-1.png)
+
+**Audio Ad**
+
+最後介紹的是Audio Ad（音訊廣告），這種廣告主要出現在YouTube Music等以收聽為主的平台上。Google指出，這類廣告對於提升品牌回憶（Brand Recall）非常有效。雖然我們的團隊尚未嘗試使用這種廣告形式，但我們歡迎大家留言分享自己的經驗和見解。
+
+### 第三步：Video Campaign設定
+
+以Video View為例，我們首先需要給Campaign命名。如果這個Video Campaign的目標是吸引新受眾，可以將名稱設定為“Prospecting - [影片廣告名稱]”，以便清晰地識別該Campaign的目標和內容。這樣的命名方式有助於管理和分析不同的廣告活動。
+
+![youtubeads16](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads16-1.png)
+
+在競價策略方面，選擇Video View Subtype後，系統會自動設定為Target CPV（目標每次觀看成本），你可以設定每個TrueView廣告的最高支付成本。建議的CPV大約是HK$0.3。至於預算，你可以選擇設定每日預算（Daily budget）或整個活動的總預算（Total campaign budget）。此外，還需設定廣告的開始日期（Start date）和結束日期（End date），以便於管理廣告的展示時間和成本控制。
+
+![youtubeads16](https://www.kickads.co/wp-content/uploads/2020/03/youtube17.png)
+
+在Network選擇方面，YouTube為必選項目，你的廣告可以在YouTube影片中以in-stream形式展示、出現在YouTube搜索結果，或者顯示在YouTube首頁。另外，你也可以選擇Google Display Network（GDN）的video partner作為廣告展示位置，例如Daily Motion就是這些合作夥伴中的一個。對於設立In-Stream廣告，應確保選中YouTube，同時也推薦選擇Display Network的Video Partner以擴大覆蓋範圍。
+
+至於語言和地區設定，應選擇與你的目標受眾相符的地區和語言。這能確保廣告投放精準，有效地觸及預定的目標群體。
+
+![youtubeads18](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads18.png)
+
+在廣告設定的下方，你有選項可以加入相關影片（related videos），最多可以加入兩個。這些影片將僅在移動裝置上的YouTube中顯示。如果你的YouTube頻道中有其他適合的影片，可以將它們作為相關影片加入。這樣可以提高用戶的互動度，並增加他們與你內容互動的機會。這個功能有助於增強廣告活動的整體效果，因為它可以引導觀眾進一步探索你的品牌和產品。
+
+![youtubeads19](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads19.png)
+
+在Multi-format ads部分，當你啟用這個選項時，你的影片廣告不僅會作為in-stream廣告出現，還會以in-feed影片廣告和YouTube Shorts廣告的形式展示，主要目標是獲得最多的觀看次數。如果你的關鍵績效指標（KPI）主要是提高視頻的觀看次數，那麼強烈建議選擇這個選項。這能夠幫助你的廣告在YouTube的不同格式和部分中獲得更廣泛的曝光，從而達到更高的觀看量。
+
+### 第四步：Video Ad Group設定
+
+在設定Ad Group時，給予其一個清晰的名稱是非常重要的，這有助於後續管理和分析。建議在Ad Group的名稱中包含其Targeting方法，這樣可以快速理解這個Ad Group的定位策略和目標受眾。
+
+![youtubeads20](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads20.png)
+
+在Targeting設定方面，過程相對直接和明確。以Kick Ads的影片廣告為例，如果目標是投放給對Google Ads或數位行銷感興趣的受眾，特別是市場營銷經理或企業老闆，可以使用Audience segments進行細分定位。操作時，選擇“audience segment”，然後指定為“digital marketing service”等相關類別。
+
+此外，如果希望Google Ads幫助擴大觸及範圍，尋找更廣泛的新受眾，則應啟用“Audience Expansion”選項。這樣可以使廣告觸及到更多潛在的新客戶，有助於提高廣告活動的整體效果和覆蓋範圍。
+
+![youtubeads21](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads21-1.png)
+
+如果現有的affinity（興趣相關）或in-market（市場內）定位選項不符合你的需求，你可以創建一個新的custom segments（自定義客群）。這使你能夠更精確地定位特定行為或興趣的受眾。
+
+![youtubeads22](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads22-1.png)
+
+在Placement（刊登位置）設定方面，你有選項可以選擇在特定的YouTube頻道或影片上投放你的廣告。這意味著你可以精確控制廣告的顯示位置，選擇與你的品牌或產品最相關的頻道或影片來提高廣告效果。操作時，你可以在設定界面中直接搜尋並選擇特定的YouTube Channel或Video作為廣告的展示位置。這種定向方法非常有利於達到更加精確的市場定位，確保廣告內容能夠觸及到最合適的目標受眾。
+
+![youtubeads23](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads23-1.png)
+
+#### YouTube Video Ads Remarketing
+
+Kick Ads 時常提倡中小企考慮使用 Video Ad 去做 Remarketing，究竟要如何做的呢？
+
+![youtubeads24](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads24-1.png)
+
+ouTube Video Ads Remarketing允許中小企業透過Video Ad重新吸引那些已經訪問過網站的訪客。要實施這種策略，首先需在Google Ads中設定Audience List，例如針對訪問過你網站的人。接著，在Audiences選項中選擇「Remarketing and similar audiences」，然後選擇你預先設定好的Audience List，如「Website Visitor」。這樣就可以向這些已經對你的品牌或產品表現出興趣的訪客展示YouTube廣告，進行Remarketing。這種做法有助於提高品牌的再認知率和提升轉化率，因為它針對的是已經了解你的品牌的受眾。為了更深入理解Remarketing的原理和好處，推介你看我們另一篇文章 [<<GDN REMARKETING廣告教學| 設定、原理及好處>>](https://www.kickads.co/zh/google-adwords%e6%9c%80%e5%bc%b7%e5%a4%a7%e5%8a%9f%e8%83%bd%ef%bc%8dremarketing%e5%bb%a3%e5%91%8a%e7%9a%84%e5%8e%9f%e7%90%86%e3%80%81%e5%a5%bd%e8%99%95%e5%92%8c%e8%a8%ad%e5%ae%9a/)
+
+### 第五步：Video Ad 設定
+
+接下來的步驟是設定影片廣告的時間。首先，需要將你的影片上傳到YouTube。一旦影片上傳完成，你將獲得該影片的連結。接著，在Google Ads中將這個連結貼上，並將該影片設定為廣告。這樣，你的影片就可以作為YouTube廣告被展示，達到推廣的目的。
+
+![youtubeads25](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads25-1.png)
+
+一旦找到影片，接下來設定 Landing Page、Headline 和 Description。Landing Page 是觀眾點擊後導向的網頁，Headline 是廣告標題，Description 是廣告描述。可添加 Call to Action 按鈕引導觀眾，並在桌面廣告中上傳 Companion Banner，提高品牌曝光。完成後，你的 YouTube 廣告設定就完成了。
+
+## **How to improve YouTube Ads?**
+
+當然 YouTube 廣告和其他廣告一樣，可以從 Targeting 方面優化，以及從 Video 內容優化，以下會大概和大家分享把 YouTube 廣告做得更好的方法
+
+### Targeting 優化
+
+由於 YouTube 影片廣告和 GDN 或 Remarketing GDN 的定位方式類似，可以根據不同的影片主題、YouTube 頻道、YouTube 搜索關鍵字以及觀眾興趣進行廣告定位，針對觀看相關內容的觀眾投放廣告。要了解具體的設定和優化方法，你可以參考 [《The Complete Guide to the Google Display Network (GDN)》](https://www.kickads.co/zh/the-complete-guide-to-the-google-display-network-gdn/)，，因為這兩種廣告的策略和原理是一致的！對於中小企業來說，YouTube 廣告的一大用途是進行 Remarketing。這意味著當人們訪問你的網站但沒有購買時，他們在 YouTube 上就會看到你的廣告。Remarketing 的細節和設定與 GDN 相同。你可以參考[《GDN REMARKETING廣告教學| 設定、原理及好處》](https://www.kickads.co/zh/google-adwords%E6%9C%80%E5%BC%B7%E5%A4%A7%E5%8A%9F%E8%83%BD%EF%BC%8Dremarketing%E5%BB%A3%E5%91%8A%E7%9A%84%E5%8E%9F%E7%90%86%E3%80%81%E5%A5%BD%E8%99%95%E5%92%8C%E8%A8%AD%E5%AE%9A/)
+
+### Video 內容優化
+
+除了在目標受眾上的優化之外，影片內容也是另一個需要考慮優化的重要元素。即使目標定位再精準，若影片缺乏趣味和內容，將難以產生效果。因此，我們整理了三個關鍵要素，讓你的影片廣告能夠發揮最大的效果。
+
+#### 在前五秒內提及公司名稱和獨特之處
+
+絕大部分的 YouTube 廣告都是可跳過的 In-stream 影片廣告，也就是說在觀看五秒後觀眾可以選擇跳過。因此，前五秒是吸引觀眾的關鍵時刻！許多影片都充分利用這五秒，迅速呈現品牌名稱或關鍵訊息，以便讓觀眾深刻記住。
+
+![youtubeads26](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads26-1.png)
+
+以上所述的例子來自 Omio 歐洲旅行預訂公司的廣告影片，他們在開場五秒內即突顯了 Omio 的主要服務 ─ 提供最適合旅程的客票選擇。」
+
+#### 15 - 50 秒長度較適合
+
+當我們向客戶推薦使用 YouTube 廣告時，總是會有人問到影片的長度。根據 Google 在2016年的一項研究，短片廣告（15秒）具有更高的品牌記憶度，但相比之下，長片廣告（2分鐘）則更有可能改變觀眾對品牌的態度，增強他們對品牌的好感度！然而，隨著時間的推移，這些結論是否仍然適用於2024年？ 選擇跳過。因此，前五秒是吸引觀眾的關鍵時刻！許多影片都充分利用這五秒，迅速呈現品牌名稱或關鍵訊息，以便讓觀眾深刻記住。
+
+建議大家可以參考外國媒體 strikesocial 的這篇文章：[Optimizing Video Length for YouTube Ads For High-Performing Campaigns](https://strikesocial.com/blog/optimizing-video-length-for-youtube-ads-for-high-performing-campaigns/)。在下圖中，您可以看到不同行業對於不同長度的 YouTube 廣告有不同的觀看率。大多數行業已將廣告影片的長度縮短至0至15秒或16至30秒範圍內，但商業與金融（Business & Finance）、娛樂（Entertainment）、科學與技術（Science & Tech）和旅遊（Travel）等產業仍需製作稍長的影片，即31至60秒，以充分解釋其產品。
+
+![youtubeads27](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads27-1.png)
+
+在現今社會，快節奏已成為主流，人們對於速度的需求越來越高。同時，如果影片過長，觀眾的注意力很難持久。因此，YouTube 廣告的影片長度大約應該控制在15至30秒左右較為適合。當然，我們也要記住第一點，即在影片的最初5秒內提及公司名稱和關鍵訊息。
+
+#### 不用太多花巧後期製作，簡單短片＋超級直白
+
+相信閣下都曾經看過 Agoda、Godaddy 的廣告對嗎？
+
+![youtubeads28](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads28-1.png)
+
+如果你有觀看過上面的兩個廣告，你都會發現兩者有相同之處：它們都採用了超短片的形式，並且直截了當地表達產品如何幫助你：例如，計畫您的旅行就用Agoda，或者是使用GoDaddy尋找您的完美域名。連語音解說都節省了，最重要的是它們都簡單、直接、目標明確。這或許就是2024年Video廣告的主要方向了！
+
+## **YouTube 廣告作為電商開拓新客源的成功案例**
+
+每當有客戶問我們如何擴大新的客戶群，從而提升業績，我們都一律建議利用YouTube廣告來擴大頂部銷售漏斗。這種方法的好處不言而喻：成本每次觀看較低、觸及面更廣、並且配合Google Ads的目標受眾設定，可以以更低的成本接觸到更多的潛在客戶。
+
+首先，記得把 YouTube Channel 和你的 Google Ads 帳戶（如下圖）
+
+![youtubeads29](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads29-1.png)
+
+之後在 Audience Manager 中記得建立 YouTube User List
+
+![youtubeads30](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads30-1.png)
+
+上述兩個步驟已經完成，接下來就是迎接YouTube廣告所帶來的影響力！YouTube廣告能夠迅速建立你的YouTube用戶列表，使你的頂部銷售漏斗能夠擁有溫暖的潛在客戶。以下是我們的一位客戶案例，該客戶是一家零售商，擁有傳統的實體店面和線上商店。他們遇到的問題是電子商務方面已經達到了瓶頸，除了大幅度降價外，很難吸引新客戶並提升業績。結果，他們在六月初終於聽取了我們的建議，建立了他們的第一個Video Reach廣告，並且取得了業績的增長。請參考下圖的數據。
+
+![youtubeads31](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads31-1.png)
+
+我們將6月和7月的數據進行比較，發現總花費在這兩個月份幾乎增加了一倍。主要的費用增長集中在Video Reach廣告上。儘管轉換率和轉換價值有所增加，但投資回報率（ROAS）實際上沒有跟上增長速度，甚至錄得了-4%的負值，即沒有賺錢。當客戶準備放棄時，我們堅持建議再試兩個月。結果，在接下來的兩個月裡，雖然總花費繼續增加，但6月和7月的新客戶開始進行購買，且轉換價值進一步提升，最終ROAS得以改善。這使客戶深刻體驗到了YouTube廣告作為開拓新客戶的頂部銷售漏斗的威力。
+
+提提大家，如果大家也想利用 YouTube 廣告去做新客戶拓展，記得把建立好的 YouTube Viewer List 中加到你的目標客群中，這樣才可以 Target 看過 YouTube 廣告的客戶
+
+![youtubeads32](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads32.png)
+
+## **YouTube 廣告作為 Lead Generation 的成功案例**
+
+除了電商之外，我們打算進一步提升 YouTube 廣告的效益，希望能透過 YouTube 廣告獲取客戶的電子郵件地址。這個過程會容易嗎？以下是 Kick Ads 自身的案例供參考。
+
+Lead Generation流程
+
+![youtubeads33](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads33-1.png)
+
+在整個潛在客戶獲取過程中，我們將潛在客戶分為兩種。一種是 E-Book Opt-In 的潛在客戶，也就是說，你只需要提供你的名字和電子郵件；而第二種是預約了免費諮詢的潛在客戶，這意味著你已經填寫了一份包含你公司資訊、市場推廣預算和目標等信息的報名表格。我們利用了 YouTube 廣告做一個 Prospecting 的效果，尋找全新的受眾下載這本電子書，結果超出了我們的預期。
+
+![youtubeads34](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads34-1.png)
+
+### **YouTube 廣告 vs Facebook 廣告**
+
+我們之前一直認為 YouTube 廣告主要是為了品牌推廣，而 Facebook 廣告才是獲取潛在客戶的有效渠道。在這次的 E-Book 實驗中，我們將 YouTube 廣告作為潛在客戶生成的首步，並與 Facebook 廣告並行使用，以探究兩者之間的差異。以下是實驗結果。
+
+![youtubeads35](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads35.png)
+
+在為期一個月的試驗期中，我們透過 Facebook 廣告獲得了363個聯絡人，每個潛在客戶的成本為 HK$7.65；而 YouTube 廣告則獲得了29個聯絡人，每個潛在客戶的成本為 HK$20.69。這個結果證明了 YouTube 廣告實際上也可以作為潛在客戶獲取的一個有效渠道！
+
+## **有沒有低成本的拍影片方法嗎？**
+
+相信許多人都認識到 YouTube 廣告的好處，但可能對於製作影片感到頭痛。實際上市面上有一些製作影片的工具，甚至提供現成的範本供你直接編輯，但這些工具通常需要付費。好消息是，Google 推出了 YouTube Video Builder，這是一個免費的工具，讓大家可以輕鬆製作YouTube廣告影片。
+
+![youtubeads36](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads36.png)
+
+一開始你可以選擇影片的Template
+
+![youtubeads37](https://www.kickads.co/wp-content/uploads/2020/03/youtubeads37.png)
+
+接著，你只需上傳你的標誌和品牌顏色，根據不同的場景上傳圖片和文字。選擇合適的字型和音樂後，僅需10分鐘，你就能製作出一個專屬於你的影片。
+
+以上是 YouTube 影片廣告的核心攻略，旨在提升對 YouTube 廣告運作和設定步驟的理解。希望這能助你有效使用 YouTube 提升品牌能見度和客戶獲取，從而提高投資回報。隨著數位行銷的發展，不斷學習和調整策略是成功的關鍵。

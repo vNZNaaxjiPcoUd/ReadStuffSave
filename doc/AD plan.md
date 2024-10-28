@@ -4,9 +4,8 @@
 
 https://www.hihitmedia.com.tw/ads-type/
 
-內容目錄
 
-- [投廣告成效真的很好嗎？我需要投廣告嗎？](https://www.hihitmedia.com.tw/ads-type/#%E6%8A%95%E5%BB%A3%E5%91%8A%E6%88%90%E6%95%88%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A5%BD%E5%97%8E%EF%BC%9F%E6%88%91%E9%9C%80%E8%A6%81%E6%8A%95%E5%BB%A3%E5%91%8A%E5%97%8E%EF%BC%9F "投廣告成效真的很好嗎？我需要投廣告嗎？")
+
 - [數位廣告的形式有哪些？一次了解5種廣告形式！](https://www.hihitmedia.com.tw/ads-type/#%E6%95%B8%E4%BD%8D%E5%BB%A3%E5%91%8A%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F%E4%B8%80%E6%AC%A1%E4%BA%86%E8%A7%A35%E7%A8%AE%E5%BB%A3%E5%91%8A%E5%BD%A2%E5%BC%8F%EF%BC%81 "數位廣告的形式有哪些？一次了解5種廣告形式！")
   - [Google多媒體聯播廣告](https://www.hihitmedia.com.tw/ads-type/#Google%E5%A4%9A%E5%AA%92%E9%AB%94%E8%81%AF%E6%92%AD%E5%BB%A3%E5%91%8A "Google多媒體聯播廣告")
   - [關鍵字廣告](https://www.hihitmedia.com.tw/ads-type/#%E9%97%9C%E9%8D%B5%E5%AD%97%E5%BB%A3%E5%91%8A "關鍵字廣告")
@@ -14,11 +13,9 @@ https://www.hihitmedia.com.tw/ads-type/
   - [購物廣告](https://www.hihitmedia.com.tw/ads-type/#%E8%B3%BC%E7%89%A9%E5%BB%A3%E5%91%8A "購物廣告")
   - [影片廣告](https://www.hihitmedia.com.tw/ads-type/#%E5%BD%B1%E7%89%87%E5%BB%A3%E5%91%8A "影片廣告")
 
-### 投廣告成效真的很好嗎？我需要投廣告嗎？
 
-在介紹各類型的廣告之前，你可以先了解你是不是真的需要投廣告，當你建立了自己的品牌以及相關的社群平台後，你可能會有2種選擇。
 
-一種是透過內容在FB粉絲專頁或社群平台上培養粉絲，並且培養粉絲的信任感及好感度，而另一種就是直接透過FB廣告投放或其他廣告渠道，迅速的去推廣並賣產品，甚至有的人為了更快地達到效益與目的，會直接委由行銷公司來做廣告投放！（延伸閱讀：[FB廣告自己操還是找廣告代理商好？3大評估要點一次看！](https://www.hihitmedia.com.tw/fb_advertising_agency/)）
+
 
 ### 數位廣告的形式有哪些？一次了解5種廣告形式！
 

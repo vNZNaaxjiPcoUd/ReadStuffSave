@@ -955,3 +955,227 @@ Lead Generation流程
 接著，你只需上傳你的標誌和品牌顏色，根據不同的場景上傳圖片和文字。選擇合適的字型和音樂後，僅需10分鐘，你就能製作出一個專屬於你的影片。
 
 以上是 YouTube 影片廣告的核心攻略，旨在提升對 YouTube 廣告運作和設定步驟的理解。希望這能助你有效使用 YouTube 提升品牌能見度和客戶獲取，從而提高投資回報。隨著數位行銷的發展，不斷學習和調整策略是成功的關鍵。
+
+# 投放 YouTube 廣告
+
+# https://ads.google.com/intl/zh-TW_tw/home/campaigns/video-ads/
+
+## 投放YouTube廣告，讓事業起飛
+
+觸及客戶
+
+找出目標對象
+
+查看成果
+
+![兩名女士注視著螢幕](https://lh3.googleusercontent.com/Ds1SgLzV580zzSxrxWCRxF_XDetOauprwatQ4DTRFq_sklUtAjCXvaoiEJD1Aos_FasXFegYEgVVv_gPnnwz1IemTdEAaUAenaqqBOzu1b7RSmDCoV0=w599-rw-v1)
+
+### 觸及現有客戶，同時開發新客源
+
+無論您的目標是附近饕客，還是全國各地的時尚達人，YouTube 都能協助您觸及對業務成長最有價值的客群。
+
+![Google Ads 客戶向專業的 Google Ads 顧問徵詢](https://lh3.googleusercontent.com/A4w4o96B2F9smwaWHlarL16f0WeACgzBxRjDbJQ1-ElcuUqtesYpSULu80CzMvGuwLtLcTnU5pUBUd1bgDAK1khpFLu0uSBso5AikHqrYos0-nasXjI=w543-rw-v1)
+
+## 與 Google Ads 專家一起設定
+
+您的首支廣告活動
+
+- 我們會協助您瞭解平台的最新動態
+- 我們會妥善規劃媒體策略，讓您的預算發揮最大效益
+- 我們會手把手引導您完成首支廣告活動的投放
+
+[馬上開始](https://ads.google.com/intl/zh-TW_tw/home/ads-experts-support/)
+
+## 如何在 YouTube 上刊登廣告
+
+從建立影片廣告、設定廣告活動到評估成效，我們都將在過程中隨時為您提供支援。
+
+- ### 為您的商家建立頻道
+  
+  免費建立 YouTube 頻道，展現您的商家特色。讓新客戶認識您的商家，並與熱情洋溢的社群同好互動，吸引正在尋找您所提供產品/服務的客群。
+
+- ### 利用影片述說您的故事
+  
+  無論您是專家還是新手，都能輕鬆製作 YouTube 影片廣告來宣傳自己的商家，突顯業務特色。我們準備了廣告素材工具、備受信賴且可提供協助的合作夥伴、最佳做法和激發靈感的成功案例，在這個過程中助您一臂之力。
+
+- ### 設定影片廣告活動並評估成效
+  
+  指定想觸及的客群、根據目標選用廣告格式並決定預算金額。使用免費的評估工具瞭解成效良好的元素及需要調整的部分，進一步提升成效。
+
+[開始使用](https://ads.google.com/signup?sourceid=awo&subid=tw-zh-TW-awhp-g-aw-c-c-vid-mid!o2&authuser=0)
+
+![參加工作坊的女士注視著平板電腦](https://lh3.googleusercontent.com/zdxj6rHAx_YnSrbvvzaJlkyN35Rm1wR60uDTMpD3tfMUP_MGxzdf_cFJ0oVw1chRsJbth9AGISXmzT5K5F8hMoiZzwaEqfRClYi7GBi4ge9Q7oBg9A=w428-rw-v1)
+
+建立頻道
+
+![使用手機拍攝影片的相片](https://lh3.googleusercontent.com/5PsSx2S5Gj_elf0k_fs0xmvme0O0SYUa6ayNJLcB4tHL5KrFgIWHxmx33JFjY90gdy55fPSP-_djhIsG5FPCZdhKn0AGRIwnRPeSKnHkALFnryXT9g=w428-rw-v1)
+
+建立廣告
+
+![一雙手拿著手機，螢幕上正在播放影片](https://lh3.googleusercontent.com/22OVFR7h5O65qRuhSTiOMyhfd7gWEfooDaoHYynnqy43y7rh9wsEB_eeF_a2U7Eo0ERphNSDSz-f_sdjBgDarZIxEjJmtFssAAfzAuxIUNIgFRUfDPs=w428-rw-v1)
+
+成效評估
+
+## 進一步瞭解 YouTube 廣告
+
+您可以參考下方的系列資源，獲取最新趨勢、技巧提示和最佳實踐，助您運用 Google Ads 取得出色成效。
+
+- [
+  
+  ![](https://lh3.googleusercontent.com/PdcIdlxozDwSek_skQNMlwUdk5dgwy0wlovAMbG_Y0JnGDT2kVt4RhwrZEn0Yho0OmBjQm1QGzH9Y4r3emVO10DDM2xfnncdqtJJxG4yiKScrOfIuoI=w48-rw-v1)
+  
+  ### 精進影片廣告專業知識
+  
+  ](https://skillshop.exceedlms.com/student/path/70320-advance-your-video-ads-expertise)
+
+- [
+  
+  ![](https://lh3.googleusercontent.com/8DsREQiBD_6EXgYntmN-DcLwjIZKRFSR8UXwQFoVniTlYSFTUoC2N6Ko-3vawtbkL3Cd0yXuUDm0pY5J7VO91b0TWTwqJPKGNwQqtMMoIIr0wuin6g=w48-rw-v1)
+  
+  ### 運用影片實驗提升廣告素材在 YouTube 上的成效
+  
+  ](https://www.blog.google/products/ads-commerce/youtube-creative-experiments/)
+
+- [
+  
+  ![](https://lh3.googleusercontent.com/5b-D-idl8B9f6Qk0Uzi5AXEZLenYjvNgf0UYgw3Jl4x_VNhv-FaCeKQ-4oTjVK0B_J1NorrdCbnQ0r10j3xQlqOUUcqeiv_zjBhPgopPV-Lya7v0zpQ=w48-rw-v1)
+  
+  ### 培養技能並取得 Google Ads 影片廣告認證，製作出成效良好的廣告活動
+  
+  ](https://skillshop.exceedlms.com/student/path/18216-google-ads-video-certification)
+
+## 有助於達成目標的工具和廣告活動
+
+想進一步瞭解Google Ads 功能嗎？點擊下方資訊卡，進一步探索相關廣告活動及各種實用工具。
+
+![銀行的文字廣告](https://lh3.googleusercontent.com/HMJ1bH-wcjFNn1Edf6rqnssFR73xEvjvZWIkLyUwQKjF2c6EE4dsuhuEP46LF70Lf4bLldDgBgCUJO5dGu3iE02h9Ppe86dhAfCsnWqmtmJmRKn1IYY9=w340-rw-v1)
+
+廣告
+
+example-business.com
+
+安保銀行
+
+民生路 253 號
+
+### 搜尋廣告
+
+當消費者在 Google 上搜尋同類商家時，系統就會顯示您的廣告；但只有在他們按下廣告時，您才需要付費。
+
+[瞭解詳情](https://ads.google.com/intl/zh-TW_tw/home/campaigns/search-ads/)
+
+![旅行社的廣告](https://lh3.googleusercontent.com/urThymnSqQ1vSLOV-rrslbvdTTr2nURXyrfGa2cgCmYgNG_jYSwpiLPC1pDxPbjx2aRlmE1jF8WXUw-3o11_BU0Yi3IHd_JGANv8E9MBGMD9Cqw842U=w340-rw-v1)
+
+遊山玩水旅行社
+
+廣告
+
+example-business.com
+
+1/3
+
+### 最高成效廣告活動
+
+只要建立一個廣告活動，即可在所有Google 廣告管道和廣告空間上實現您的目標。
+
+[瞭解詳情](https://ads.google.com/intl/zh-TW_tw/home/campaigns/performance-max/)
+
+![一群分別來自不同背景的年輕人，在都市中的滑板場聊天玩樂。](https://lh3.googleusercontent.com/er0VkYPHvwOwjoap-TfLhRdHgFNELtucUJO744KG4poq07RWc2nRQI6Y_hedPsU8NJx8HBN1RUOHTzXfz51AISp0kuE9ecm98WdjUGOy6x7EKirIDiVG=w340-rw-v1)
+
+廣告
+
+0:30
+
+略過廣告
+
+### 需求開發廣告活動
+
+使用關聯性高的沉浸式廣告素材適時接觸並抓住顧客的注意力，進而引發需求及鼓勵採取行動。
+
+[瞭解詳情](https://ads.google.com/intl/zh-TW_tw/home/campaigns/demand-gen/)
+
+# 如何在 YouTube 上刊登廣告
+
+## 1
+
+## 開設頻道
+
+#### 開設頻道
+
+#### 製作影片廣告
+
+#### 設定廣告活動
+
+#### 評估成效
+
+## 為自家商家打造專屬空間
+
+免費建立 YouTube 頻道，展現您的商家特色。讓新觀眾認識您的商家，並與熱情洋溢的社群同好互動，吸引正在尋找您所提供產品/服務的客群。
+
+[瞭解如何建立頻道](https://www.youtube.com/intl/ALL_tw/ads/youtube-for-small-business/)
+
+## 2
+
+## 製作影片廣告
+
+#### 開設頻道
+
+#### 製作影片廣告
+
+#### 設定廣告活動
+
+#### 評估成效
+
+## 運用影片訴說品牌故事
+
+無論專家還是新手都能輕鬆製作 YouTube 廣告來宣傳自己的商家，突顯業務特色。我們準備了廣告素材工具、備受信賴且可提供協助的合作夥伴、最佳做法和激發靈感的成功案例，在這個過程中助您一臂之力。
+
+[瞭解如何製作廣告](https://www.youtube.com/intl/ALL_tw/ads/how-it-works/create-a-video-ad/)
+
+## 3
+
+## 設定廣告活動
+
+#### 開設頻道
+
+#### 製作影片廣告
+
+#### 設定廣告活動
+
+#### 評估成效
+
+## 製作並放送廣告
+
+影片出爐後，您就可以製作廣告活動來爭取所需成效；方法很簡單，只要指定想觸及的客群、根據目標選用廣告格式，然後決定預算金額即可。
+
+[瞭解廣告活動設定](https://www.youtube.com/intl/ALL_tw/ads/how-it-works/set-up-a-campaign/)
+
+## 4
+
+## 評估成效
+
+#### 開設頻道
+
+#### 製作影片廣告
+
+#### 設定廣告活動
+
+#### 評估成效
+
+## 瞭解廣告活動成效
+
+廣告活動開始放送後，接下來您得瞭解其宣傳成效。我們免費提供評估工具來協助您找出效果不錯的元素及需要調整的部分，進一步提升成效。
+
+[瞭解評估方式](https://www.youtube.com/intl/ALL_tw/ads/how-it-works/measure-your-results/)
+
+- 將影片廣告當做電梯簡報，藉此訴說品牌故事。
+  
+  Joe Huff
+  
+  LSTN Sound Co.
+
+-
+
+## 開始使用 YouTube 廣告
+
+[立即開始](https://studio.youtube.com/channel/c/content/promotions?subid=tw-zh-TW-awhp-g-aw-c-c-vid-hero!o2&_gl=1*1jjstss*_ga*ODU4MDgzMDIwLjE3MzAwNzk1NjU.*_ga_XLPF8ZSNK2*MTczMDA3OTU2NS4xLjEuMTczMDA3OTY2MC4wLjAuMA..&_ga=2.4602363.937117714.1730079566-858083020.1730079565)

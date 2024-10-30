@@ -26,7 +26,7 @@
 
 - [地震 USGS](http://earthquake.usgs.gov/earthquakes/map/)
 
-- [地震 YOUTUBE](https://youtu.be/Jf1m6lsHTts)
+- [地震 YOUTUBE](https://goo.gl/mcGmDE)
 
 - [多項指標](https://watch.ncdr.nat.gov.tw/)
 

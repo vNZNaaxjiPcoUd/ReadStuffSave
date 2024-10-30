@@ -1,6 +1,6 @@
 # Weather
 
-- [24小時雨量預估](https://www.cwb.gov.tw/V8/C/P/QPF.html?active=1)
+- [24小時雨量預估](https://www.cwa.gov.tw/V8/C/P/QPF.html?active=1)
 
 - [暖暖天氣 weather channel](https://weather.com/zh-TW/weather/today/l/57fea153171ed4ef9490b844d8f667952e43705f59ecc07504d0e36f65bf3dc7)
 
@@ -20,7 +20,7 @@
 
 - [天氣 暖暖 ch](https://weather.com/zh-TW/weather/today/l/5ac08ccf28f50b5b054b496fdd9829201fe275f03caf5bba4e784ed530ff2ccf)
 
-- [天氣 暖暖 cwb](https://www.cwb.gov.tw/V8/C/W/Town/Town.html?TID=1001703)
+- [天氣 暖暖 cwb](https://www.cwa.gov.tw/V8/C/W/Town/Town.html?TID=1001703)
 
 - [天氣 碇內 acc](http://m.accuweather.com/zh/tw/dingan-village/2515679/hourly-weather-forecast/2515679)
 
@@ -36,11 +36,11 @@
 
 - [員山仔 分洪 數字](https://fhy.wra.gov.tw/kyszinfo/FloodData.aspx)
 
-- [雷雨即時消息](https://www.cwb.gov.tw/Data/warning/w33/thunderstorm.gif)
+- [雷雨即時消息](https://www.cwa.gov.tw/Data/warning/w33/thunderstorm.gif)
 
-- [雷達回波](https://www.cwb.gov.tw/V8/C/W/OBS_Radar.html)
+- [雷達回波](https://www.cwa.gov.tw/V8/C/W/OBS_Radar.html)
 
-- [潮高預測](https://www.cwb.gov.tw/V8/C/M/tide_height.html)
+- [潮高預測](https://www.cwa.gov.tw/V8/C/M/tide_height.html)
 
 - [櫻花衛星 即時相片 雲圖](http://himawari8.nict.go.jp/zh/himawari8-image.htm)
 

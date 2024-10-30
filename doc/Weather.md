@@ -77,3 +77,5 @@
 - [AQI TW forecast](https://taqm.epa.gov.tw/taqm/tw/AqiForecast.aspx)
 
 - [Windy](https://www.windyty.com/?25.046,121.553,6)
+
+- [Windy FL](https://www.windy.com/?2024110106,26.717,-82.863,6)

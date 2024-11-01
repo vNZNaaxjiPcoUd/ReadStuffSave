@@ -1,5 +1,5 @@
 ---
 layout: youtube
-title: V template
+title: 🎥 template
 song: CLNXiaY4uec
 ---

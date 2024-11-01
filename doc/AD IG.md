@@ -6,8 +6,6 @@
 
 ![](https://cdn.prod.website-files.com/6369b19afb2692645131f3fe/63fc74309c859754dfedd93c_author.svg)
 
-
-
 [
 
 甚麼是 IG Ads？
@@ -424,13 +422,7 @@ ChatMonster 提供 3 個核心功能：
 
 答案是：費用全免
 
-
-
-
-
 # [IG 廣告教學 2024｜網店投放 IG Ads 教學逐步看 | SHOPLINE 電商教室](https://blog.shopline.hk/how-to-promote-on-instagram/)
-
-
 
 ## 你要在Instagram發展你的品牌嗎？
 
@@ -581,10 +573,4 @@ SHOPLINE 全球智慧開店平台，為品牌提供一站式網店建立、管�
 
 自 2013 年創辦以來，全球已經有超過 600,000 個品牌使用 SHOPLINE 的服務成功開店， 透過創新的服務與國際化的團隊，持續為品牌賣家打造最好的產品和服務，以網店平台為核心，提供跨境、O2O 線上線下整合、POS 系統等全方位解決方案，更成為在亞洲市場的行業先驅。
 
-
-
 [Facebook營銷 | SHOPLINE 電商教室](https://blog.shopline.hk/category/facebook-marketing/)
-
-
-
-

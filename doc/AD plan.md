@@ -4,18 +4,12 @@
 
 https://www.hihitmedia.com.tw/ads-type/
 
-
-
 - [數位廣告的形式有哪些？一次了解5種廣告形式！](https://www.hihitmedia.com.tw/ads-type/#%E6%95%B8%E4%BD%8D%E5%BB%A3%E5%91%8A%E7%9A%84%E5%BD%A2%E5%BC%8F%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F%E4%B8%80%E6%AC%A1%E4%BA%86%E8%A7%A35%E7%A8%AE%E5%BB%A3%E5%91%8A%E5%BD%A2%E5%BC%8F%EF%BC%81 "數位廣告的形式有哪些？一次了解5種廣告形式！")
   - [Google多媒體聯播廣告](https://www.hihitmedia.com.tw/ads-type/#Google%E5%A4%9A%E5%AA%92%E9%AB%94%E8%81%AF%E6%92%AD%E5%BB%A3%E5%91%8A "Google多媒體聯播廣告")
   - [關鍵字廣告](https://www.hihitmedia.com.tw/ads-type/#%E9%97%9C%E9%8D%B5%E5%AD%97%E5%BB%A3%E5%91%8A "關鍵字廣告")
   - [Facebook廣告](https://www.hihitmedia.com.tw/ads-type/#Facebook%E5%BB%A3%E5%91%8A "Facebook廣告")
   - [購物廣告](https://www.hihitmedia.com.tw/ads-type/#%E8%B3%BC%E7%89%A9%E5%BB%A3%E5%91%8A "購物廣告")
   - [影片廣告](https://www.hihitmedia.com.tw/ads-type/#%E5%BD%B1%E7%89%87%E5%BB%A3%E5%91%8A "影片廣告")
-
-
-
-
 
 ### 數位廣告的形式有哪些？一次了解5種廣告形式！
 
@@ -66,12 +60,6 @@ FB廣告則是最多品牌與企業選擇的廣告方式，臉書廣告投放方
 ・YouTube影片廣告範例（翻攝至YouTube）
 
 看了這麼多種的廣告呈現與案例，你是不是也比較了解你的品牌適合什麼樣的廣告呈現呢？有時候不同特色的產品與服務，也有各自合適的廣告呈現方式，如果想要更加靈活運用廣告創意，就需要更深厚的操作經驗與想像，畢竟廣告也不是隨便配一張圖片與文案就可以達到很好的效果。
-
-
-
-
-
-
 
 # 媒體廣告策略如何擬定？
 
@@ -1215,5 +1203,3 @@ SEM是Search Engine Marketing的縮寫，也就是在包括Google和Bing這種�
 接著就是投放後的分析，透過持續追蹤廣告的成效、分析數據及調整，來確認所選擇的廣告類型是否有具體效益，無論選擇哪一種，或是多管齊下，能夠真正提升行銷效益的就是適合的廣告類型。
 
 品牌主首先要十分了解自己的服務與產品客群的特性，根據他們的生活習慣、興趣去規劃合適的廣告類型與廣告平台進行曝光，並且搭配有感的行銷文案、線上線下的活動策略，才能真正提高數位廣告的行銷效益。如果沒有行銷方面的人力，也可以將數位廣告的規劃交給專業的行銷公司執行，讓廣告預算能發揮更大的效用。
-
-

@@ -1,18 +1,10 @@
 # 臉書廣告
 
-
-
 ![【Meta Ads 前線】臉書廣告投放必知！新功能「提醒式廣告」 5 大產業應用心法](https://media.awoo.ai/live/wp-content/uploads/%E3%80%90Meta-Ads-%E5%89%8D%E7%B7%9A%E3%80%91%E8%87%89%E6%9B%B8%E5%BB%A3%E5%91%8A%E6%8A%95%E6%94%BE%E5%BF%85%E7%9F%A5%EF%BC%81%E6%96%B0%E5%8A%9F%E8%83%BD%E3%80%8C%E6%8F%90%E9%86%92%E5%BC%8F%E5%BB%A3%E5%91%8A%E3%80%8D-5-%E5%A4%A7%E7%94%A2%E6%A5%AD%E6%87%89%E7%94%A8%E5%BF%83%E6%B3%95-min-1000x625.png)
-
-
 
 Meta 廣告（Meta Ads）近期推出了新的廣告投放工具「[提醒式廣告](https://www.facebook.com/business/help/1219925265331911) （Reminder Ads）」，廣告主現在能夠利用提醒式廣告，通知使用者接下來品牌即將舉行的檔期活動、新品發布或銷售內容。特別是針對每年年底到年初，不間斷的電商購物季大檔（週年慶、年終慶、雙十、雙十一、雙十二、聖誕節、跨年、農曆年）將會非常實用。這些新工具可以與 Meta 廣告（Meta Ads）的 Advantage+ 購物活動結合使用，利用 AI 人工智慧來提高廣告行銷效果。廣告主現在有更多的廣告投放格式選擇，能夠實施更有創意的策略，提升臉書廣告行銷效果和擴大覆蓋範圍，以下本文將更近一步說明 3 個新功能的介紹。
 
 目錄
-
-
-
-
 
 ## Meta 廣告（Meta Ads）三大新功能
 
@@ -52,13 +44,7 @@ Meta 廣告（Meta Ads）近期推出了新的廣告投放工具「[提醒式廣
 
 # [【廣告小學堂】Facebook 廣告為何投不出去？按照步驟檢查，速解問題！ - MoBagel Blog](https://blog.mobagel.com/zh/meta-ads-cannot-post/)
 
-
-
-
-
 [![](https://blog.mobagel.com/wp-content/uploads/2024/05/20240517_Facebook%E5%BB%A3%E5%91%8A%E7%82%BA%E4%BD%95%E6%8A%95%E4%B8%8D%E5%87%BA%E5%8E%BB_blog-1.png)](https://blog.mobagel.com/wp-content/uploads/2024/05/20240517_Facebook%E5%BB%A3%E5%91%8A%E7%82%BA%E4%BD%95%E6%8A%95%E4%B8%8D%E5%87%BA%E5%8E%BB_blog-1.png)
-
-
 
 Facebook 廣告是極佳的付費流量來源之一，但它並不是完美無缺的網路行銷工具，更不是投入資金就能輕鬆獲得成功的簡單途徑。在廣告投放的過程中，常常會出現一些意料之外的「小插曲」，讓人感到困惑和無所適從，甚至不知道問題的根源在哪裡。例如：完成廣告投放流程之後還需要等待廣告通過批准並開始運作、廣告沒有任何曝光或互動、廣告被拒絕刊登等。你是否也曾經遇到這些情況呢？請繼續往下閱讀，我們將為您解答！
 
@@ -144,8 +130,6 @@ Facebook 廣告以競標方式運行。如果出價過低，廣告在競爭中�
 ## 
 
 # [Facebook 廣告收費準則解析：完整指南與突破盲點的秘訣 - MoBagel Blog](https://blog.mobagel.com/zh/facebook-advertising-guide-cost-insights/)
-
-
 
 - 
 1. [一、Facebook 廣告的收費計算邏輯](https://blog.mobagel.com/zh/facebook-advertising-guide-cost-insights/#%e4%b8%80%e3%80%81facebook-%e5%bb%a3%e5%91%8a%e7%9a%84%e6%94%b6%e8%b2%bb%e8%a8%88%e7%ae%97%e9%82%8f%e8%bc%af)

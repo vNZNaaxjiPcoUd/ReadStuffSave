@@ -1,4 +1,4 @@
-# 搞懂 YouTube 廣告格式和計價方法
+# ad 搞懂 YouTube 廣告格式和計價方法
 
 ![YouTube_intro_cover_1](https://website-ah-cdn.azureedge.net/wp-content/uploads/2023/09/YouTube%E6%95%99%E5%AD%B8_%E5%B7%A5%E4%BD%9C%E5%8D%80%E5%9F%9F-1.jpg)到 2022 年，45 歲以上用戶使用連網電視觀看 YouTube 影片的時間比 2019-2021 成長將近 5 倍。對於使用者來說，在智慧電視上看 YouTube 就跟打開電視看新聞一樣自然，多螢幕、跨裝置的觀看行為已成為新常態。無論是發掘新品牌、查找產品評價或是觀看輕鬆娛樂的影片，98% 的台灣用戶表示能在 YouTube 上找到「好的內容」。  
 想把握消費者挖掘資訊的平台並且靈活借助創作者的行銷力量，在 YouTube 這個兼具影音、社群、搜尋三大功能的媒體上接觸消費者，就讓 adHub 帶你認識 YouTube 的各種影音廣告，找尋最適合品牌行銷需求的廣告格式吧！

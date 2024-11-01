@@ -1,4 +1,4 @@
-# Google Ads
+# ad Google Ads
 
 [【Google Ads 教學】 五大類型廣告 - 基礎觀念篇](https://blog.gogopartners.com/google-ads%E6%95%99%E5%AD%B8)
 

@@ -1,5 +1,5 @@
 ---
-layout: empty
+layout: iframe
 title: View 500
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SR0aN_neEu8" title="Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="900" src="https://www.youtube.com/embed/SR0aN_neEu8" title="Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

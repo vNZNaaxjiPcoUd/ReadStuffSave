@@ -1,5 +1,5 @@
 ---
 layout: youtube
-title: 🎥 【一念】古琴vs簫
+title: 🎥 【一念】琴vs簫
 song: uRLFYxqZsP4
 ---

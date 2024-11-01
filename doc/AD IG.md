@@ -1,4 +1,4 @@
-# Instagram 廣告
+# ad Instagram 廣告
 
 [【IG 廣告教學】如何用 IG Ads 賺取回報？｜2024 Instagram 廣告懶人包｜ChatMonster](https://chatmonster.io/zh/blog/instagram-ads-guide)
 

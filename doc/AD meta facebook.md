@@ -1,4 +1,4 @@
-# 臉書廣告
+# ad 臉書廣告
 
 ![【Meta Ads 前線】臉書廣告投放必知！新功能「提醒式廣告」 5 大產業應用心法](https://media.awoo.ai/live/wp-content/uploads/%E3%80%90Meta-Ads-%E5%89%8D%E7%B7%9A%E3%80%91%E8%87%89%E6%9B%B8%E5%BB%A3%E5%91%8A%E6%8A%95%E6%94%BE%E5%BF%85%E7%9F%A5%EF%BC%81%E6%96%B0%E5%8A%9F%E8%83%BD%E3%80%8C%E6%8F%90%E9%86%92%E5%BC%8F%E5%BB%A3%E5%91%8A%E3%80%8D-5-%E5%A4%A7%E7%94%A2%E6%A5%AD%E6%87%89%E7%94%A8%E5%BF%83%E6%B3%95-min-1000x625.png)
 

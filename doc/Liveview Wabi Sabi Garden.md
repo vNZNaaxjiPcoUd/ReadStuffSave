@@ -1,5 +1,5 @@
 ---
 layout: youtube
-title: 🎥 Wabi Sabi Garden Small
+title: 🎥 Wabi Sabi Small Garden 
 song: y-xSQxZ8nhA
 ---

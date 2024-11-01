@@ -1,6 +1,6 @@
 ---
 layout: youtube
-title: 🎥 日本箏　和風、お茶会、和食
+title: 🎥 日本箏 料亭で流れてそうな曲
 song: 4cONuCvYnFU
 ---
 

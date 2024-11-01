@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -36,9 +35,9 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
 </style>
 <title>{% if page.title == "" %}{{ page.name }}{% else %}{{ page.title }}{% endif %}</title>
 </head>
-
 <body  class="mono">
+	<div class="container-lg px-3 my-5 markdown-body">
     {{ content }}
+	</div>
 </body>
-
 </html>

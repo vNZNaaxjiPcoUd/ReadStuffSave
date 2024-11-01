@@ -1,4 +1,4 @@
-🍀 **OWL** 
+**OWL** 
 ==========
 [AES](https://aes.jwint.net/)
 [Calculate](https://cal.jwint.net/)

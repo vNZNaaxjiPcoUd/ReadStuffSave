@@ -1,3 +1,4 @@
+# Adding DNS records to Squarespace
 # Adding custom DNS records to your Squarespace-managed domain
 
 #### Add custom DNS records to connect your site to the third-party tools you use, like Google Site Verification or Salesforce Marketing Cloud.

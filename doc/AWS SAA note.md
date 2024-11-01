@@ -1,4 +1,5 @@
-# AWS SAA (Solutions Architect Associate) Exam Study Note
+# AWS Solutions Architect Associate)
+## AWS SAA (Solutions Architect Associate) Exam Study Note
 
 ## 1. Amazon EC2 (Elastic Compute Cloud)
 

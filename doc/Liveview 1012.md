@@ -1,5 +1,5 @@
 ---
 layout: youtube
-title: View 101 2
+title: V 101
 song: z_fY1pj1VBw
 ---

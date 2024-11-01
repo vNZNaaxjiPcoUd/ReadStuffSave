@@ -1,5 +1,5 @@
 ---
 layout: youtube
-title: View template
+title: V template
 song: CLNXiaY4uec
 ---

@@ -1,5 +1,5 @@
 ---
 layout: youtube
-title: View 500
+title: V 500
 song: SR0aN_neEu8
 ---

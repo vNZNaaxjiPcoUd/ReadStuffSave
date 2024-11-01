@@ -1,5 +1,5 @@
 ---
 layout: youtube
-title: View Oldies
+title: V Oldies
 song: 0beRSynjNY0
 ---

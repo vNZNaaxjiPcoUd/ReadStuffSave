@@ -1,6 +1,6 @@
 # 台灣車宿免費地點推薦
 
-無論新手還是老手,以下台灣各地免費車泊地點,另外，[這裡是地圖](https://share.jwint.net/doc/mapParkingSleep.html)，也可以參考
+無論新手還是老手,以下台灣各地免費車泊地點,另外，[這裡是地圖](https://d.jwint.net/mapParkingSleep.html)，也可以參考
 
 台北：中山：美堤河濱公園
 

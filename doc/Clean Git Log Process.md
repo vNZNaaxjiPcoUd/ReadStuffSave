@@ -23,3 +23,16 @@ git push -f --set-upstream origin ex
 #git branch --set-upstream-to=origin/ex
 
 ```
+
+```
+# clean reflog
+git reflog expire --expire=Now --all
+```
+
+```
+# clean log
+git filter-branch --force --index-filter 'git rm -r --cached --ignore-unmatch .' --prune-empty --tag-name-filter cat -- --all
+git add --all
+git commit -m "new"
+git push -f
+```

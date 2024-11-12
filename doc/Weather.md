@@ -1,5 +1,9 @@
 # Weather
 
+- [十分鐘雨量](https://v.jwint.net/s/aaa241108155850.html)
+
+- [每小時雨量](https://v.jwint.net/s/aaa241108162010.html)
+
 - [24小時雨量預估](https://www.cwa.gov.tw/V8/C/P/QPF.html?active=1)
 
 - [暖暖天氣 weather channel](https://weather.com/zh-TW/weather/today/l/57fea153171ed4ef9490b844d8f667952e43705f59ecc07504d0e36f65bf3dc7)

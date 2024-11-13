@@ -1,8 +1,8 @@
 # Weather
 
-- [十分鐘雨量](https://v.jwint.net/s/aaa241108155850.html)
+- [十分鐘雨量](https://v.jwint.net/s/zzz241108155850.html)
 
-- [每小時雨量](https://v.jwint.net/s/aaa241108162010.html)
+- [每小時雨量](https://v.jwint.net/s/zzz241108162010.html)
 
 - [24小時雨量預估](https://www.cwa.gov.tw/V8/C/P/QPF.html?active=1)
 

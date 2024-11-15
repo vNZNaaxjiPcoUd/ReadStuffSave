@@ -1,4 +1,6 @@
-# How to install, Ollama on Windows, macOS, and Linux and run models using Ollama commands-Step-by-Step Guide:
+# Ollama in macOS
+
+## How to install, Ollama on Windows, macOS, and Linux and run models using Ollama commands-Step-by-Step Guide:
 
 [**Ollama Introduction:**Ollama is a tool which is used to set up and run opensource LLM in our local.](https://medium.com/@sridevi17j?source=post_page---byline--a00f21164bf3--------------------------------)
 

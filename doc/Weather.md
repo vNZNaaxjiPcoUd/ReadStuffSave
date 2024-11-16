@@ -1,7 +1,7 @@
 # Weather
 - [十分鐘雨量](https://v.jwint.net/s/zzz241108155850.html)
-- [每小時雨量](https://v.jwint.net/s/zzz241108162010.html)
-- [24小時雨量預估](https://www.cwa.gov.tw/V8/C/P/QPF.html?active=1)
+- [每小時雨量統計](https://v.jwint.net/s/zzz241108162010.html)
+- [未來一天雨量預估](https://www.cwa.gov.tw/V8/C/P/QPF.html?active=1)
 - [暖暖天氣 weather channel](https://weather.com/zh-TW/weather/today/l/57fea153171ed4ef9490b844d8f667952e43705f59ecc07504d0e36f65bf3dc7)
 - [杭州 Weather Channel](https://weather.com/zh-TW/weather/today/l/fee565cf20a9a749d8780bd09b5032cdb91825515dd4a296275619c3842a42e7)
 - [坦帕 Weather Channel](https://weather.com/zh-TW/weather/today/l/6c949adac64f3b2920519653c88e8a46f59f01c267f86e69d395373e91f7eab0)

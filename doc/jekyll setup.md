@@ -1,6 +1,9 @@
 jekyll setup
 ============
 [jeklly doc](https://jekyllrb.com/docs/variables/)
+
+[liquid](https://shopify.github.io/liquid/)
+
 [how to create a new share folder](https://jekyllrb.com/docs/step-by-step/09-collections/)
 
 1. create a folder like _fname

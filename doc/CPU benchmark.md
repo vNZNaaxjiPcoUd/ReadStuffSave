@@ -16,6 +16,8 @@ CPU Benchmark
  | 22583 |  | Apple M1 Max 10 Core 3200 MHz  | 
  | 41360 |  | Apple M1 Ultra 20 Core | 
  | 15363 |  | Apple M2 8 Core 3500 MHz | 
+ | 24400 | | [Apple M4 10 Core](https://www.cpubenchmark.net/cpu.php?cpu=Apple+M4+10+Core) |
+ | 33122 | | [Apple M4 Pro 12 Core](https://www.cpubenchmark.net/cpu.php?cpu=Apple+M4+Pro+12+Core)|
  | 9262  |  | AMD Ryzen 3 7320U | 
  | 16308 |  | AMD Ryzen 5 7530U | 
  | 17821 |  | AMD Ryzen 5 3600 | 

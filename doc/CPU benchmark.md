@@ -36,6 +36,44 @@ CPU Benchmark
 
 
 
+-------------------------------------------------------------
+
+## run test in NB
+```
+                   PassMark PerformanceTest Linux (11.0.1002)
+
+
+12th Gen Intel Core i5-1235U (x86_64)
+10 cores @ 4400 MHz  |  15.3 GiB RAM
+Number of Processes: 12  |  Test Iterations: 1  |  Test Duration: Medium
+--------------------------------------------------------------------------------
+CPU Mark:                          14301
+  Integer Math                     47305 Million Operations/s
+  Floating Point Math              29291 Million Operations/s
+  Prime Numbers                    32.2 Million Primes/s
+  Sorting                          23521 Thousand Strings/s
+  Encryption                       11277 MB/s
+  Compression                      169319 KB/s
+  CPU Single Threaded              3302 Million Operations/s
+  Physics                          715 Frames/s
+  Extended Instructions (SSE)      8955 Million Matrices/s
+
+Memory Mark:                       2696
+  Database Operations              5469 Thousand Operations/s
+  Memory Read Cached               32978 MB/s
+  Memory Read Uncached             16383 MB/s
+  Memory Write                     11595 MB/s
+  Available RAM                    7872 Megabytes
+  Memory Latency                   47 Nanoseconds
+  Memory Threaded                  35664 MB/s
+--------------------------------------------------------------------------------
+
+
+
+```
+
+
+
 
 
 - [inspiron-15-7559 game NB](https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_inspiron_laptop/inspiron-15-7559-laptop_reference%20guide_en-us.pdf)

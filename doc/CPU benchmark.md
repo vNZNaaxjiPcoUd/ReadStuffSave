@@ -3,21 +3,21 @@ CPU Benchmark
 
  |  benchmark  |  NB name    |  CPU  | 
  |    -:  |  :-:  |  :-  | 
- |  2296 |  NB ASUS old 17"    | i5-4210U CPU @ 1.70GHz  | 
- |  1752 |  thinkpad NB     | i5-540M @ 2.53GHz | 
+ |  2296 |  NB ASUS old 17"  anita old one  | i5-4210U CPU @ 1.70GHz  | 
+ |  1752 |  thinkpad NB | i5-540M @ 2.53GHz | 
  |  3136 |  think small box  | i5-4570T CPU @ 2.90GHz × 4 | 
- |  7681 |  macbookpro 2019 128MB eDRAM | i5,4cores 1.4GHz Boost 3.9GHz  | 
+ |  7681 |  macbookpro 2019 128MB eDRAM grace's | i5,4cores 1.4GHz Boost 3.9GHz  | 
  |  5890 |  Chrome book Acer  |  [i5-8250U](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-8250U+%40+1.60GHz) | 
- |  4700  |  inspiron-15-7559 game NB |  Intel Core i5-6300HQ anita's nb | 
- | 13564  |  Inspiron 15 3520 new NB |  Intel Core [i5-1235U](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-1235U)  | 
+ |  4700  |  inspiron-15-7559 anita game NB |  Intel Core i5-6300HQ | 
+ | 13564  |  Inspiron 15 3520 my dell new NB |  Intel Core [i5-1235U](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-1235U)  | 
  | OTHER | 
  | 14702 |  mac air  | Apple M1 8 Core 3200 MHz | 
  | 22267 |  | Apple M1 Pro 10 Core 3200 MHz | 
  | 22583 |  | Apple M1 Max 10 Core 3200 MHz  | 
  | 41360 |  | Apple M1 Ultra 20 Core | 
  | 15363 |  | Apple M2 8 Core 3500 MHz | 
- | 24400 | | [Apple M4 10 Core](https://www.cpubenchmark.net/cpu.php?cpu=Apple+M4+10+Core) |
- | 33122 | | [Apple M4 Pro 12 Core](https://www.cpubenchmark.net/cpu.php?cpu=Apple+M4+Pro+12+Core)|
+ | 24400 | mac mini m4 | [Apple M4 10 Core](https://www.cpubenchmark.net/cpu.php?cpu=Apple+M4+10+Core) |
+ | 33122 | mac mini m4 pro| [Apple M4 Pro 12 Core](https://www.cpubenchmark.net/cpu.php?cpu=Apple+M4+Pro+12+Core)|
  | 9262  |  | AMD Ryzen 3 7320U | 
  | 16308 |  | AMD Ryzen 5 7530U | 
  | 17821 |  | AMD Ryzen 5 3600 | 

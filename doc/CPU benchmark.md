@@ -16,6 +16,7 @@ CPU Benchmark
  | 22583 |  | Apple M1 Max 10 Core 3200 MHz  | 
  | 41360 |  | Apple M1 Ultra 20 Core | 
  | 15363 |  | Apple M2 8 Core 3500 MHz | 
+ | 18941 | | Apple M3 8 Core |
  | 24400 | mac mini m4 | [Apple M4 10 Core](https://www.cpubenchmark.net/cpu.php?cpu=Apple+M4+10+Core) |
  | 33122 | mac mini m4 pro| [Apple M4 Pro 12 Core](https://www.cpubenchmark.net/cpu.php?cpu=Apple+M4+Pro+12+Core)|
  | 9262  |  | AMD Ryzen 3 7320U | 
@@ -33,8 +34,7 @@ CPU Benchmark
  |  1577 |  | N4020 | 
  | 3079  |  | N6000 | 
  | 5594 | | [N100](https://www.cpubenchmark.net/cpu.php?cpu=Intel+N100&id=5157) |
-| 18941 | | Apple M3 8 Core |
-| 27158 | | Intel Core Ultra 9 185H |
+ | 27158 | | Intel Core Ultra 9 185H |
 
 
 

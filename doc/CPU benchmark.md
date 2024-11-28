@@ -7,9 +7,9 @@ CPU Benchmark
  |  1752 |  thinkpad NB     | i5-540M @ 2.53GHz | 
  |  3136 |  think small box  | i5-4570T CPU @ 2.90GHz × 4 | 
  |  7681 |  macbookpro 2019 128MB eDRAM | i5,4cores 1.4GHz Boost 3.9GHz  | 
- |  5890 |  Chrome book Acer  |  [i5-8250U](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-8250U+%40+1.60GHz&id=3042) | 
- |  4700  |  inspiron-15-7559 game NB |  Intel Core i5-6300HQ  | 
- | 13564  |  Inspiron 15 3520 new NB |  Intel Core [i5-1235U](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-1235U&id=4765)  | 
+ |  5890 |  Chrome book Acer  |  [i5-8250U](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-8250U+%40+1.60GHz) | 
+ |  4700  |  inspiron-15-7559 game NB |  Intel Core i5-6300HQ anita's nb | 
+ | 13564  |  Inspiron 15 3520 new NB |  Intel Core [i5-1235U](https://www.cpubenchmark.net/cpu.php?cpu=Intel+Core+i5-1235U)  | 
  | OTHER | 
  | 14702 |  mac air  | Apple M1 8 Core 3200 MHz | 
  | 22267 |  | Apple M1 Pro 10 Core 3200 MHz | 

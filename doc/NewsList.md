@@ -12,6 +12,7 @@
 - [自由時報 Food](https://food.ltn.com.tw/)
 - [未來城市](https://futurecity.cw.com.tw/)
 - [民報](https://www.peoplenews.tw/)
+- [香港新聞yahoo](https://hk.finance.yahoo.com/topic/latest-news/)
 - [早報 新加坡](https://www.zaobao.com.sg/welcomecn)
 - [自由亞洲電台](https://www.rfa.org/mandarin/)
 - [周末画报](https://www.modernweekly.com/)

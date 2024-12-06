@@ -10,3 +10,15 @@ layout: listpage
 {% for p in pp %}[🔹{{ p.title }} ]({{ p.url }}) {% endfor %}
 🍀
 
+🍀
+
+🍀
+
+🍀
+
+🍀
+
+{% assign pp = site.pages | sort_natural: "title" %}
+{% for p in pp %}
+[🔹{{ p.title }} ]({{ p.url }}) 
+{% endfor %}

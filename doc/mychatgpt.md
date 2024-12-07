@@ -1,5 +1,6 @@
-# **客製化 ChatGPT - My GPTs **
+# 客製化 ChatGPT - My GPTs 
 
+[Youtube 影片範例](https://www.youtube.com/watch?v=Qe9LLYOQrYs)
 
 
 跟 ChatGPT 過去的更新相比，這次真的是核彈級別的功能。

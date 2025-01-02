@@ -2,6 +2,9 @@
 - [十分鐘雨量](https://v.jwint.net/s/zzz241108155850.html)
 - [每小時雨量統計](https://v.jwint.net/s/zzz241108162010.html)
 - [未來一天雨量預估](https://www.cwa.gov.tw/V8/C/P/QPF.html?active=1)
+- [Windy](https://www.windyty.com/)
+- [Windy TW](https://www.windyty.com/?25.046,121.553,6)
+- [Windy FL](https://www.windy.com/?2024110106,26.717,-82.863,6)
 - [一週預報](https://www.cwa.gov.tw/V8/C/W/week.html)
 - [暖暖天氣 weather channel](https://weather.com/zh-TW/weather/today/l/57fea153171ed4ef9490b844d8f667952e43705f59ecc07504d0e36f65bf3dc7)
 - [杭州 Weather Channel](https://weather.com/zh-TW/weather/today/l/fee565cf20a9a749d8780bd09b5032cdb91825515dd4a296275619c3842a42e7)
@@ -40,5 +43,4 @@
 - [AQI Tampa](http://aqicn.org/city/usa/florida/pinellas/azalea-park/)
 - [AQI tampa USA](https://airnow.gov/index.cfm?action=airnow.local_city&mapcenter=0&cityid=14)
 - [AQI TW forecast](https://taqm.epa.gov.tw/taqm/tw/AqiForecast.aspx)
-- [Windy](https://www.windyty.com/?25.046,121.553,6)
-- [Windy FL](https://www.windy.com/?2024110106,26.717,-82.863,6)
+

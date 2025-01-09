@@ -1,9 +1,5 @@
 # Google NotebookLM 智能筆記助手，讓工作效率倍增的秘密武器
 
-by [joyce](https://digital-transformation.media/author/joyce/)[2024-10-16](https://digital-transformation.media/google-ai/notebooklm/)
-
-<img height="304" width="580" src="https://digital-transformation.media/wp-content/uploads/2024/10/news-cover_.png" />
-
 NotebookLM 是 Google 提供的一款免費 AI 工具，能讓你更快整理資訊、獲得答案。本文將介紹它的核心功能，解釋 NotebookLM 如何利用 RAG 技術即時提供精確資料，文末還為您介紹企業內部可以使用的 AI 工具，助您在 AI 時代提升工作效率，搶占先機。
 
 

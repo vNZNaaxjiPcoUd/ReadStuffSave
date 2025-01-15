@@ -2,6 +2,9 @@ AI prompt
 =========
 [https://www.llama.com/docs/how-to-guides/prompting/#crafting-effective-prompts
 ](https://www.llama.com/docs/how-to-guides/prompting/#crafting-effective-prompts)
+
+[https://docs.llamaindex.ai/en/stable/module_guides/models/prompts/](https://docs.llamaindex.ai/en/stable/module_guides/models/prompts/)
+
 # 提示
 
 [*連結到筆記本，*](https://github.com/meta-llama/llama-recipes/blob/main/recipes/quickstart/Prompt_Engineering_with_Llama_3.ipynb)*顯示本節討論的技術範例。*

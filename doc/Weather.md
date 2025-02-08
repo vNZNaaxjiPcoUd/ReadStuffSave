@@ -4,6 +4,7 @@
 - [未來一天雨量預估](https://www.cwa.gov.tw/V8/C/P/QPF.html?active=1)
 - [Windy](https://www.windyty.com/)
 - [五分山溫度](https://www.cwa.gov.tw/V8/C/W/OBS_Station.html?ID=C0AH3)
+- [暖暖溫度降雨](https://www.cwa.gov.tw/V8/C/W/OBS_Station.html?ID=C0B06)
 - [Windy TW](https://www.windyty.com/?25.046,121.553,6)
 - [Windy FL](https://www.windy.com/?2024110106,26.717,-82.863,6)
 - [一週預報](https://www.cwa.gov.tw/V8/C/W/week.html)
